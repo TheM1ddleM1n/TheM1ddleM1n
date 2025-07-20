@@ -1,4 +1,6 @@
 # 👋 Hello! I'm ModuleMaster64
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+ModuleMaster64;I+love+coding+fr+🔥;HTML,+Python,+JS+wizard!&center=true&width=500&height=50)](https://git.io/typing-svg)
+
 
 ### Welcome to my GitHub!
 
