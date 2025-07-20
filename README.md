@@ -10,5 +10,8 @@ Hello! Im ModuleMaster64! I like coding fr. most used coding languages - HTML (C
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+<img src="https://camo.githubusercontent.com/4e17f3063dc00556575fea378c73a7e5134f916bb0bb9387c4ca5e4d4d4e2f9f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6465626572672d3231383544303f7374796c653d706c6173746963266c6f676f3d436f646562657267266c6f676f436f6c6f723d7768697465" alt="Codeberg"/><img width="81" height="18" alt="image" src="https://github.com/user-attachments/assets/a548a2a6-3086-45ed-b159-25842fc3a350" />
+
+
 
 
