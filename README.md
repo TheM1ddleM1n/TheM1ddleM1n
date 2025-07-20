@@ -3,6 +3,13 @@
 ### Welcome to my GitHub!
 
 <!-- STATS-START -->
+
+**📊 GitHub Stats**
+
+- Followers: `15`
+- Public Repositories: `7`
+- Public Gists: `0`
+
 <!-- STATS-END -->
 
 
