@@ -9,5 +9,3 @@ Coding!
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-![codeberg](https://github.com/user-attachments/assets/a83b433e-5a5a-49e3-8e26-303a08fb3804)
-
