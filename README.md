@@ -1,17 +1,40 @@
-# 💫 About Me:
+# 👋 Hello! I'm ModuleMaster64
 
+### Welcome to my GitHub!
 
-Hello! Im ModuleMaster64! I like coding fr. most used coding languages - HTML (CSS), Python and JavaScript!
+I'm a passionate coder who enjoys building cool stuff with **HTML**, **CSS**, **JavaScript**, and **Python**.  
+I'm also a **co-dev for Impact/Vape for Miniblox!**
 
+---
 
-![JavaScript Badge](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## 📊 GitHub Stats
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ModuleMaster64's GitHub stats](https://github-readme-stats.vercel.app/api?username=ModuleMaster64&show_icons=true&theme=radical&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ModuleMaster64&layout=compact&theme=radical)
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+---
 
-<img src="https://camo.githubusercontent.com/4e17f3063dc00556575fea378c73a7e5134f916bb0bb9387c4ca5e4d4d4e2f9f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6465626572672d3231383544303f7374796c653d706c6173746963266c6f676f3d436f646562657267266c6f676f436f6c6f723d7768697465" alt="Codeberg"/><img width="81" height="18" alt="image" src="https://github.com/user-attachments/assets/a548a2a6-3086-45ed-b159-25842fc3a350" />
+## 💻 Languages & Tools
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 
+---
 
+## 📫 Contact Me
+
+Feel free to reach out if you're interested in collaborating or just want to connect!
+
+---
+
+## 🧪 Current Projects
+
+- Impact/Vape for Miniblox (Co-Dev)
+- More coming soon...
+
+---
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ModuleMaster64)
 
