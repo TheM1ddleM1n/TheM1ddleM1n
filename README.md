@@ -23,7 +23,7 @@ I'm also a **co-dev for Impact/Vape for Miniblox!**
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact Me (via github or codeberg - ee6-lang)
 
 Feel free to reach out if you're interested in collaborating or just want to connect!
 
@@ -32,7 +32,7 @@ Feel free to reach out if you're interested in collaborating or just want to con
 ## 🧪 Current Projects
 
 - Impact/Vape for Miniblox (Co-Dev)
-- More coming soon...
+- PythonPrograms
 
 ---
 
