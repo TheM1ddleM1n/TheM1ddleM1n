@@ -39,14 +39,12 @@ Feel free to reach out if you're interested in collaborating or just want to con
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ModuleMaster64)
 
 
-## 🎧 Featured Track
+## 🎧 RETRY! (WRYMGATE Remix)
 
-[![RETRY! by GASPXR](https://img.youtube.com/vi/VJxa3f6g4Bo/maxresdefault.jpg)](https://www.youtube.com/watch?v=VJxa3f6g4Bo)
-> *"Don't give up / You gotta press retry"* — GASPXR
+[![RETRY! Remix by WRYMGATE](https://img.youtube.com/vi/yQtz0VeuUIo/maxresdefault.jpg)](https://www.youtube.com/watch?v=yQtz0VeuUIo)
+> *"You gotta press retry..."* — slowed + reverb edition
 
-A high-energy anthem for coders, creators, and anyone who refuses to quit.  
-🔗 [Listen on Spotify](https://open.spotify.com/album/1zRc55FkMNhGrLy5JUafFs)  
-🔗 [Watch the Visualizer](https://www.youtube.com/watch?v=VJxa3f6g4Bo)  
-🔗 [Lyrics on Genius](https://genius.com/Ashgr3y-and-gaspxr-retry-remix-lyrics)
-
+A hypnotic rework of GASPXR’s original, perfect for late-night coding or introspective vibes.  
+🔗 [Listen on YouTube](https://www.youtube.com/watch?v=yQtz0VeuUIo)  
+🔗 [Stream on SoundCloud](https://soundcloud.com/wrymgate/reversed-intro-slowed-reverb-retry-gaspxr)
 
