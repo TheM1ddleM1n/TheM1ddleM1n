@@ -10,7 +10,7 @@ I'm also a **co-dev for Impact/Vape for Miniblox!**
 ## 📊 GitHub Stats
 
 ![ModuleMaster64's GitHub stats](https://github-readme-stats.vercel.app/api?username=ModuleMaster64&show_icons=true&theme=radical&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ModuleMaster64&layout=compact&theme=radical)
+<p align="center"> <img src="https://img.shields.io/badge/Python-45%25-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Usage" /> <img src="https://img.shields.io/badge/Lua-25%25-darkblue?style=for-the-badge&logo=lua&logoColor=white" alt="Lua Usage" /> <img src="https://img.shields.io/badge/JavaScript-15%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Usage" /> <img src="https://img.shields.io/badge/TypeScript-10%25-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Usage" /> <img src="https://img.shields.io/badge/HTML/CSS-5%25-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS Usage" /> </p>
 
 ---
 
