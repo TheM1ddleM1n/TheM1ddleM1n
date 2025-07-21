@@ -1,4 +1,3 @@
- 3. GitHub Actions workflow YAML
 rotate_workflow = '''
 name: GASPxR Rotator
 
