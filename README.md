@@ -6,8 +6,8 @@
 
 **📊 GitHub Stats**
 
-- Followers: `15`
-- Public Repositories: `7`
+- Followers: `0`
+- Public Repositories: `0`
 - Public Gists: `0`
 
 <!-- STATS-END -->
