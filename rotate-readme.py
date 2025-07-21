@@ -1,29 +1,38 @@
-# 2. rotate-readme.py content
-rotate_script = '''
-import json, random
+import json
+import random
 
 # Load track list
-with open("tracks.json", "r") as file:
-    tracks = json.load(file)
+with open("tracks.json", "r", encoding="utf-8") as f:
+    tracks = json.load(f)
 
+# Pick a random track
 track = random.choice(tracks)
-badge = f"[![Now Playing](https://readme-spotify-github.vercel.app/api/now-playing?artist=GASPxR&song={track['song'].replace(' ', '%20')})]({track['url']})"
 
-# Update README.md
-with open("README.md", "r") as file:
-    lines = file.readlines()
+# Build markdown block
+track_block = f"""
+## 🎧 Featured Track
 
-start, end = -1, -1
-for i, line in enumerate(lines):
-    if "NOW PLAYING START" in line:
-        start = i
-    if "NOW PLAYING END" in line:
-        end = i
+[![{track['title']} by {track['artist']}]({track['thumbnail']})]({track['url']})
+> *"{track['quote']}"* — {track['version']}
 
-if start != -1 and end != -1:
-    lines[start+1:end] = [badge + "\\n"]
+A {track['style']} rework, perfect for {track['vibe']}.  
+🔗 [Listen on YouTube]({track['url']})  
+🔗 [Stream on SoundCloud]({track['soundcloud']})
+"""
 
-with open("README.md", "w") as file:
-    file.writelines(lines)
-'''
+# Update README.md between markers
+with open("README.md", "r", encoding="utf-8") as f:
+    readme = f.read()
 
+start_marker = "<!-- TRACK-START -->"
+end_marker = "<!-- TRACK-END -->"
+
+before, _, rest = readme.partition(start_marker)
+_, _, after = rest.partition(end_marker)
+
+new_readme = f"{before}{start_marker}\n{track_block}\n{end_marker}{after}"
+
+with open("README.md", "w", encoding="utf-8") as f:
+    f.write(new_readme)
+
+print("✅ Featured track rotated successfully.")
