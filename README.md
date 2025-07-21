@@ -2,16 +2,6 @@
 
 ### Welcome to my GitHub!
 
-<!-- STATS-START -->
-
-**📊 GitHub Stats**
-
-- Followers: `0`
-- Public Repositories: `0`
-- Public Gists: `0`
-
-<!-- STATS-END -->
-
 I'm a passionate coder who enjoys building cool stuff with **HTML**, **CSS**, **JavaScript**, and **Python**.  
 I'm also a **co-dev for Impact/Vape for Miniblox!**
 
