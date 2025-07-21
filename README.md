@@ -12,14 +12,6 @@
 
 <!-- STATS-END -->
 
-## 🎧 GASPxR Now Playing
-
-<!-- NOW PLAYING START -->
-[![Now Playing](https://readme-spotify-github.vercel.app/api/now-playing?artist=GASPxR&song=RETRY!)](https://open.spotify.com/search/GASPxR%20RETRY!)
-<!-- NOW PLAYING END -->
-
-
-
 I'm a passionate coder who enjoys building cool stuff with **HTML**, **CSS**, **JavaScript**, and **Python**.  
 I'm also a **co-dev for Impact/Vape for Miniblox!**
 
