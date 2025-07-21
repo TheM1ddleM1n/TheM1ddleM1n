@@ -1,14 +1,14 @@
-rotate_workflow = '''
 name: GASPxR Rotator
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"  # Every 12 hours
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -28,13 +28,3 @@ jobs:
           git add README.md
           git commit -m "🔁 Rotated GASPxR track"
           git push
-'''
-
-# Save files
-from pathlib import Path
-
-Path("/mnt/data/tracks.json").write_text(tracks_json)
-Path("/mnt/data/rotate-readme.py").write_text(rotate_script.strip())
-Path("/mnt/data/rotate.yml").write_text(rotate_workflow.strip())
-
-"/mnt/data/tracks.json", "/mnt/data/rotate-readme.py", "/mnt/data/rotate.yml"
