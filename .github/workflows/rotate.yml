@@ -1,0 +1,41 @@
+ 3. GitHub Actions workflow YAML
+rotate_workflow = '''
+name: GASPxR Rotator
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+
+      - name: Rotate GASPxR Track
+        run: python rotate-readme.py
+
+      - name: Commit & Push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "🔁 Rotated GASPxR track"
+          git push
+'''
+
+# Save files
+from pathlib import Path
+
+Path("/mnt/data/tracks.json").write_text(tracks_json)
+Path("/mnt/data/rotate-readme.py").write_text(rotate_script.strip())
+Path("/mnt/data/rotate.yml").write_text(rotate_workflow.strip())
+
+"/mnt/data/tracks.json", "/mnt/data/rotate-readme.py", "/mnt/data/rotate.yml"
