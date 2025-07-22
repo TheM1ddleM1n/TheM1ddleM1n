@@ -3,7 +3,7 @@
 ### Welcome to my GitHub!
 
 I'm a passionate coder who enjoys building cool stuff with **HTML**, **CSS**, **JavaScript**, and **Python**.  
-I'm also a **co-dev for Impact/Vape for Miniblox!**
+I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!**
 
 ---
 
@@ -32,9 +32,9 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 
 ## 🧪 Current Projects
 
-- Impact/Vape for Miniblox (Co-Dev)
-- Or Miniblox v4
-- PythonPrograms
+- Impact/Vape for Miniblox (Co-Dev) - https://codeberg.org/RealPacket/VapeForMiniblox or https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2 (your choice!)
+- Or Miniblox v4 - https://codeberg.org/ee6-lang/MinibloxV4
+- PythonPrograms - https://github.com/ModuleMaster64/PythonPrograms
 
 ---
 **Listening to GASPXR**
