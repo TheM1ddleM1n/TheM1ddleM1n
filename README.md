@@ -33,6 +33,7 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 ## 🧪 Current Projects
 
 - Impact/Vape for Miniblox (Co-Dev)
+- Or Miniblox v4
 - PythonPrograms
 
 ---
