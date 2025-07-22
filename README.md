@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+ModuleMaster64;I+love+coding+fr+🔥;HTML,+Python,+JS+wizard!&center=true&width=500&height=50)](https://git.io/typing-svg)
 
-### Welcome to my GitHub!
+### Welcome to my GitHub readme!
 
 I'm a passionate coder who enjoys building cool stuff with **HTML**, **CSS**, **JavaScript**, and **Python**.  
 I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!**
