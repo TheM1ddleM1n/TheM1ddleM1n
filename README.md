@@ -3,7 +3,7 @@
 ### Welcome to my GitHub readme!
 
 I'm a passionate coder who enjoys building cool stuff with **HTML**, **CSS**, **JavaScript**, and **Python**.  
-I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!**
+I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!** and **Owner Of Miniblox v4!**
 
 ---
 
@@ -33,16 +33,16 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 ## 🧪 Current Projects
 
 - Impact/Vape for Miniblox (Co-Dev) - https://codeberg.org/RealPacket/VapeForMiniblox or https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2 (your choice!)
-- Or Miniblox v4 - https://codeberg.org/ee6-lang/MinibloxV4
+- Or Miniblox v4 (owner) - https://codeberg.org/ee6-lang/MinibloxV4
 - PythonPrograms - https://github.com/ModuleMaster64/PythonPrograms
 
 ---
-**Listening to GASPXR**
+**Listening to PHONK**
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ModuleMaster64)
 
 
-## 🎧 RETRY! (WRYMGATE Remix)
+## 🎧 RETRY! (WRYMGATE Remix) - GASPXR
 
 [![RETRY! Remix by WRYMGATE](https://img.youtube.com/vi/yQtz0VeuUIo/maxresdefault.jpg)](https://www.youtube.com/watch?v=yQtz0VeuUIo)
 > *"You gotta press retry..."* — slowed + reverb edition
