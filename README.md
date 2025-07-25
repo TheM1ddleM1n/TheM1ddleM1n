@@ -30,7 +30,7 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 
 ---
 
-## 🧪 Current Projects
+## 🧪 Current Projects im working on!
 
 - Impact/Vape for Miniblox (Co-Dev) - https://codeberg.org/RealPacket/VapeForMiniblox or https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2 (your choice!)
 - Or Miniblox v4 (owner) - https://codeberg.org/ee6-lang/MinibloxV4
@@ -38,7 +38,7 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 - Miniblox Bundle Tracker - https://codeberg.org/ee6-lang/miniblox-bundle-tracker (updated to chore: update bundle to Cs3s0Mpd [boring])
 
 ---
-**Listening to PHONK**
+
 ![giphy](https://github.com/user-attachments/assets/2e6b2051-0452-46cb-847c-9dd38a437f65)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ModuleMaster64)
