@@ -39,6 +39,7 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 
 ---
 **Listening to PHONK**
+![giphy](https://github.com/user-attachments/assets/2e6b2051-0452-46cb-847c-9dd38a437f65)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ModuleMaster64)
 
