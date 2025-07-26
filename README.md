@@ -66,6 +66,4 @@ A hypnotic rework of GASPXR’s original, perfect for late-night coding or intro
 
 [![Watch on YouTube](https://img.youtube.com/vi/_W4Cpw260Bg/0.jpg)](https://www.youtube.com/watch?v=_W4Cpw260Bg)
 
-A slowed-down Brazilian phonk banger packed with drift energy, reverb waves, and pure GASPxR intensity.
-
 
