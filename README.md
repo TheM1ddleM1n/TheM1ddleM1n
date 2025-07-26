@@ -62,3 +62,10 @@ A hypnotic rework of GASPXR’s original, perfect for late-night coding or intro
 🔗 [Listen on YouTube](https://www.youtube.com/watch?v=yQtz0VeuUIo)  
 🔗 [Stream on SoundCloud](https://soundcloud.com/wrymgate/reversed-intro-slowed-reverb-retry-gaspxr)
 
+## 🔊 MONTAGEM SUPERSONIC (SLOWED) by Haza Sounds
+
+[![Watch on YouTube](https://img.youtube.com/vi/_W4Cpw260Bg/0.jpg)](https://www.youtube.com/watch?v=_W4Cpw260Bg)
+
+A slowed-down Brazilian phonk banger packed with drift energy, reverb waves, and pure GASPxR intensity.
+
+
