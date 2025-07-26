@@ -31,7 +31,7 @@ I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!** and **Owner Of M
 
 ---
 
-**THE GOATS**
+**THE GOATS who have developed vape/impact v4!**
 
 <a href="https://github.com/ProgMEM-CC">
   <img src="https://github.com/ProgMEM-CC.png" width="50" style="border-radius:50%" />
@@ -39,6 +39,10 @@ I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!** and **Owner Of M
 <a href="https://codeberg.org/RealPacket">
   <img src="https://codeberg.org/RealPacket.png" width="50" style="border-radius:50%" />
 </a>
+<a href="https://github.com/7GrandDadPGN" title="7GrandDad – VapeV4 & MinibloxTranslationLayer">
+  <img src="https://github.com/7GrandDadPGN.png" width="50" style="border-radius:50%; box-shadow: 0 0 5px #f77473;" />
+</a>
+
 
 
 ## 📫 Contact Me (via github or codeberg - ee6-lang)
