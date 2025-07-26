@@ -31,6 +31,16 @@ I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!** and **Owner Of M
 
 ---
 
+**THE GOATS**
+
+<a href="https://github.com/ProgMEM-CC">
+  <img src="https://github.com/ProgMEM-CC.png" width="50" style="border-radius:50%" />
+</a>
+<a href="https://codeberg.org/RealPacket">
+  <img src="https://codeberg.org/RealPacket/avatar.png" width="50" style="border-radius:50%" />
+</a>
+
+
 ## 📫 Contact Me (via github or codeberg - ee6-lang)
 
 Feel free to reach out if you're interested in collaborating or just want to chat!
