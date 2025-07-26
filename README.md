@@ -37,7 +37,7 @@ I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!** and **Owner Of M
   <img src="https://github.com/ProgMEM-CC.png" width="50" style="border-radius:50%" />
 </a>
 <a href="https://codeberg.org/RealPacket">
-  <img src="https://codeberg.org/RealPacket/avatar.png" width="50" style="border-radius:50%" />
+  <img src="https://codeberg.org/RealPacket.png" width="50" style="border-radius:50%" />
 </a>
 
 
