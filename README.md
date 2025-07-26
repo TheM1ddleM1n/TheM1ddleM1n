@@ -15,7 +15,7 @@ I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!** and **Owner Of M
 
 ![Powered by Miniblox](https://img.shields.io/badge/Powered%20by-Miniblox!-blue?style=for-the-badge&logo=javascript&logoColor=white)
 ![Miniblox Dev](https://img.shields.io/badge/MinibloxScripter-Developer!-orange?style=for-the-badge&logo=code&logoColor=white)
-![Collab King ProgMEM-CC](https://img.shields.io/badge/Collab%20King-ProgMEM--CC-orange?style=for-the-badge&logo=javascript)
+![Collab King ProgMEM-CC](https://img.shields.io/badge/Collab%20King-ProgMEM--CC-red?style=for-the-badge&logo=javascript)
 
 
 
