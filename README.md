@@ -45,6 +45,10 @@ I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!** and **Owner Of M
 <a href="https://github.com/he557" title="he557 – Dev & Collaborator">
   <img src="https://github.com/he557.png" width="50" style="border-radius:50%; box-shadow: 0 0 5px #00bcd4;" />
 </a>
+<a href="https://github.com/ModuleMaster64" title="ModuleMaster64 – Owner of Miniblox v4 & Python wizard">
+  <img src="https://github.com/ModuleMaster64.png" width="60" style="border-radius:50%; box-shadow: 0 0 8px #f77473;" />
+</a>
+
 
 
 
