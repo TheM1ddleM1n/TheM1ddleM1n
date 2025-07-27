@@ -66,7 +66,7 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 - Impact/Vape for Miniblox (Co-Dev) - https://codeberg.org/RealPacket/VapeForMiniblox or https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2 (your choice!)
 - Or Miniblox v4 (owner) - https://codeberg.org/ee6-lang/MinibloxV4
 - PythonPrograms - https://github.com/ModuleMaster64/PythonPrograms
-- Miniblox Bundle Tracker (either on github or codeberg. but i used the codeberg one) - https://codeberg.org/ee6-lang/miniblox-bundle-tracker (last updated to chore: update bundle to Cs3s0Mpd [boring])
+- Miniblox Bundle Tracker (codeberg doesnt work on github for me..) - https://codeberg.org/ee6-lang/miniblox-bundle-tracker (last updated to chore: update bundle to Cs3s0Mpd [boring])
 
 ---
 
