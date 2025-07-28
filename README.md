@@ -11,7 +11,7 @@ I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!** and **Owner Of M
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ModuleMaster64&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ModuleMaster64&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ModuleMaster64)](https://git.io/streak-stats)
 
 ![Powered by Miniblox](https://img.shields.io/badge/Powered%20by-Miniblox!-blue?style=for-the-badge&logo=javascript&logoColor=white)
 ![Miniblox Dev](https://img.shields.io/badge/MinibloxScripter-Developer!-orange?style=for-the-badge&logo=code&logoColor=white)
