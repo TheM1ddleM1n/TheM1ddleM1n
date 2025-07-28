@@ -53,7 +53,7 @@ I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!** and **Owner Of M
 
 
 
-## 📫 Contact Me (via github or codeberg - ee6-lang)
+## 📫 Contact Me (***ONLY*** VIA github or codeberg) (user - ee6-lang)
 
 Feel free to reach out if you're interested in collaborating or just want to chat!
 - [Codeberg – ee6-lang](https://codeberg.org/ee6-lang)
