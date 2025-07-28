@@ -6,6 +6,7 @@ I'm a passionate coder who enjoys building cool stuff with **HTML**, **CSS**, **
 I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!** and **Owner Of Miniblox v4!**
 
 <img src="https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/64faef130b6a50572ea56246_94.png" alt="emoji 1" style="width: 50px; height: 50px;"/>
+<img src="https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/66e99e5dd94d5706e89ca660_52.png" alt="emoji 1" style="width: 50px; height: 50px;"/>
 
 
 ---
