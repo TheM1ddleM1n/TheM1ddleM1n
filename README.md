@@ -5,7 +5,7 @@
 I'm a passionate coder who enjoys building cool stuff with **HTML**, **CSS**, **JavaScript**, and **Python**.  
 I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!** and **Owner Of Miniblox v4!**
 
-<img src="https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/64faef130b6a50572ea56246_94.png"/><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/397a6d65-3b58-4ff9-831f-6ba35f4622c2" />
+<img src="https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/64faef130b6a50572ea56246_94.png"/><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/397a6d65-3b58-4ff9-831f-6ba35f4622c2" />
 
 
 ---
