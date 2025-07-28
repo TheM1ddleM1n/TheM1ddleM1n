@@ -79,7 +79,7 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ModuleMaster64)
 
 
-## 🎧 RETRY! (WRYMGATE Remix) - GASPXR
+**TOP TRACK OF JULY** - ## 🎧 RETRY! (WRYMGATE Remix) - GASPXR
 
 [![RETRY! Remix by WRYMGATE](https://img.youtube.com/vi/yQtz0VeuUIo/maxresdefault.jpg)](https://www.youtube.com/watch?v=yQtz0VeuUIo)
 > *"You gotta press retry..."* — slowed + reverb edition
@@ -87,9 +87,3 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 A hypnotic rework of GASPXR’s original, perfect for late-night coding or introspective vibes.  
 🔗 [Listen on YouTube](https://www.youtube.com/watch?v=yQtz0VeuUIo)  
 🔗 [Stream on SoundCloud](https://soundcloud.com/wrymgate/reversed-intro-slowed-reverb-retry-gaspxr)
-
-## 🔊 MONTAGEM SUPERSONIC (SLOWED) by Haza Sounds
-
-[![Watch on YouTube](https://img.youtube.com/vi/_W4Cpw260Bg/0.jpg)](https://www.youtube.com/watch?v=_W4Cpw260Bg)
-
-
