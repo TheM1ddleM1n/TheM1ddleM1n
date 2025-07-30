@@ -110,3 +110,32 @@ A hypnotic rework of GASPXR’s original, perfect for late-night coding or intro
              ooO Ooo
 </pre>
 
+<details>
+<summary>🧨 Launch Diagnostic Mode</summary>
+
+$ initializing miniblox-ops --mode debug  
+✓ Boot sequence triggered  
+✓ ModuleMaster64 identity verified  
+✓ Guardian Of the Galaxy: Active  
+✓ Snack protocols: 🍫 detected  
+—
+
+Running diagnostic...
+
+[WARN] Recursive recursion detected  
+[INFO] Miniblox script velocity: 9000 rpm  
+[ERROR] Meme threshold exceeded. System giggling uncontrollably.  
+[SYS] Unused codebase fragments found in dimension 4D.
+
+Injecting humor drivers...  
+Overclocking README enthusiasm...  
+Deploying surprise ASCII...
+
+  .--.      .--.      .--.      .--.    
+ ( o_O)    ( -_-)    ( ʘ‿ʘ )   (='.'=)   
+ /|  |      /|  |      /|  |     /|  |\   
+
+>>> All systems nominal. Vibes: immaculate ✅
+
+</details>
+
