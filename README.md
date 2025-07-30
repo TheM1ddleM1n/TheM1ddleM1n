@@ -89,3 +89,24 @@ A hypnotic rework of GASPXR’s original, perfect for late-night coding or intro
 🔗 [Stream on SoundCloud](https://soundcloud.com/wrymgate/reversed-intro-slowed-reverb-retry-gaspxr)
 
 **TOP TRACK OF AUGUST - COMING SOON in 2 days**
+
+
+
+
+
+
+
+
+<!-- ASCII art for elite scrollers -->
+<pre>
+             (o o)
+    +----oOO--(_)-------------+
+    |    you saw this frog    |
+    |    you're now certified |
+    |     README explorer 🏅   |
+    +------------------oOO----+
+             |__|__|
+              || ||
+             ooO Ooo
+</pre>
+
