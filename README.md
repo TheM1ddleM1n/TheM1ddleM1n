@@ -88,7 +88,7 @@ A hypnotic rework of GASPXR’s original, perfect for late-night coding or intro
 🔗 [Listen on YouTube](https://www.youtube.com/watch?v=yQtz0VeuUIo)  
 🔗 [Stream on SoundCloud](https://soundcloud.com/wrymgate/reversed-intro-slowed-reverb-retry-gaspxr)
 
-**TOP TRACK OF AUGUST - COMING SOON in 2 days**
+**TOP TRACK OF AUGUST - HYPONOSAES ESPECTRAL 2!** (https://i.ytimg.com/an_webp/AKGLvbjwosk/mqdefault_6s.webp?du=3000&sqp=CJ3ussQG&rs=AOn4CLA8N9aPYLELCm2UEJEIO8UsQnmFiw)
 
 
 
