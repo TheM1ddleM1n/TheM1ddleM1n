@@ -79,22 +79,9 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ModuleMaster64)
 
 
-**TOP TRACK OF JULY** - ## 🎧 RETRY! (WRYMGATE Remix) - GASPXR
-
-[![RETRY! Remix by WRYMGATE](https://img.youtube.com/vi/yQtz0VeuUIo/maxresdefault.jpg)](https://www.youtube.com/watch?v=yQtz0VeuUIo)
-> *"You gotta press retry..."* — slowed + reverb edition
-
-A hypnotic rework of GASPXR’s original, perfect for late-night coding or introspective vibes.  
-🔗 [Listen on YouTube](https://www.youtube.com/watch?v=yQtz0VeuUIo)  
-🔗 [Stream on SoundCloud](https://soundcloud.com/wrymgate/reversed-intro-slowed-reverb-retry-gaspxr)
-
-**TOP TRACK OF AUGUST - HYPONOSAES ESPECTRAL 2!** ![Thumbnail](https://i.ytimg.com/an_webp/AKGLvbjwosk/mqdefault_6s.webp?du=3000&sqp=CJ3ussQG&rs=AOn4CLA8N9aPYLELCm2UEJEIO8UsQnmFiw)
+**TOP TRACK OF AUGUST - HYPONOSAES ESPECTRAL 2!** 
+![Thumbnail](https://i.ytimg.com/an_webp/AKGLvbjwosk/mqdefault_6s.webp?du=3000&sqp=CJ3ussQG&rs=AOn4CLA8N9aPYLELCm2UEJEIO8UsQnmFiw)
 [Listen on Youtube!](https://www.youtube.com/watch?v=AKGLvbjwosk)
-
-
-
-
-
 
 
 
