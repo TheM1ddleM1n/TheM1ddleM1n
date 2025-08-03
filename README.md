@@ -81,8 +81,6 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 
 **TOP TRACK OF AUGUST - HYPONOSAES ESPECTRAL 2!** 
 
-![Thumbnail](https://i.ytimg.com/an_webp/AKGLvbjwosk/mqdefault_6s.webp?du=3000&sqp=CJ3ussQG&rs=AOn4CLA8N9aPYLELCm2UEJEIO8UsQnmFiw)
-
 [Listen on Youtube!](https://www.youtube.com/watch?v=AKGLvbjwosk)
 
 
