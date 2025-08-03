@@ -1,6 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77473&background=0000FF00&width=435&lines=Hey+there+ModuleMaster64+here!;I+love+to+code+fr+%3A0;HMTL%2C+python+and+JS+wizard;Always+wishing+everyone+a+fab+day!)](https://git.io/typing-svg)
 
-### Welcome to my GitHub readme!
+### Welcome to my GitHub readme! 
+
+<a href="https://github.com/ModuleMaster64" title="ModuleMaster64">
+  <img src="https://github.com/ModuleMaster64.png" width="70" style="border-radius:50%; box-shadow: 0 0 8px #f77473;" />
+</a>
 
 I'm a passionate coder who enjoys building cool stuff with **HTML**, **CSS**, **JavaScript**, and **Python**.  
 I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!** and **Owner Of Miniblox v4!**
