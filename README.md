@@ -14,7 +14,9 @@ I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!** and **Owner Of M
 
 ---
 
-![ModuleMaster64's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ModuleMaster64&show_icons=true&theme=tokyonight&count_private=true)
+![Recent](https://gitmystat.vercel.app/recent?theme=our-theme&username=ModuleMaster64)
+
+![User](https://gitmystat.vercel.app/user?theme=tokyoday&username=ModuleMaster64)
 
 ![Lang](https://gitmystat.vercel.app/top?theme=discord&username=ModuleMaster64&layout=bar)
 
