@@ -30,7 +30,7 @@ I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!** and **Owner Of M
 
 ---
 
-## 💻 Languages & Tools
+## 💻 Languages & Tools that i use (somewhat) daily!
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -40,7 +40,7 @@ I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!** and **Owner Of M
 
 ---
 
-**THE GOATS who have developed vape/impact v4!**
+**THE GOATS who have developed Vape or Impact v4!**
 
 <a href="https://github.com/ProgMEM-CC">
   <img src="https://github.com/ProgMEM-CC.png" width="50" style="border-radius:50%" />
