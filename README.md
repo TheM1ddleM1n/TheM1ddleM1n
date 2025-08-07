@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77473&background=0000FF00&width=435&lines=Hey+there+ModuleMaster64+here!;I+love+to+code+fr+%3A0;HMTL%2C+python+and+JS+wizard;Always+wishing+everyone+a+fabulous+day!🤑)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77473&background=0000FF00&width=435&lines=Hey+there+ModuleMaster64+here!;I+love+to+code+fr+%3A0;HMTL%2C+python+and+JS+wizard;Always+wishing+everyone+a+fabulous+day!)](https://git.io/typing-svg)
 
 ### Welcome to my GitHub readme! 
 
