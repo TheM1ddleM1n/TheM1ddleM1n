@@ -151,7 +151,8 @@ Well done, you may now join the README Illuminati.
 
 ## 🎧 Vibes of the Week
 
-[![My Playlist Cover](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3rCQp8)
+![Spotify Recently Played](https://spotify-github-profile.vercel.app/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)
+
 
 
 
