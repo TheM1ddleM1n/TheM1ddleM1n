@@ -101,6 +101,10 @@ Feel free to reach out if you're interested in collaborating or just want to cha
              ooO Ooo
 </pre>
 
+<iframe src="https://ghbtns.com/github-btn.html?user=ModuleMaster64&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="230" height="30" title="GitHub"></iframe>
+
+<iframe src="https://ghbtns.com/github-btn.html?user=ModuleMaster64&type=follow&count=true" frameborder="0" scrolling="0" width="170" height="20" title="GitHub"></iframe>
+
 <details>
 <summary>🧨 Launch Diagnostic Mode</summary>
 
