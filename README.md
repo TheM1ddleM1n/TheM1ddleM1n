@@ -2,9 +2,36 @@
 
 ### Welcome to my GitHub readme! 
 
-<a href="https://github.com/ModuleMaster64" title="ModuleMaster64">
-  <img src="https://github.com/ModuleMaster64.png" width="70" style="border-radius:50%; box-shadow: 0 0 8px #f77473;" />
-</a>
+<svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font-family: 'Courier New', monospace;
+      font-size: 48px;
+      fill: #00ffcc;
+      animation: typing 3s steps(14, end), blink 0.7s step-end infinite;
+      white-space: nowrap;
+      overflow: hidden;
+    }
+
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 14ch }
+    }
+
+    @keyframes blink {
+      50% { opacity: 0 }
+    }
+
+    .cursor {
+      font-size: 48px;
+      fill: #00ffcc;
+      animation: blink 0.7s step-end infinite;
+    }
+  </style>
+
+  <text x="20" y="60" class="text">M0duleMaster64</text>
+  <text x="20" y="60" class="cursor">|</text>
+</svg>
 
 I'm a passionate coder who enjoys building cool stuff with **HTML**, **CSS**, **JavaScript**, and **Python**.  
 I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!** and **Owner Of Miniblox v4!**
