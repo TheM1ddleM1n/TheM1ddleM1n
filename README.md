@@ -148,7 +148,7 @@ Well done, you may now join the README Illuminati.
 
 ## 🎧 LISTEN TO WHAT IM LISTENING TO ON SPOTIFY!
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ts5yr6rawtr4vebnzoiwmazkka&cover_image=true&theme=default&show_offline=false&background_color=00ffee&interchange=true&bar_color=ff1e05&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ts5yr6rawtr4vebnzoiwmazkka&cover_image=true&theme=apple&show_offline=false&background_color=000000&interchange=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ts5yr6rawtr4vebnzoiwmazkka&redirect=true)
 
 
 
