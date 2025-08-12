@@ -101,9 +101,7 @@ Feel free to reach out if you're interested in collaborating or just want to cha
              ooO Ooo
 </pre>
 
-![Github](src="https://ghbtns.com/github-btn.html?user=ModuleMaster64&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="230" height="30" title="GitHub")
-
-![Github](src="https://ghbtns.com/github-btn.html?user=ModuleMaster64&type=follow&count=true" frameborder="0" scrolling="0" width="170" height="20" title="GitHub")
+[![Follow @ModuleMaster64](https://img.shields.io/github/followers/ModuleMaster64?label=Follow&style=social)](https://github.com/ModuleMaster64)
 
 <details>
 <summary>🧨 Launch Diagnostic Mode</summary>
