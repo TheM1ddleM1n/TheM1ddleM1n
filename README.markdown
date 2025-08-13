@@ -76,6 +76,7 @@ Coding quotes fr 🖥️
 Feel free to reach out if you're interested in collaborating or just want to chat!
 - [Codeberg – ee6-lang](https://codeberg.org/ee6-lang)
 - [Github - ModuleMaster64](https://github.com/ModuleMaster64)
+- [Atabook](https://modulemaster64.atabook.org/)
 
 ---
 
