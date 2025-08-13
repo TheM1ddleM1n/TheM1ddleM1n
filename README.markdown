@@ -60,6 +60,9 @@ Coding quotes fr 🖥️
 <a href="https://github.com/he557" title="he557 – Dev & Collaborator">
   <img src="https://github.com/he557.png" width="50" style="border-radius:50%; box-shadow: 0 0 5px #00bcd4;" />
 </a>
+<a href="https://github.com/BlueDragon7327" title="BlueDragon7327 – NEW DEV for impact v4">
+  <img src="https://github.com/BlueDragon7327.png" width="50" style="border-radius:50%; box-shadow: 0 0 5px #00bcd4;" />
+</a>
 <a href="https://github.com/ModuleMaster64" title="ModuleMaster64 – Owner of Miniblox v4 & Python wizard">
   <img src="https://github.com/ModuleMaster64.png" width="60" style="border-radius:50%; box-shadow: 0 0 8px #f77473;" />
 </a>
