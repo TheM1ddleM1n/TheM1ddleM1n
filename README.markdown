@@ -46,7 +46,7 @@ Coding quotes fr 🖥️
 
 ---
 
-**THE GOATS who have developed Vape or Impact v4!**
+**THE GOATS who are devs for Vape or Impact v4!**
 
 <a href="https://github.com/ProgMEM-CC">
   <img src="https://github.com/ProgMEM-CC.png" width="50" style="border-radius:50%" />
