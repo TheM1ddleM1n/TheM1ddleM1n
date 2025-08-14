@@ -91,25 +91,6 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ModuleMaster64)
 
 
-**TOP TRACK OF AUGUST - HYPONOSAES ESPECTRAL 2!** 
-
-[Listen on Youtube!](https://www.youtube.com/watch?v=AKGLvbjwosk)
-
-
-
-<!-- ASCII art for elite scrollers -->
-<pre>
-             (o o)
-    +----oOO--(_)-------------+
-    |    you saw this frog    |
-    |    you're now certified |
-    |     README explorer 🏅   |
-    +------------------oOO----+
-             |__|__|
-              || ||
-             ooO Ooo
-</pre>
-
 [![Follow @ModuleMaster64](https://img.shields.io/github/followers/ModuleMaster64?label=Follow&style=social)](https://github.com/ModuleMaster64)
 
 <details>
