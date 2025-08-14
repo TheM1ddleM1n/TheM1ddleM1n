@@ -83,14 +83,11 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 - Impact/Vape for Miniblox (Co-Dev) - https://codeberg.org/RealPacket/VapeForMiniblox or https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2 (your choice!)
 - Or Miniblox v4 (owner) - https://codeberg.org/ee6-lang/MinibloxV4
 - PythonPrograms - https://github.com/ModuleMaster64/PythonPrograms
-
 ---
 
 ![giphy](https://github.com/user-attachments/assets/2e6b2051-0452-46cb-847c-9dd38a437f65)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ModuleMaster64)
-
-
 [![Follow @ModuleMaster64](https://img.shields.io/github/followers/ModuleMaster64?label=Follow&style=social)](https://github.com/ModuleMaster64)
 
 <details>
