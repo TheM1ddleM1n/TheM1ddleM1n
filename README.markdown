@@ -1,15 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1750&pause=1000&color=6EB891&background=FF141400&width=435&lines=Hey+there+M0dule2Master64+here;Welcome+to+my+github+readme!;I+luv+to+code;HMTL%2C+Python+and+JS+wizard.;always+wishing+everyone+a+great+day+%3AD;Learn+Python+code+its+easy🤡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1750&pause=1000&color=6EB891&background=FF141400&width=435&lines=Hey+there+M0dule2Master64+here;Welcome+to+my+github+readme!;I+luv+to+code;HMTL%2C+Python+and+JS+wizard.;always+wishing+everyone+a+great+day+%3AD;Learn+Python+code+its+easy.🤡)](https://git.io/typing-svg)
 
 ### Welcome to my GitHub readme! 
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 
-My GuestBook!!
-
+-----------------------------------
+view and fill in my guestbook plz!
 https://modulemaster64.atabook.org/
-
-
-
+-----------------------------------
 I'm a passionate coder who enjoys building cool stuff with **HTML**, **CSS**, **JavaScript**, and **Python**.  
 I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!** and **Owner Of Miniblox v4!**
 
