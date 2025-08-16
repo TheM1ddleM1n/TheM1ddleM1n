@@ -69,7 +69,7 @@ Coding quotes fr 🖥️
 
 
 
-## 📫 Contact Me (***ONLY*** VIA github or codeberg) (user - ee6-lang)
+## 📫 Contact Me via..
 
 Feel free to reach out if you're interested in collaborating or just want to chat!
 - [Codeberg – ee6-lang](https://codeberg.org/ee6-lang)
