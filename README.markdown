@@ -29,6 +29,8 @@ Coding quotes fr 🖥️
 ![Miniblox Dev](https://img.shields.io/badge/MinibloxScripter-Developer!-orange?style=for-the-badge&logo=code&logoColor=white)
 ![Collab King ProgMEM-CC](https://img.shields.io/badge/Collab%20King-ProgMEM--CC-red?style=for-the-badge&logo=javascript)
 
+![Friendship Guardian Badge](https://img.shields.io/badge/Friendship-Guardian-ff69b4?style=for-the-badge)
+
 
 
 ---
