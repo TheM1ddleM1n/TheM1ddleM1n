@@ -81,7 +81,7 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 ## 🧪 Current Projects im working on!
 
 - Impact/Vape for Miniblox (Co-Dev) - https://codeberg.org/RealPacket/VapeForMiniblox or https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2 (your choice!)
-- Or Miniblox v4 (owner) - https://codeberg.org/ee6-lang/MinibloxV4
+- Or Miniblox v4 -**Not really maintaining much now**- (owner) - https://codeberg.org/ee6-lang/MinibloxV4
 - PythonPrograms - https://github.com/ModuleMaster64/PythonPrograms
 ---
 
