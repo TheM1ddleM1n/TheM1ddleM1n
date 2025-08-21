@@ -129,11 +129,3 @@ Answer: `git push --force` 😈
 Well done, you may now join the README Illuminati.
 
 </details>
-
-## 🎧 LISTEN TO MY SPOTIFY!
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ts5yr6rawtr4vebnzoiwmazkka&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ts5yr6rawtr4vebnzoiwmazkka&redirect=true)
-
-
-
-
