@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1750&pause=1000&color=6EB891&background=FF141400&width=435&lines=Hey+there!+M0dule2Master64+here;Welcome+to+my+github+readme!;I+luv+to+code;HMTL%2C+Python+and+JS+wizard.;always+wishing+everyone+a+great+day+%3AD;Learn+Python+code+its+easy.🤡)](https://git.io/typing-svg)
 
-### Welcome to my GitHub readme! 
+### Welcome to my GitHub readme page!
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 
@@ -9,9 +9,9 @@ view and fill my atabook plz i will always respond!
 https://modulemaster64.atabook.org/
 -----------------------------------
 I'm a passionate coder who enjoys building cool stuff with **HTML**, **CSS**, **JavaScript**, and **Python**.  
-I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!** and **Owner Of Miniblox v4!**
+I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!**
 
-Coding quotes fr 🖥️
+The Big Coding quotes fr 🖥️
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -31,11 +31,9 @@ Coding quotes fr 🖥️
 
 ![Friendship Guardian Badge](https://img.shields.io/badge/Friendship-Guardian-ff69b4?style=for-the-badge)
 
-
-
 ---
 
-## 💻 Languages & Tools that i use (somewhat) daily!
+## 💻 Languages & Tools that i use daily!
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -66,9 +64,6 @@ Coding quotes fr 🖥️
 </a>
 
 
-
-
-
 ## 📫 Contact Me via..
 
 Feel free to reach out if you're interested in collaborating or just want to chat!
@@ -78,7 +73,7 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 
 ---
 
-## 🧪 Current Projects im working on!
+## 🧪 Current Projects
 
 - Impact/Vape for Miniblox (Co-Dev) - https://codeberg.org/RealPacket/VapeForMiniblox or https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2 (your choice!)
 - Or Miniblox v4 -**Not really maintaining much now**- (owner) - https://codeberg.org/ee6-lang/MinibloxV4
@@ -103,7 +98,7 @@ $ initializing miniblox-ops --mode debug
 Running diagnostic...
 
 [WARN] Recursive recursion detected  
-[INFO] Miniblox script velocity: 9000 rpm  
+[INFO] Miniblox script velocity: 10000 rpm a sec
 [ERROR] Meme threshold exceeded. System giggling uncontrollably.  
 [SYS] Unused codebase fragments found in dimension 4D.
 
@@ -135,7 +130,7 @@ Well done, you may now join the README Illuminati.
 
 </details>
 
-## 🎧 LISTEN TO WHAT IM LISTENING TO ON SPOTIFY!
+## 🎧 LISTEN TO MY SPOTIFY!
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ts5yr6rawtr4vebnzoiwmazkka&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ts5yr6rawtr4vebnzoiwmazkka&redirect=true)
 
