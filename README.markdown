@@ -67,7 +67,7 @@ The Big Coding quotes fr 🖥️
 ## 📫 Contact Me via..
 
 Feel free to reach out if you're interested in collaborating or just want to chat!
-- [Codeberg – ee6-lang](https://codeberg.org/ee6-lang)
+- [Codeberg – ee6-lang](https://codeberg.org/ee6-lang) - Not maintaining that much
 - [Github - ModuleMaster64](https://github.com/ModuleMaster64)
 - [Atabook](https://modulemaster64.atabook.org/)
 
