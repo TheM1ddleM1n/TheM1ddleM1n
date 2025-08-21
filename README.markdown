@@ -21,7 +21,7 @@ The Big Coding quotes fr 🖥️
 
 ![User](https://gitmystat.vercel.app/user?username=ModuleMaster64)
 
-![Lang](https://gitmystat.vercel.app/top?theme=discord&username=ModuleMaster64&layout=bar)
+![Lang](https://gitmystat.vercel.app/top?theme=dino&username=ModuleMaster64&layout=bar)
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=ModuleMaster64&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
