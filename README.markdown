@@ -5,13 +5,13 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 
 -----------------------------------
-view and fill my atabook plz i will always respond!
+View and fill my Atabook plz I will always respond to your kind/thoughtful messages!
 https://modulemaster64.atabook.org/
 -----------------------------------
 I'm a passionate coder who enjoys building cool stuff with **HTML**, **CSS**, **JavaScript**, and **Python**.  
 I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!**
 
-The Big Coding quotes fr 🖥️
+**The README Coding Quote** 🖥️
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -75,7 +75,7 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 
 ## 🧪 Current Projects
 
-- Impact/Vape for Miniblox (Co-Dev) - https://codeberg.org/RealPacket/VapeForMiniblox or https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2 (your choice!)
+- Impact V4/Vape for Miniblox (Co-Dev) - https://codeberg.org/RealPacket/VapeForMiniblox or https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2 (your choice!)
 - Or Miniblox v4 -**Not really maintaining much now**- (owner) - https://codeberg.org/ee6-lang/MinibloxV4
 - PythonPrograms - https://github.com/ModuleMaster64/PythonPrograms
 ---
