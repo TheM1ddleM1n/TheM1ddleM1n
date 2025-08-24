@@ -25,7 +25,7 @@ I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!**
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=ModuleMaster64&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
-![Powered by Miniblox](https://img.shields.io/badge/Powered%20by-Miniblox!-blue?style=for-the-badge&logo=javascript&logoColor=white)
+![Powered by Honor](https://img.shields.io/badge/Powered%20by-Honor!-blue?style=for-the-badge&logo=javascript&logoColor=white)
 ![Miniblox Dev](https://img.shields.io/badge/MinibloxScripter-Developer!-orange?style=for-the-badge&logo=code&logoColor=white)
 ![Collab King ProgMEM-CC](https://img.shields.io/badge/Collab%20King-ProgMEM--CC-red?style=for-the-badge&logo=javascript)
 
