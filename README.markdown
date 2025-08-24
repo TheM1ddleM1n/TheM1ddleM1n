@@ -67,7 +67,7 @@ I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!**
 ## 📫 Contact Me via..
 
 Feel free to reach out if you're interested in collaborating or just want to chat!
-- [Codeberg – ee6-lang](https://codeberg.org/ee6-lang) - Not maintaining that much
+- [Codeberg – ee6-lang](https://codeberg.org/ee6-lang) - Only maintaining 2 repos that are - MBT (Miniblox Bundle Tracker) and Miniblox V4
 - [Github - ModuleMaster64](https://github.com/ModuleMaster64)
 - [Atabook](https://modulemaster64.atabook.org/)
 
@@ -76,7 +76,6 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 ## 🧪 Current Projects
 
 - Impact V4/Vape for Miniblox (Co-Dev) - https://codeberg.org/RealPacket/VapeForMiniblox or https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2 (your choice!)
-- Or Miniblox v4 -**Not really maintaining much now**- (owner) - https://codeberg.org/ee6-lang/MinibloxV4
 - PythonPrograms - https://github.com/ModuleMaster64/PythonPrograms
 ---
 
@@ -92,7 +91,7 @@ $ initializing miniblox-ops --mode debug
 ✓ Boot sequence triggered  
 ✓ ModuleMaster64 identity verified  
 ✓ Guardian Of the Galaxy: Active  
-✓ Snack protocols: 🍫 detected  
+✓ Snack protocols: 🍫 detected 3s  
 —
 
 Running diagnostic...
@@ -102,9 +101,9 @@ Running diagnostic...
 [ERROR] Meme threshold exceeded. System giggling uncontrollably.  
 [SYS] Unused codebase fragments found in dimension 4D.
 
-Injecting humor drivers...  
+Injecting humor here...  
 Overclocking README enthusiasm...  
-Deploying surprises...
+Deploying lots of surprises...
 
   .--.      .--.      .--.      .--.    
  ( o_O)    ( -_-)    ( ʘ‿ʘ )   (='.'=)   
@@ -126,6 +125,6 @@ Solve this riddle to receive access to `golden_branch_of_truth`:
 (Hint: It's the reason behind every frantic rollback)
 
 Answer: `git push --force` 😈  
-Well done, you may now join the README Illuminati.
+Well done, you may now join the README Illuminati!
 
 </details>
