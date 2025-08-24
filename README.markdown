@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1750&pause=1000&color=6EB891&background=FF141400&width=435&lines=Hey+there!+M0dule2Master64+here;Welcome+to+my+github+readme!;I+luv+to+code;HMTL%2C+Python+and+JS+wizard.;always+wishing+everyone+a+great+day+%3AD;Learn+Python+code+its+easy.🤡)](https://git.io/typing-svg)
 
-### Welcome to my GitHub readme page!
+### A warm welcome to my GitHub readme page! 👋
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 
@@ -11,7 +11,7 @@ https://modulemaster64.atabook.org/
 I'm a passionate coder who enjoys building cool stuff with **HTML**, **CSS**, **JavaScript**, and **Python**.  
 I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!**
 
-**The README Coding Quote** 🖥️
+**The README Coding Quotes** 🖥️
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -33,7 +33,7 @@ I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!**
 
 ---
 
-## 💻 Languages & Tools that i use daily!
+## 💻 Languages & Tools That I Use!
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -42,7 +42,7 @@ I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!**
 
 ---
 
-**THE GOATS who are devs for Vape or Impact v4!**
+**THE GOATED devs (Board) for Vape/Impact v4!**
 
 <a href="https://github.com/ProgMEM-CC">
   <img src="https://github.com/ProgMEM-CC.png" width="50" style="border-radius:50%" />
@@ -64,9 +64,10 @@ I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!**
 </a>
 
 
-## 📫 Contact Me via..
+## 📫 Contact Me via these platforms!
 
-Feel free to reach out if you're interested in collaborating or just want to chat!
+Feel free to reach out if you're interested in collaborating on a repo or just want to chat about other things
+
 - [Codeberg – ee6-lang](https://codeberg.org/ee6-lang) - Only maintaining 2 repos that are - MBT (Miniblox Bundle Tracker) and Miniblox V4
 - [Github - ModuleMaster64](https://github.com/ModuleMaster64)
 - [Atabook](https://modulemaster64.atabook.org/)
@@ -75,7 +76,8 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 
 ## 🧪 Current Projects
 
-- Impact V4/Vape for Miniblox (Co-Dev) - https://codeberg.org/RealPacket/VapeForMiniblox or https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2 (your choice!)
+- Impact V4/Vape for Miniblox (Co-Dev) - https://codeberg.org/RealPacket/VapeForMiniblox or https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2 (choice is yours)
+
 - PythonPrograms - https://github.com/ModuleMaster64/PythonPrograms
 ---
 
@@ -119,7 +121,7 @@ Deploying lots of surprises...
 Solve this riddle to receive access to `golden_branch_of_truth`:
 
 > I’m used in haste but break in shame,  
-> A dev regrets me, yet I remain.  
+> A developer regrets me, yet I still remain.  
 > What am I?
 
 (Hint: It's the reason behind every frantic rollback)
