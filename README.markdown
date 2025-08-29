@@ -2,7 +2,7 @@
 
 ### A warm welcome to my GitHub readme page! 👋
 
-# Almost about to hit 200 followers on github!!!
+# Lets GOOOOOOOO!! 200 followers on github
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 
