@@ -22,12 +22,9 @@ jobs:
 
       - name: 💾 Commit changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git remote set-url origin https://ModuleMaster64:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/ModuleMaster64/ModuleMaster64.git
           git add -A
           git diff-index --quiet HEAD || git commit -m "Update GitHub followers"
-
-      - name: 🚀 Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          git push origin main
