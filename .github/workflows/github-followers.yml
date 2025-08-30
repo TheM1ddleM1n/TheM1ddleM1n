@@ -1,4 +1,4 @@
-name: 🧑‍🤝‍🧑 Update GitHub Followers!
+name: 🧑‍🤝‍🧑 Update GitHub Followers
 
 on:
   schedule:
@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: 📦 Checkout repo
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false  # Prevents default bot credentials
 
       - name: ✨ Update followers
         uses: JieDing/github-followers@main
@@ -24,7 +26,7 @@ jobs:
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
-          git remote set-url origin https://ModuleMaster64:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/ModuleMaster64/ModuleMaster64.git
+          git remote set-url origin https://x-access-token:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/ModuleMaster64/ModuleMaster64.git
           git add -A
           git diff-index --quiet HEAD || git commit -m "Update GitHub followers"
-          git push origin HEAD:main
+          git push origin HEAD:main || echo "⚠️ Push failed — check token permissions"
