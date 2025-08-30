@@ -20,11 +20,12 @@ jobs:
           pat: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           readme: README.md
 
-      - name: 💾 Commit changes
-        run: |
-          git config --global user.email "action@github.com"
-          git config --global user.name "GitHub Action"
-          git remote set-url origin https://ModuleMaster64:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/ModuleMaster64/ModuleMaster64.git
-          git add -A
-          git diff-index --quiet HEAD || git commit -m "Update GitHub followers"
-          git push origin main
+      - name: 💾 Commit & Push changes
+  run: |
+    git config --global user.email "action@github.com"
+    git config --global user.name "GitHub Action"
+    git remote set-url origin https://ModuleMaster64:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/ModuleMaster64/ModuleMaster64.git
+    git add -A
+    git diff-index --quiet HEAD || git commit -m "Update GitHub followers"
+    git push origin HEAD:main
+
