@@ -2,8 +2,8 @@ name: Update Followers
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Daily at midnight UTC
-  workflow_dispatch:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:     # Allows manual triggering
 
 jobs:
   update-readme:
@@ -21,16 +21,19 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
+      - name: Configure Git identity
+        run: |
+          git config --global user.name "ModuleMaster64 (via GitHub Actions)"
+          git config --global user.email "192749026+ModuleMaster64@users.noreply.github.com"
+
       - name: Run update script
         run: python update_followers.py
 
       - name: Commit and push changes
-  env:
-    GH_TOKEN: ${{ secrets.GH_TOKEN }}
-  run: |
-    git config --global user.name 'ModuleMaster64 (via GitHub Actions)'
-    git config --global user.email '192749026+ModuleMaster64@users.noreply.github.com'
-    git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/ModuleMaster64/ModuleMaster64.git
-    git add README.md
-    git commit -m "Auto-update followers" || echo "No changes to commit"
-    git push
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/ModuleMaster64/ModuleMaster64.git
+          git add README.md
+          git commit -m "Auto-update followers" || echo "No changes to commit"
+          git push
