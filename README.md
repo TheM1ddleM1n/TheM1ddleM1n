@@ -4,6 +4,9 @@
 
 # 🥳 Lets GOOOOOOOO!! 205 followers on github 🥳
 
+![Update GitHub Followers](https://github.com/ModuleMaster64/ModuleMaster64/actions/workflows/github-followers.yml/badge.svg)
+
+
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 
 -----------------------------------
