@@ -1,0 +1,31 @@
+name: 🧑‍🤝‍🧑 Update GitHub Followers
+
+on:
+  schedule:
+    - cron: '0 20 * * *'  # Runs daily at 8PM UTC
+  push:
+    branches: [main]
+
+jobs:
+  update-followers:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: ✨ Update followers
+        uses: JieDing/github-followers@main
+        env:
+          login: ${{ github.repository_owner }}
+          pat: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+
+      - name: 💾 Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "Update GitHub followers"
+
+      - name: 🚀 Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
