@@ -26,8 +26,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config --global user.name 'ModuleMaster64'
+          git config --global user.email 'ModuleMaster64@users.noreply.github.com'
           git add README.md
           git commit -m "Auto-update followers" || echo "No changes to commit"
           git push
