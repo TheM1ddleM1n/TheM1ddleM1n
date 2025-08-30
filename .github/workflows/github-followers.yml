@@ -10,14 +10,15 @@ jobs:
   update-followers:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: 📦 Checkout repo
+        uses: actions/checkout@v3
 
       - name: ✨ Update followers
-  uses: JieDing/github-followers@main
-  with:
-    login: ${{ github.repository_owner }}
-    pat: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-    readme: README.md
+        uses: JieDing/github-followers@main
+        with:
+          login: ${{ github.repository_owner }}
+          pat: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          readme: README.md
 
       - name: 💾 Commit changes
         run: |
