@@ -133,6 +133,15 @@ Well done, you may now join the README Illuminati!
 
 </details>
 
+# 👋 Hi followers
+
+Thanks for stopping by! Here's a snapshot of my latest GitHub followers:
+
 <!--ACTION_START_FLAG:github-followers-->
 <!--ACTION_END_FLAG:github-followers-->
+
+---
+
+🛠️ Built with passion, curiosity, and a touch of automation.
+
 
