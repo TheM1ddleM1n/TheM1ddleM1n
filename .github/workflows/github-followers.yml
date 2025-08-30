@@ -28,6 +28,6 @@ jobs:
           git diff-index --quiet HEAD || git commit -m "Update GitHub followers"
 
       - name: 🚀 Push changes
-  uses: ad-m/github-push-action@master
-  with:
-    github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
