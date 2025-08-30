@@ -138,6 +138,9 @@ Well done, you may now join the README Illuminati!
 Thanks for stopping by! Here's a snapshot of my latest GitHub followers:
 
 <!--ACTION_START_FLAG:github-followers-->
+<table>
+  </tr>
+</table>
 <!--ACTION_END_FLAG:github-followers-->
 
 ---
