@@ -2,11 +2,6 @@
 
 ### A warm welcome to my GitHub readme page! 👋
 
-# 🥳 Lets GOOOOOOOO!! 205 followers on github 🥳
-
-![Update GitHub Followers](https://github.com/ModuleMaster64/ModuleMaster64/actions/workflows/github-followers.yml/badge.svg)
-
-
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 
 -----------------------------------
@@ -135,23 +130,3 @@ Answer: `git push --force` 😈
 Well done, you may now join the README Illuminati!
 
 </details>
-
-# 👋 Hi followers
-
-Thanks for stopping by! Here's a snapshot of my latest GitHub followers:
-
-<!--ACTION_START_FLAG:github-followers-->
-<table>
-  </tr>
-</table>
-<!--ACTION_END_FLAG:github-followers-->
-
----
-
-_Last updated: `$(date -u)` via GitHub Actions_
-
-🛠️ Built with passion, curiosity, and a touch of automation.
-
-
-
-
