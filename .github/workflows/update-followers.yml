@@ -1,9 +1,9 @@
-name: Update Followers List
+name: Update Recent Followers
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Every 6 hours
-  workflow_dispatch:
+    - cron: '0 */6 * * *'  # Runs every 6 hours
+  workflow_dispatch:       # Manual trigger option
 
 jobs:
   update-followers:
@@ -22,7 +22,7 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Fetch followers and update README
+      - name: Fetch recent followers and update README
         env:
           GH_USERNAME: ModuleMaster64
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -33,5 +33,5 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
-          git diff --quiet || git commit -m "🤖 Updated followers list"
+          git diff --cached --quiet || git commit -m "🤖 Updated recent followers"
           git push origin HEAD:main
