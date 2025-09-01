@@ -137,11 +137,11 @@ Well done, you may now join the README Illuminati!
   <!--ACTION_START_FLAG:github-followers-->
 | Avatar | Username |
 |--------|----------|
-| <img src='https://avatars.githubusercontent.com/u/18186995?u=79d755064b05ad8764ed56b1034854139075e89f&v=4' width='30' height='30'> | [IDouble](https://github.com/IDouble) |
-| <img src='https://avatars.githubusercontent.com/u/210544824?v=4' width='30' height='30'> | [ispyboy](https://github.com/ispyboy) |
-| <img src='https://avatars.githubusercontent.com/u/214260680?v=4' width='30' height='30'> | [BlatantBloxdPlayer4](https://github.com/BlatantBloxdPlayer4) |
-| <img src='https://avatars.githubusercontent.com/u/182857081?v=4' width='30' height='30'> | [ProgMEM-CC](https://github.com/ProgMEM-CC) |
-| <img src='https://avatars.githubusercontent.com/u/175685880?u=bd3fe7dc54b18d1e06d4b074bfd31e85f864a971&v=4' width='30' height='30'> | [dtkiller-jp](https://github.com/dtkiller-jp) |
+| <img src='https://avatars.githubusercontent.com/u/262625?v=4' width='30' height='30'> | [bws9000](https://github.com/bws9000) |
+| <img src='https://avatars.githubusercontent.com/u/417514?v=4' width='30' height='30'> | [Boyquotes](https://github.com/Boyquotes) |
+| <img src='https://avatars.githubusercontent.com/u/883279?v=4' width='30' height='30'> | [chatman-media](https://github.com/chatman-media) |
+| <img src='https://avatars.githubusercontent.com/u/1431864?v=4' width='30' height='30'> | [Zizwar](https://github.com/Zizwar) |
+| <img src='https://avatars.githubusercontent.com/u/2605401?v=4' width='30' height='30'> | [kenjinote](https://github.com/kenjinote) |
 
 <!--ACTION_END_FLAG:github-followers-->
 
