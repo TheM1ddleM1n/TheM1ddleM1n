@@ -4,48 +4,31 @@ import requests
 username = os.getenv("GH_USERNAME")
 token = os.getenv("GH_TOKEN")
 
-query = """
-{
-  user(login: "%s") {
-    followers(last: 5) {
-      nodes {
-        login
-        avatarUrl
-        url
-      }
-    }
-  }
-}
-""" % username
-
 headers = {
-    "Authorization": f"Bearer %s" % token,
-    "Content-Type": "application/json"
+    "Authorization": f"Bearer {token}",
+    "Accept": "application/vnd.github+json"
 }
 
-response = requests.post(
-    "https://api.github.com/graphql",
-    json={"query": query},
-    headers=headers
-)
+# Get most recent followers (page 1, newest first)
+url = f"https://api.github.com/users/{username}/followers?per_page=5"
+response = requests.get(url, headers=headers)
 
 if response.status_code != 200:
-    print(f"❌ GraphQL request failed with status {response.status_code}")
+    print(f"❌ API failed with status {response.status_code}")
     print(response.text)
     exit(1)
 
-data = response.json()
-followers = data.get("data", {}).get("user", {}).get("followers", {}).get("nodes", [])
+followers = response.json()
 
 if not followers:
-    print("⚠️ No followers found or API returned empty list.")
+    print("⚠️ No followers found.")
     exit(0)
 
 # Build markdown table with avatars
 table = "| Avatar | Username |\n|--------|----------|\n"
 for user in followers:
-    avatar_md = f"<img src='{user['avatarUrl']}' width='30' height='30'>"
-    username_md = f"[{user['login']}]({user['url']})"
+    avatar_md = f"<img src='{user['avatar_url']}' width='30' height='30'>"
+    username_md = f"[{user['login']}](https://github.com/{user['login']})"
     table += f"| {avatar_md} | {username_md} |\n"
 
 # Inject into README
