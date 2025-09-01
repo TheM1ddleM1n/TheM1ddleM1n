@@ -131,5 +131,12 @@ Well done, you may now join the README Illuminati!
 
 </details>
 
-## 👥 Recent Followers (WIP)
+<details>
+  <summary>🧑‍🤝‍🧑 Click to see my followers</summary>
+
+  <!--ACTION_START_FLAG:github-followers-->
+  <!--ACTION_END_FLAG:github-followers-->
+
+</details>
+
 
