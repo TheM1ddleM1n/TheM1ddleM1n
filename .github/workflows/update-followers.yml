@@ -1,0 +1,35 @@
+name: Update Followers List
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Runs every 6 hours
+  workflow_dispatch:       # Allows manual trigger
+
+jobs:
+  update-followers:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch followers and update README
+        env:
+          GH_USERNAME: ModuleMaster64
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python update_followers.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "🤖 Updated followers list"
+          git push
