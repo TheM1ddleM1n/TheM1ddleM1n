@@ -133,7 +133,9 @@ Well done, you may now join the README Illuminati!
 
 ## 🧑‍🤝‍🧑 Recent Followers
 <!-- FOLLOWERS_START -->
+<a href="https://github.com/TR4P-CARD"><img src="https://avatars.githubusercontent.com/u/229490574?v=4" width="40" title="TR4P-CARD"/></a> TR4P-CARD — 
+<a href="https://github.com/buIlshit"><img src="https://avatars.githubusercontent.com/u/229439108?v=4" width="40" title="buIlshit"/></a> buIlshit — 
+<a href="https://github.com/yaoifuI"><img src="https://avatars.githubusercontent.com/u/228435346?v=4" width="40" title="yaoifuI"/></a> yaoifuI — 
+<a href="https://github.com/bookofvengeance"><img src="https://avatars.githubusercontent.com/u/228016687?v=4" width="40" title="bookofvengeance"/></a> bookofvengeance — 
+<a href="https://github.com/INTERNET-KAngel"><img src="https://avatars.githubusercontent.com/u/228006020?v=4" width="40" title="INTERNET-KAngel"/></a> INTERNET-KAngel — 
 <!-- FOLLOWERS_END -->
-
-
-
