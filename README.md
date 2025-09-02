@@ -131,20 +131,9 @@ Well done, you may now join the README Illuminati!
 
 </details>
 
-<details>
-  <summary>🧑‍🤝‍🧑 Click to see my followers</summary>
+## 🧑‍🤝‍🧑 Recent Followers
+<!-- FOLLOWERS_START -->
+<!-- FOLLOWERS_END -->
 
-  <!--ACTION_START_FLAG:github-followers-->
-| Avatar | Username |
-|--------|----------|
-| <img src='https://avatars.githubusercontent.com/u/262625?v=4' width='30' height='30'> | [bws9000](https://github.com/bws9000) |
-| <img src='https://avatars.githubusercontent.com/u/417514?v=4' width='30' height='30'> | [Boyquotes](https://github.com/Boyquotes) |
-| <img src='https://avatars.githubusercontent.com/u/883279?v=4' width='30' height='30'> | [chatman-media](https://github.com/chatman-media) |
-| <img src='https://avatars.githubusercontent.com/u/1431864?v=4' width='30' height='30'> | [Zizwar](https://github.com/Zizwar) |
-| <img src='https://avatars.githubusercontent.com/u/2605401?v=4' width='30' height='30'> | [kenjinote](https://github.com/kenjinote) |
-
-<!--ACTION_END_FLAG:github-followers-->
-
-</details>
 
 
