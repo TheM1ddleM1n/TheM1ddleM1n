@@ -56,7 +56,7 @@ I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!**
 <a href="https://github.com/he557" title="he557 – Dev & Collaborator">
   <img src="https://github.com/he557.png" width="50" style="border-radius:50%; box-shadow: 0 0 5px #00bcd4;" />
 </a>
-<a href="https://github.com/BlueDragon7327" title="BlueDragon7327 – NEW DEV for impact v4">
+<a href="https://github.com/BlueDragon7327" title="BlueDragon7327 – Dev for impact v4">
   <img src="https://github.com/BlueDragon7327.png" width="50" style="border-radius:50%; box-shadow: 0 0 5px #00bcd4;" />
 </a>
 <a href="https://github.com/ModuleMaster64" title="ModuleMaster64 – Owner of Miniblox v4 & Python wizard">
@@ -68,7 +68,7 @@ I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!**
 
 Feel free to reach out if you're interested in collaborating on a repo or just want to chat about other things
 
-- [Codeberg – ee6-lang](https://codeberg.org/ee6-lang) - Only maintaining 2 repos that are - MBT (Miniblox Bundle Tracker) and Miniblox V4
+- [Codeberg – ee6-lang](https://codeberg.org/ee6-lang) - Only maintaining 2 repos that are - MBT (Miniblox Bundle Tracker which i dont update) and Miniblox V4
 - [Github - ModuleMaster64](https://github.com/ModuleMaster64)
 - [Atabook](https://modulemaster64.atabook.org/)
 
