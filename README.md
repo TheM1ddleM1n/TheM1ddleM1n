@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1750&pause=1000&color=6EB891&background=FF141400&width=435&lines=Hey+there!+M0dule2Master64+here;Welcome+to+my+github+readme!;I+luv+to+code;HMTL%2C+Python+and+JS+wizard.;always+wishing+everyone+a+great+day+%3AD;Learn+Python+code+its+easy.🤡)](https://git.io/typing-svg)
 
-### A warm welcome to my GitHub readme page! 👋
+### A warm welcome to my GitHub readme page! 👋 Hope your day is going well!
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 
@@ -11,7 +11,7 @@ https://modulemaster64.atabook.org/
 I'm a passionate coder who enjoys building cool stuff with **HTML**, **CSS**, **JavaScript**, and **Python**.  
 I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!**
 
-**The README Coding Quotes** 🖥️
+**The README Coding Quotes of the day lol** 🖥️
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -33,7 +33,7 @@ I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!**
 
 ---
 
-## 💻 Languages & Tools That I Use!
+## 💻 WProgramming Languages That I Use!
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -41,27 +41,6 @@ I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 
 ---
-
-**THE GOATED devs (Board) for Vape/Impact v4!**
-
-<a href="https://github.com/ProgMEM-CC">
-  <img src="https://github.com/ProgMEM-CC.png" width="50" style="border-radius:50%" />
-</a>
-<a href="https://codeberg.org/RealPacket">
-  <img src="https://codeberg.org/RealPacket.png" width="50" style="border-radius:50%" />
-</a>
-<a href="https://github.com/7GrandDadPGN" title="7GrandDad – VapeV4 & MinibloxTranslationLayer">
-  <img src="https://github.com/7GrandDadPGN.png" width="50" style="border-radius:50%; box-shadow: 0 0 5px #f77473;" />
-</a>
-<a href="https://github.com/he557" title="he557 – Dev & Collaborator">
-  <img src="https://github.com/he557.png" width="50" style="border-radius:50%; box-shadow: 0 0 5px #00bcd4;" />
-</a>
-<a href="https://github.com/BlueDragon7327" title="BlueDragon7327 – Dev for impact v4">
-  <img src="https://github.com/BlueDragon7327.png" width="50" style="border-radius:50%; box-shadow: 0 0 5px #00bcd4;" />
-</a>
-<a href="https://github.com/ModuleMaster64" title="ModuleMaster64 – Owner of Miniblox v4 & Python wizard">
-  <img src="https://github.com/ModuleMaster64.png" width="60" style="border-radius:50%; box-shadow: 0 0 8px #f77473;" />
-</a>
 
 
 ## 📫 Contact Me via these platforms!
