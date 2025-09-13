@@ -4,10 +4,10 @@
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 
------------------------------------
-View and fill my Atabook plz I will always respond to your kind/thoughtful messages!
-https://modulemaster64.atabook.org/
------------------------------------
+-------------------------------------------------------------------------------------------------------------
+View and fill my Atabook plz I will always respond to your kind/thoughtful messages!                       --
+https://modulemaster64.atabook.org/                                                                        --
+-------------------------------------------------------------------------------------------------------------
 I'm a passionate coder who enjoys building cool stuff with **HTML**, **CSS**, **JavaScript**, and **Python**.  
 I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!**
 
@@ -33,7 +33,7 @@ I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!**
 
 ---
 
-## 💻 WProgramming Languages That I Use!
+## 💻 Programming Languages That I Use!
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -43,7 +43,7 @@ I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!**
 ---
 
 
-## 📫 Contact Me via these platforms!
+## 📫 You can contact me via these platforms!
 
 Feel free to reach out if you're interested in collaborating on a repo or just want to chat about other things
 
@@ -53,7 +53,7 @@ Feel free to reach out if you're interested in collaborating on a repo or just w
 
 ---
 
-## 🧪 Current Projects
+## 🧪 Current Projects!
 
 - Impact V4/Vape for Miniblox (Co-Dev) - https://codeberg.org/RealPacket/VapeForMiniblox or https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2 (choice is yours)
 
