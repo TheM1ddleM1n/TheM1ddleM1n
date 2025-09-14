@@ -1,4 +1,4 @@
-<svg width="500" height="360" viewBox="0 0 500 360" xmlns="http://www.w3.org/2000/svg">
+<svg width="500" height="380" viewBox="0 0 500 380" xmlns="http://www.w3.org/2000/svg">
   <style>
     .line {
       font-family: monospace;
@@ -7,21 +7,21 @@
       opacity: 0;
       animation: type 1s forwards;
     }
-    .line:nth-child(1) { animation-delay: 0s; }
-    .line:nth-child(2) { animation-delay: 1s; }
-    .line:nth-child(3) { animation-delay: 2s; }
-    .line:nth-child(4) { animation-delay: 3s; }
-    .line:nth-child(5) { animation-delay: 4s; }
-    .line:nth-child(6) { animation-delay: 5s; }
-    .line:nth-child(7) { animation-delay: 6s; }
-    .line:nth-child(8) { animation-delay: 7s; }
-    .line:nth-child(9) { animation-delay: 8s; }
-    .line:nth-child(10) { animation-delay: 9s; }
-    .line:nth-child(11) { animation-delay: 10s; }
-    .line:nth-child(12) { animation-delay: 11s; }
-    .line:nth-child(13) { animation-delay: 12s; }
-    .line:nth-child(14) {
-      animation-delay: 13s;
+    .line:nth-of-type(1) { animation-delay: 0s; }
+    .line:nth-of-type(2) { animation-delay: 1s; }
+    .line:nth-of-type(3) { animation-delay: 2s; }
+    .line:nth-of-type(4) { animation-delay: 3s; }
+    .line:nth-of-type(5) { animation-delay: 4s; }
+    .line:nth-of-type(6) { animation-delay: 5s; }
+    .line:nth-of-type(7) { animation-delay: 6s; }
+    .line:nth-of-type(8) { animation-delay: 7s; }
+    .line:nth-of-type(9) { animation-delay: 8s; }
+    .line:nth-of-type(10) { animation-delay: 9s; }
+    .line:nth-of-type(11) { animation-delay: 10s; }
+    .line:nth-of-type(12) { animation-delay: 11s; }
+    .line:nth-of-type(13) { animation-delay: 12s; }
+
+    .cursor {
       animation: blink 1s steps(1) infinite;
     }
 
@@ -33,11 +33,24 @@
       0%, 100% { opacity: 1; }
       50% { opacity: 0; }
     }
+
+    .bar {
+      fill: #00FF00;
+      animation: fillBar 5s linear forwards;
+      transform-origin: left;
+    }
+
+    @keyframes fillBar {
+      from { width: 0; }
+      to { width: 300px; }
+    }
   </style>
 
-  <rect x="0" y="0" width="500" height="360" rx="8" fill="#000000"/>
-  <rect x="10" y="10" width="480" height="340" rx="6" fill="#0C0C0C" stroke="#00FF00" stroke-width="1"/>
+  <!-- Background -->
+  <rect x="0" y="0" width="500" height="380" rx="8" fill="#000000"/>
+  <rect x="10" y="10" width="480" height="360" rx="6" fill="#0C0C0C" stroke="#00FF00" stroke-width="1"/>
 
+  <!-- Boot lines -->
   <text x="30" y="40" class="line">> Initializing system...</text>
   <text x="30" y="60" class="line">> Loading ChromeOS 132 / Linux (Crostini)</text>
   <text x="30" y="80" class="line">> Environment: Chrome Browser / Linux Terminal</text>
@@ -51,5 +64,15 @@
   <text x="30" y="240" class="line">> All systems nominal ✅</text>
   <text x="30" y="260" class="line">> Launching user interface...</text>
   <text x="30" y="280" class="line">> Welcome, ModuleMaster64</text>
-  <text x="30" y="300" class="line">> Ready for deployment._</text>
+
+  <!-- Loading bar -->
+  <text x="30" y="305" font-family="monospace" font-size="14" fill="#00FF00">> Loading: [</text>
+  <rect x="130" y="295" height="14" width="300" fill="#003300" rx="2"/>
+  <rect x="130" y="295" height="14" width="0" class="bar" rx="2"/>
+  <text x="435" y="305" font-family="monospace" font-size="14" fill="#00FF00">]</text>
+
+  <!-- Final line with blinking cursor -->
+  <text x="30" y="330" font-family="monospace" font-size="14" fill="#00FF00">
+    > Ready for deployment.<tspan class="cursor">_</tspan>
+  </text>
 </svg>
