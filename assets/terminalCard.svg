@@ -1,4 +1,4 @@
-<svg width="500" height="400" viewBox="0 0 500 400" xmlns="http://www.w3.org/2000/svg">
+<svg width="500" height="420" viewBox="0 0 500 420" xmlns="http://www.w3.org/2000/svg">
   <style>
     .line {
       font-family: monospace;
@@ -37,7 +37,6 @@
     .bar {
       fill: #00FF00;
       animation: fillBar 4s linear forwards;
-      transform-origin: left;
       animation-delay: 9s;
     }
 
@@ -46,56 +45,55 @@
       to { width: 300px; }
     }
 
-    .percent {
+    .fail {
       font-family: monospace;
       font-size: 14px;
-      fill: #00FF00;
-      animation: count 4s steps(20) forwards;
-      animation-delay: 9s;
+      fill: #FF0000;
+      opacity: 0;
+      animation: failFlash 1s steps(1) infinite;
+      animation-delay: 14s;
     }
 
-    @keyframes count {
-      0%   { content: "0%"; }
-      5%   { content: "5%"; }
-      10%  { content: "10%"; }
-      25%  { content: "25%"; }
-      50%  { content: "50%"; }
-      75%  { content: "75%"; }
-      90%  { content: "90%"; }
-      100% { content: "100%"; }
+    @keyframes failFlash {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
     }
   </style>
 
   <!-- Background -->
-  <rect x="0" y="0" width="500" height="400" rx="8" fill="#000000"/>
-  <rect x="10" y="10" width="480" height="380" rx="6" fill="#0C0C0C" stroke="#00FF00" stroke-width="1"/>
+  <rect x="0" y="0" width="500" height="420" rx="8" fill="#000000"/>
+  <rect x="10" y="10" width="480" height="400" rx="6" fill="#0C0C0C" stroke="#00FF00" stroke-width="1"/>
+
+  <!-- Timestamp -->
+  <text x="30" y="30" font-family="monospace" font-size="14" fill="#00FF00">> Timestamp: 14 Sep 2025 15:00 BST</text>
 
   <!-- Boot lines -->
-  <text x="30" y="40" class="line">> Initializing system...</text>
-  <text x="30" y="60" class="line">> Loading ChromeOS 132 / Linux (Crostini)</text>
-  <text x="30" y="80" class="line">> Environment: Chrome Browser / Linux Terminal</text>
-  <text x="30" y="100" class="line">> CPU: Celeron N3450 (4 cores, 2.20GHz max)</text>
-  <text x="30" y="120" class="line">> GPU: Intel HD Graphics 500</text>
-  <text x="30" y="140" class="line">> Memory: 4 GB</text>
-  <text x="30" y="160" class="line">> Display: 1 screen detected</text>
-  <text x="30" y="180" class="line">> Languages: Python / HTML / CSS / JavaScript</text>
-  <text x="30" y="200" class="line">> Theme: Dracula</text>
-  <text x="30" y="220" class="line">> Verifying system integrity...</text>
-  <text x="30" y="240" class="line">> All systems nominal ✅</text>
-  <text x="30" y="260" class="line">> Launching user interface...</text>
-  <text x="30" y="280" class="line">> Welcome, ModuleMaster64</text>
+  <text x="30" y="50" class="line">> Initializing system...</text>
+  <text x="30" y="70" class="line">> Loading ChromeOS 132 / Linux (Crostini)</text>
+  <text x="30" y="90" class="line">> Environment: Chrome Browser / Linux Terminal</text>
+  <text x="30" y="110" class="line">> CPU: Celeron N3450 (4 cores, 2.20GHz max)</text>
+  <text x="30" y="130" class="line">> GPU: Intel HD Graphics 500</text>
+  <text x="30" y="150" class="line">> Memory: 4 GB</text>
+  <text x="30" y="170" class="line">> Display: 1 screen detected</text>
+  <text x="30" y="190" class="line">> Languages: Python / HTML / CSS / JavaScript</text>
+  <text x="30" y="210" class="line">> Theme: Dracula</text>
+  <text x="30" y="230" class="line">> Verifying system integrity...</text>
+  <text x="30" y="250" class="line">> All systems nominal ✅</text>
+  <text x="30" y="270" class="line">> Launching user interface...</text>
+  <text x="30" y="290" class="line">> Welcome, ModuleMaster64</text>
 
   <!-- Loading bar -->
-  <text x="30" y="305" font-family="monospace" font-size="14" fill="#00FF00">> Loading: [</text>
-  <rect x="130" y="295" height="14" width="300" fill="#003300" rx="2"/>
-  <rect x="130" y="295" height="14" width="0" class="bar" rx="2"/>
-  <text x="435" y="305" font-family="monospace" font-size="14" fill="#00FF00">]</text>
-
-  <!-- Percentage counter -->
-  <text x="30" y="325" class="percent">> Progress: 100%</text>
+  <text x="30" y="315" font-family="monospace" font-size="14" fill="#00FF00">> Loading: [</text>
+  <rect x="130" y="305" height="14" width="300" fill="#003300" rx="2"/>
+  <rect x="130" y="305" height="14" width="0" class="bar" rx="2"/>
+  <text x="435" y="315" font-family="monospace" font-size="14" fill="#00FF00">]</text>
 
   <!-- Final line with blinking cursor -->
-  <text x="30" y="345" font-family="monospace" font-size="14" fill="#00FF00">
+  <text x="30" y="340" font-family="monospace" font-size="14" fill="#00FF00">
     > Ready for deployment.<tspan class="cursor">_</tspan>
   </text>
+
+  <!-- Boot failure Easter egg -->
+  <text x="30" y="365" class="fail">!! SYSTEM FAILURE: Kernel panic at 0x0000F3</text>
+  <text x="30" y="385" class="fail">!! Rebooting...</text>
 </svg>
