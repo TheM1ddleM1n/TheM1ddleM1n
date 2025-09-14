@@ -1,25 +1,22 @@
 <svg width="500" height="340" viewBox="0 0 500 340" xmlns="http://www.w3.org/2000/svg">
 
-  <!-- Dracula-style background -->
-  <rect x="0" y="0" width="500" height="340" rx="10" fill="#282A36"/>
+  <!-- Terminal background -->
+  <rect x="0" y="0" width="500" height="340" rx="8" fill="#000000"/>
 
-  <!-- Header bar -->
-  <path d="M0,10 Q0,0 10,0 H490 Q500,0 500,10 V60 H0 Z" fill="#44475A" />
+  <!-- Terminal border -->
+  <rect x="10" y="10" width="480" height="320" rx="6" fill="#0C0C0C" stroke="#00FF00" stroke-width="1"/>
 
-  <!-- Separator line -->
-  <rect x="0" y="60" width="120" height="3" fill="#BD93F9" />
-  <rect x="100" y="60" width="380" height="3" fill="#6272A4" />
+  <!-- Terminal text -->
+  <text x="30" y="40" font-family="monospace" font-size="16" fill="#00FF00">> System Info</text>
 
-  <!-- Title -->
-  <text x="20" y="38" font-family="monospace" font-size="18" font-weight="bold" fill="#BD93F9">Specs</text>
+  <text x="30" y="70" font-family="monospace" font-size="14" fill="#00FF00">OS:           ChromeOS 132 / Linux (Crostini)</text>
+  <text x="30" y="95" font-family="monospace" font-size="14" fill="#00FF00">Environment:  Chrome Browser / Linux Terminal</text>
+  <text x="30" y="120" font-family="monospace" font-size="14" fill="#00FF00">CPU:          Celeron N3450 (4 cores, 2.20GHz max)</text>
+  <text x="30" y="145" font-family="monospace" font-size="14" fill="#00FF00">GPU:          Intel HD Graphics 500</text>
+  <text x="30" y="170" font-family="monospace" font-size="14" fill="#00FF00">Memory:       4 GB</text>
+  <text x="30" y="195" font-family="monospace" font-size="14" fill="#00FF00">Screens:      1</text>
+  <text x="30" y="220" font-family="monospace" font-size="14" fill="#00FF00">Languages:    Python / HTML / CSS / JavaScript</text>
+  <text x="30" y="245" font-family="monospace" font-size="14" fill="#00FF00">Theme:        Dracula</text>
 
-  <!-- Content -->
-  <text x="20" y="100" font-family="monospace" font-size="16" font-weight="bold" fill="#8BE9FD">🌐 OS: <tspan fill="#FF79C6">ChromeOS 132 + Linux (Crostini)</tspan></text>
-  <text x="20" y="130" font-family="monospace" font-size="16" font-weight="bold" fill="#8BE9FD">🖱️ Environment: <tspan fill="#FF79C6">Chrome Browser/Linux Terminal</tspan></text>
-  <text x="20" y="160" font-family="monospace" font-size="16" font-weight="bold" fill="#8BE9FD">⚙️ CPU: <tspan fill="#FF79C6">Celeron N3450 • 4 cores • 2.20GHz max</tspan></text>
-  <text x="20" y="190" font-family="monospace" font-size="16" font-weight="bold" fill="#8BE9FD">🎮 GPU: <tspan fill="#FF79C6">Intel HD Graphics 500</tspan></text>
-  <text x="20" y="220" font-family="monospace" font-size="16" font-weight="bold" fill="#8BE9FD">🧠 Memory: <tspan fill="#FF79C6">4 GB</tspan></text>
-  <text x="20" y="250" font-family="monospace" font-size="16" font-weight="bold" fill="#8BE9FD">🖥️ Screens: <tspan fill="#FF79C6">1</tspan></text>
-  <text x="20" y="280" font-family="monospace" font-size="16" font-weight="bold" fill="#8BE9FD">💻 Languages: <tspan fill="#FF79C6">Python, HTML, CSS, JavaScript</tspan></text>
-  <text x="20" y="310" font-family="monospace" font-size="16" font-weight="bold" fill="#8BE9FD">🖌️ Theme: <tspan fill="#FF79C6">Dracula</tspan></text>
+  <text x="30" y="290" font-family="monospace" font-size="14" fill="#00FF00">> Status:      All systems nominal ✅</text>
 </svg>
