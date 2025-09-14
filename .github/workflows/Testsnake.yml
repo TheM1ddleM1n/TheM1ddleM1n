@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -15,11 +15,12 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
+      - name: Generate Snake Animation (Dark Theme)
         uses: Platane/snk@v3
         with:
           github_user_name: ModuleMaster64
-          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
