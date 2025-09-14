@@ -42,7 +42,7 @@ I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!**
 
 ---
 
-## 🖥️ System Specs
+## 🖥️ System Specs (You will manually have to refresh if you want it feels like a GIF)
 
 Here's a snapshot of my current setup:
 
