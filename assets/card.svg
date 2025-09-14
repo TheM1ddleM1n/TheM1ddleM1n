@@ -19,6 +19,6 @@
   <text x="20" y="160" font-family="monospace" font-size="16" font-weight="bold" fill="#569CD6">⚙️ CPU: <tspan fill="#CD9077">Celeron N3450 • 4 cores • 2.20GHz max</tspan></text>
   <text x="20" y="190" font-family="monospace" font-size="16" font-weight="bold" fill="#569CD6">🎮 GPU: <tspan fill="#CD9077">Intel HD Graphics 500</tspan></text>
   <text x="20" y="220" font-family="monospace" font-size="16" font-weight="bold" fill="#569CD6">🧠 Memory: <tspan fill="#CD9077">4 GB</tspan></text>
-  <text x="20" y="250" font-family="monospace" font-size="16" font-weight="bold" fill="#569CD6">🖥️ Screens: <tspan fill="#CD9077">1</tspan></text>
+  <text x="20" y="250" font-family="monospace" font-size="16" font-weight="bold" fill="#569CD6">🖥️ Screen: <tspan fill="#CD9077">1</tspan></text>
   <text x="20" y="280" font-family="monospace" font-size="16" font-weight="bold" fill="#569CD6">💻 Languages: <tspan fill="#CD9077">Python, HTML, CSS, JavaScript</tspan></text>
 </svg>
