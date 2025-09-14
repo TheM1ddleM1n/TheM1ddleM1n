@@ -1,24 +1,25 @@
-<svg width="500" height="320" viewBox="0 0 500 320" xmlns="http://www.w3.org/2000/svg">
+<svg width="500" height="340" viewBox="0 0 500 340" xmlns="http://www.w3.org/2000/svg">
 
-  <!-- Background with shadow -->
-  <rect x="0" y="0" width="500" height="320" rx="10" fill="#070A08"/>
+  <!-- Dracula-style background -->
+  <rect x="0" y="0" width="500" height="340" rx="10" fill="#282A36"/>
 
-  <!-- Black header -->
-  <path d="M0,10 Q0,0 10,0 H490 Q500,0 500,10 V60 H0 Z" fill="#000000" />
+  <!-- Header bar -->
+  <path d="M0,10 Q0,0 10,0 H490 Q500,0 500,10 V60 H0 Z" fill="#44475A" />
 
-  <!-- Separator line in two colors -->
-  <rect x="0" y="60" width="120" height="3" fill="#55D799" />
-  <rect x="100" y="60" width="380" height="3" fill="#141818" />
+  <!-- Separator line -->
+  <rect x="0" y="60" width="120" height="3" fill="#BD93F9" />
+  <rect x="100" y="60" width="380" height="3" fill="#6272A4" />
 
   <!-- Title -->
-  <text x="20" y="38" font-family="monospace" font-size="18" font-weight="bold" fill="#55D799">Specs</text>
+  <text x="20" y="38" font-family="monospace" font-size="18" font-weight="bold" fill="#BD93F9">Specs</text>
 
   <!-- Content -->
-  <text x="20" y="100" font-family="monospace" font-size="16" font-weight="bold" fill="#569CD6">🌐 OS: <tspan fill="#CD9077">ChromeOS 132 + Linux (Crostini)</tspan></text>
-  <text x="20" y="130" font-family="monospace" font-size="16" font-weight="bold" fill="#569CD6">🖱️ Environment: <tspan fill="#CD9077">Chrome Browser/Linux Terminal</tspan></text>
-  <text x="20" y="160" font-family="monospace" font-size="16" font-weight="bold" fill="#569CD6">⚙️ CPU: <tspan fill="#CD9077">Celeron N3450 • 4 cores • 2.20GHz max</tspan></text>
-  <text x="20" y="190" font-family="monospace" font-size="16" font-weight="bold" fill="#569CD6">🎮 GPU: <tspan fill="#CD9077">Intel HD Graphics 500</tspan></text>
-  <text x="20" y="220" font-family="monospace" font-size="16" font-weight="bold" fill="#569CD6">🧠 Memory: <tspan fill="#CD9077">4 GB</tspan></text>
-  <text x="20" y="250" font-family="monospace" font-size="16" font-weight="bold" fill="#569CD6">🖥️ Screen: <tspan fill="#CD9077">1</tspan></text>
-  <text x="20" y="280" font-family="monospace" font-size="16" font-weight="bold" fill="#569CD6">💻 Languages: <tspan fill="#CD9077">Python, HTML, CSS, JavaScript</tspan></text>
+  <text x="20" y="100" font-family="monospace" font-size="16" font-weight="bold" fill="#8BE9FD">🌐 OS: <tspan fill="#FF79C6">ChromeOS 132 + Linux (Crostini)</tspan></text>
+  <text x="20" y="130" font-family="monospace" font-size="16" font-weight="bold" fill="#8BE9FD">🖱️ Environment: <tspan fill="#FF79C6">Chrome Browser & Linux Terminal</tspan></text>
+  <text x="20" y="160" font-family="monospace" font-size="16" font-weight="bold" fill="#8BE9FD">⚙️ CPU: <tspan fill="#FF79C6">Celeron N3450 • 4 cores • 2.20GHz max</tspan></text>
+  <text x="20" y="190" font-family="monospace" font-size="16" font-weight="bold" fill="#8BE9FD">🎮 GPU: <tspan fill="#FF79C6">Intel HD Graphics 500</tspan></text>
+  <text x="20" y="220" font-family="monospace" font-size="16" font-weight="bold" fill="#8BE9FD">🧠 Memory: <tspan fill="#FF79C6">4 GB</tspan></text>
+  <text x="20" y="250" font-family="monospace" font-size="16" font-weight="bold" fill="#8BE9FD">🖥️ Screens: <tspan fill="#FF79C6">1</tspan></text>
+  <text x="20" y="280" font-family="monospace" font-size="16" font-weight="bold" fill="#8BE9FD">💻 Languages: <tspan fill="#FF79C6">Python, HTML, CSS, JavaScript</tspan></text>
+  <text x="20" y="310" font-family="monospace" font-size="16" font-weight="bold" fill="#8BE9FD">🖌️ Theme: <tspan fill="#FF79C6">Dracula</tspan></text>
 </svg>
