@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1750&pause=1000&color=6EB891&background=FF141400&width=435&lines=Hey+there!+M0dule2Master64+here;Welcome+to+my+github+readme!;I+love+coding;HMTL%2C+Python+and+JS+wizard.;always+wishing+everyone+a+great+day+%3AD;Learn+Python+its+easy.🤡)](https://git.io/typing-svg)
 
-### A warm welcome to my GitHub readme page! 👋 Hope your day is going well!
+### A warm welcome to my GitHub readme page! 👋 Hope your day or night is going well!
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 
@@ -11,9 +11,9 @@ https://modulemaster64.atabook.org/
 I'm a passionate coder who enjoys building cool stuff with **HTML**, **CSS**, **JavaScript**, and **Python**.  
 I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!**
 
-**The README Coding Quotes of the day lol** 🖥️
+**The coding README Quotes of the day lol** 🖥️
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme_C0ding Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 
@@ -21,7 +21,7 @@ I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!**
 
 ![User](https://gitmystat.vercel.app/user?username=ModuleMaster64)
 
-![Lang](https://gitmystat.vercel.app/top?theme=dino&username=ModuleMaster64&layout=bar)
+![Languages](https://gitmystat.vercel.app/top?theme=tokyo&username=ModuleMaster64&layout=bar)
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=ModuleMaster64&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
@@ -65,6 +65,7 @@ Feel free to reach out if you're interested in collaborating on a repo or just w
 - Impact V4/Vape for Miniblox (Co-Dev) - https://codeberg.org/RealPacket/VapeForMiniblox or https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2 (choice is yours)
 
 - PythonPrograms - https://github.com/ModuleMaster64/PythonPrograms
+
 ---
 
 ![giphy](https://github.com/user-attachments/assets/2e6b2051-0452-46cb-847c-9dd38a437f65)
@@ -117,7 +118,7 @@ Well done, you may now join the README Illuminati!
 
 </details>
 
-<!-- ## 🐍 Contribution Snake -->
+<!-- ## 🐍 ModuleMaster64's Contribution Snakey -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ModuleMaster64/ModuleMaster64/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
