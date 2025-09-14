@@ -15,7 +15,7 @@
 
   <!-- Content -->
   <text x="20" y="100" font-family="monospace" font-size="16" font-weight="bold" fill="#8BE9FD">🌐 OS: <tspan fill="#FF79C6">ChromeOS 132 + Linux (Crostini)</tspan></text>
-  <text x="20" y="130" font-family="monospace" font-size="16" font-weight="bold" fill="#8BE9FD">🖱️ Environment: <tspan fill="#FF79C6">Chrome Browser & Linux Terminal</tspan></text>
+  <text x="20" y="130" font-family="monospace" font-size="16" font-weight="bold" fill="#8BE9FD">🖱️ Environment: <tspan fill="#FF79C6">Chrome Browser/Linux Terminal</tspan></text>
   <text x="20" y="160" font-family="monospace" font-size="16" font-weight="bold" fill="#8BE9FD">⚙️ CPU: <tspan fill="#FF79C6">Celeron N3450 • 4 cores • 2.20GHz max</tspan></text>
   <text x="20" y="190" font-family="monospace" font-size="16" font-weight="bold" fill="#8BE9FD">🎮 GPU: <tspan fill="#FF79C6">Intel HD Graphics 500</tspan></text>
   <text x="20" y="220" font-family="monospace" font-size="16" font-weight="bold" fill="#8BE9FD">🧠 Memory: <tspan fill="#FF79C6">4 GB</tspan></text>
