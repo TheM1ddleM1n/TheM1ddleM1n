@@ -42,31 +42,6 @@ I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!**
 
 ---
 
-<svg width="500" height="320" viewBox="0 0 500 320" xmlns="http://www.w3.org/2000/svg">
-
-  <!-- Fundo com sombra -->
-  <rect x="0" y="0" width="500" height="320" rx="10" fill="#070A08"/>
-
-  <!-- Topo preto -->
-  <path d="M0,10 Q0,0 10,0 H490 Q500,0 500,10 V60 H0 Z" fill="#000000" />
-
- <!-- Linha separadora em duas cores -->
-<rect x="0" y="60" width="120" height="3" fill="#55D799" />
-<rect x="100" y="60" width="380" height="3" fill="#141818" />
-
-  <!-- Título -->
-  <text x="20" y="38" font-family="monospace" font-size="18" font-weight="bold" fill="#55D799">Specs</text>
-
-  <!-- Conteúdo -->
-  <text x="20" y="100" font-family="monospace" font-size="16" font-weight="bold" fill="#569CD6">🌐 OS: <tspan fill="#CD9077">Windows 11 Pro</tspan></text>
-  <text x="20" y="130" font-family="monospace" font-size="16" font-weight="bold" fill="#569CD6">🖱️ Desktop: <tspan fill="#CD9077">BIOSTAR Group H510MHP</tspan></text>
-  <text x="20" y="250" font-family="monospace" font-size="16" font-weight="bold" fill="#569CD6">🖥️ N° of screens: <tspan fill="#CD9077">3</tspan></text>
-  <text x="20" y="160" font-family="monospace" font-size="16" font-weight="bold" fill="#569CD6">⚙️ CPU: <tspan fill="#CD9077">10th Gen Intel Core i5-10400F</tspan></text>
-  <text x="20" y="190" font-family="monospace" font-size="16" font-weight="bold" fill="#569CD6">🎮 GPU: <tspan fill="#CD9077">NVIDIA GeForce GTX 1650</tspan></text>
-  <text x="20" y="220" font-family="monospace" font-size="16" font-weight="bold" fill="#569CD6">🧠 Memory: <tspan fill="#CD9077">16 GB</tspan></text>
-  <text x="20" y="280" font-family="monospace" font-size="16" font-weight="bold" fill="#569CD6">🛠️ Languages: <tspan fill="#CD9077">Python, Javascript, HTML</tspan></text>
-</svg>
-
 ## 📫 You can contact me via these platforms!
 
 Feel free to reach out if you're interested in collaborating on a repo or just want to chat about other things
