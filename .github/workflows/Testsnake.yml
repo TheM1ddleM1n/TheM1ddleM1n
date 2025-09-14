@@ -19,7 +19,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ModuleMaster64
-          outputs: dist/github-contribution-grid-snake-dark.svg
+          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
