@@ -42,6 +42,14 @@ I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!**
 
 ---
 
+## 🖥️ System Specs
+
+Here's a snapshot of my current setup:
+
+![My Specs](./assets/card.svg)
+
+
+
 ## 📫 You can contact me via these platforms!
 
 Feel free to reach out if you're interested in collaborating on a repo or just want to chat about other things
