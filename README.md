@@ -116,3 +116,9 @@ Answer: `git push --force` 😈
 Well done, you may now join the README Illuminati!
 
 </details>
+
+<!-- ## 🐍 Contribution Snake -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ModuleMaster64/ModuleMaster64/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
