@@ -18,7 +18,7 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: gpl-gowthamchand
+          github_user_name: ModuleMaster64
           outputs: dist/github-contribution-grid-snake-dark.svg
 
       - name: Push to Output Branch
