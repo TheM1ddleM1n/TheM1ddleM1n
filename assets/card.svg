@@ -15,7 +15,7 @@
   <text x="30" y="145" font-family="monospace" font-size="14" fill="#00FF00">GPU:          Intel HD Graphics 500</text>
   <text x="30" y="170" font-family="monospace" font-size="14" fill="#00FF00">Memory:       4 GB</text>
   <text x="30" y="195" font-family="monospace" font-size="14" fill="#00FF00">Screens:      1</text>
-  <text x="30" y="220" font-family="monospace" font-size="14" fill="#00FF00">Languages:    Python / HTML / CSS / JavaScript</text>
+  <text x="30" y="220" font-family="monospace" font-size="14" fill="#00FF00">ProgLanguages:    Python / HTML / CSS / JavaScript</text>
   <text x="30" y="245" font-family="monospace" font-size="14" fill="#00FF00">Theme:        Dracula</text>
 
   <text x="30" y="290" font-family="monospace" font-size="14" fill="#00FF00">> Status:      All systems nominal ✅</text>
