@@ -1,0 +1,115 @@
+<svg width="500" height="360" viewBox="0 0 500 360" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect x="0" y="0" width="500" height="360" rx="8" fill="#000000"/>
+  <rect x="10" y="10" width="480" height="340" rx="6" fill="#0C0C0C" stroke="#00FF00" stroke-width="1"/>
+
+  <!-- Boot sequence lines with animation -->
+  <text x="30" y="40" font-family="monospace" font-size="16" fill="#00FF00">
+    <tspan>
+      > Initializing system...
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze" begin="0s"/>
+    </tspan>
+  </text>
+
+  <text x="30" y="65" font-family="monospace" font-size="14" fill="#00FF00">
+    <tspan>
+      > Loading ChromeOS 132 / Linux (Crostini)
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze" begin="1s"/>
+    </tspan>
+  </text>
+
+  <text x="30" y="85" font-family="monospace" font-size="14" fill="#00FF00">
+    <tspan>
+      > Detecting environment: Chrome Browser / Linux Terminal
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze" begin="2s"/>
+    </tspan>
+  </text>
+
+  <text x="30" y="105" font-family="monospace" font-size="14" fill="#00FF00">
+    <tspan>
+      > CPU: Celeron N3450 (4 cores, 2.20GHz max)
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze" begin="3s"/>
+    </tspan>
+  </text>
+
+  <text x="30" y="125" font-family="monospace" font-size="14" fill="#00FF00">
+    <tspan>
+      > GPU: Intel HD Graphics 500
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze" begin="4s"/>
+    </tspan>
+  </text>
+
+  <text x="30" y="145" font-family="monospace" font-size="14" fill="#00FF00">
+    <tspan>
+      > Memory: 4 GB
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze" begin="5s"/>
+    </tspan>
+  </text>
+
+  <text x="30" y="165" font-family="monospace" font-size="14" fill="#00FF00">
+    <tspan>
+      > Display: 1 screen detected
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze" begin="6s"/>
+    </tspan>
+  </text>
+
+  <text x="30" y="185" font-family="monospace" font-size="14" fill="#00FF00">
+    <tspan>
+      > Languages: Python / HTML / CSS / JavaScript
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze" begin="7s"/>
+    </tspan>
+  </text>
+
+  <text x="30" y="205" font-family="monospace" font-size="14" fill="#00FF00">
+    <tspan>
+      > Theme: Dracula
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze" begin="8s"/>
+    </tspan>
+  </text>
+
+  <text x="30" y="235" font-family="monospace" font-size="14" fill="#00FF00">
+    <tspan>
+      > Verifying system integrity...
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze" begin="9s"/>
+    </tspan>
+  </text>
+
+  <text x="30" y="255" font-family="monospace" font-size="14" fill="#00FF00">
+    <tspan>
+      > All systems nominal ✅
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze" begin="10s"/>
+    </tspan>
+  </text>
+
+  <text x="30" y="275" font-family="monospace" font-size="14" fill="#00FF00">
+    <tspan>
+      > Launching user interface...
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze" begin="11s"/>
+    </tspan>
+  </text>
+
+  <text x="30" y="295" font-family="monospace" font-size="14" fill="#00FF00">
+    <tspan>
+      > Welcome, ModuleMaster64!
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze" begin="12s"/>
+    </tspan>
+  </text>
+
+  <text x="30" y="315" font-family="monospace" font-size="14" fill="#00FF00">
+    <tspan>
+      > Ready for deployment.<tspan id="cursor">_</tspan>
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze" begin="13s"/>
+    </tspan>
+  </text>
+
+  <!-- Blinking cursor animation -->
+  <style>
+    #cursor {
+      animation: blink 1s steps(1) infinite;
+    }
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+  </style>
+</svg>
