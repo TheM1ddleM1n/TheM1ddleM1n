@@ -118,6 +118,8 @@ Well done, you may now join the README Illuminati!
 
 </details>
 
+![PokemonCardStats](https://profile-card-ten-green.vercel.app/api/card?username=ModuleMaster64&type=steel)
+
 <!-- ## 🐍 ModuleMaster64's Contribution Snakey -->
 
 <p align="center">
