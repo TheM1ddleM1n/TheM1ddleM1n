@@ -64,7 +64,7 @@ Feel free to reach out if you're interested in collaborating on a repo or just w
 
 - Impact V4/Vape for Miniblox (Co-Dev) - https://codeberg.org/RealPacket/VapeForMiniblox or https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2 (choice is yours)
 
-- PythonPrograms - https://github.com/ModuleMaster64/PythonPrograms
+- PythonProgramsV3 - https://github.com/ModuleMaster64/PythonProgramsV3
 
 ---
 
