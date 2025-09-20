@@ -54,7 +54,7 @@ Here's a snapshot of my current setup:
 
 Feel free to reach out if you're interested in collaborating on a repo or just want to chat about other things
 
-- [Codeberg – ee6-lang](https://codeberg.org/ee6-lang) - Only maintaining 2 repos that are - MBT (Miniblox Bundle Tracker which i dont update) and Miniblox V4
+- [Codeberg – ee6-lang](https://codeberg.org/ee6-lang) - Only maintaining 1 repo: Miniblox V4
 - [Github - ModuleMaster64](https://github.com/ModuleMaster64)
 - [Atabook](https://modulemaster64.atabook.org/)
 
@@ -62,7 +62,7 @@ Feel free to reach out if you're interested in collaborating on a repo or just w
 
 ## 🧪 Current Projects!
 
-- Impact V4/Vape for Miniblox (Co-Dev) - https://codeberg.org/RealPacket/VapeForMiniblox or https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2 (choice is yours)
+- Impact/Vape for Miniblox (Co-Dev) - https://codeberg.org/RealPacket/VapeForMiniblox or https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2 (choice is yours)
 
 - PythonProgramsV3 - https://github.com/ModuleMaster64/PythonProgramsV3
 
@@ -114,11 +114,9 @@ Solve this riddle to receive access to `golden_branch_of_truth`:
 (Hint: It's the reason behind every frantic rollback)
 
 Answer: `git push --force` 😈  
-Well done, you may now join the README Illuminati!
+Well done! you may now join the README Illuminati.
 
 </details>
-
-![PokemonCardStats](https://profile-card-ten-green.vercel.app/api/card?username=ModuleMaster64&type=fire)
 
 <!-- ## 🐍 ModuleMaster64's Contribution Snakey -->
 
