@@ -8,10 +8,10 @@
 View and fill my Atabook plz I will always respond to your kind/thoughtful messages!                       
 https://modulemaster64.atabook.org/                                                                        
 -------------------------------------------------------------------------------------------------------------
-I'm a passionate coder who enjoys building cool stuff with **HTML**, **CSS**, **JavaScript**, and **Python**.  
+I'm a passionate coder who enjoys building cool stuff with **HTML/CSS**, **JavaScript**, and **Python**.  
 I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!**
 
-**The coding README Quotes of the day lol** 🖥️
+**The coding README Quotes of the day** 🖥️
 
 [![Readme_C0ding Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -76,10 +76,10 @@ Feel free to reach out if you're interested in collaborating on a repo or just w
 <details>
 <summary>🧨 Launch Diagnostic Mode</summary>
 
-$ initializing miniblox-ops --mode debug  
+$ initializing miniblox-ops --mode debug...
 ✓ Boot sequence triggered  
 ✓ ModuleMaster64 identity verified  
-✓ Guardian Of the Galaxy: Active  
+✓ Guardian of the Galaxy: Active  
 ✓ Snack protocols: 🍫 detected 3s  
 —
 
