@@ -1,0 +1,23 @@
+name: Clean Ghost Notifications
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Every 30 minutes
+  workflow_dispatch:
+
+jobs:
+  clean:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clean notifications from ping-plasma
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
+        run: |
+          curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/notifications?all=true" \
+            | jq '.[] | select(.repository.full_name == "ping-plasma/plasma.to") | .id' \
+            | while read id; do
+                curl -X PATCH -H "Authorization: token $GITHUB_TOKEN" \
+                  "https://api.github.com/notifications/threads/$id" \
+                  -d '{"read":true}'
+              done
