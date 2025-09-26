@@ -19,13 +19,13 @@ I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!**
 
 ---
 
-![Recent](https://gitmystat.vercel.app/recent?username=ModuleMaster64)
+![Recent](https://gitmystat.vercel.app/recent?username=TheM1ddleM1n)
 
-![User](https://gitmystat.vercel.app/user?username=ModuleMaster64)
+![User](https://gitmystat.vercel.app/user?username=TheM1ddleM1n)
 
-![Languages](https://gitmystat.vercel.app/top?theme=tokyo&username=ModuleMaster64&layout=bar)
+![Languages](https://gitmystat.vercel.app/top?theme=tokyo&username=TheM1ddleM1n&layout=bar)
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=ModuleMaster64&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=TheM1ddleM1n&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 ![Powered by Honor](https://img.shields.io/badge/Powered%20by-Honor!-blue?style=for-the-badge&logo=javascript&logoColor=white)
 ![Miniblox Dev](https://img.shields.io/badge/MinibloxScripter-Developer!-orange?style=for-the-badge&logo=code&logoColor=white)
@@ -57,7 +57,7 @@ Here's a snapshot of my current setup:
 Feel free to reach out if you're interested in collaborating on a repo or just want to chat about other things
 
 - [Codeberg – ee6-lang](https://codeberg.org/ee6-lang) - Only maintaining 1 repo: Miniblox V4
-- [Github - ModuleMaster64](https://github.com/ModuleMaster64)
+- [Github - TheM1ddleM1n](https://github.com/TheM1ddleM1n)
 - [Atabook](https://modulemaster64.atabook.org/)
 
 ---
@@ -66,14 +66,14 @@ Feel free to reach out if you're interested in collaborating on a repo or just w
 
 - Impact/Vape for Miniblox (Co-Dev) - https://codeberg.org/RealPacket/VapeForMiniblox or https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2 (choice is yours)
 
-- PythonProgramsV3 - https://github.com/ModuleMaster64/PythonProgramsV3
+- PythonProgramsV3 - https://github.com/TheM1ddleM1n/PythonProgramsV3
 
 ---
 
 ![giphy](https://github.com/user-attachments/assets/2e6b2051-0452-46cb-847c-9dd38a437f65)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ModuleMaster64)
-[![Follow @ModuleMaster64](https://img.shields.io/github/followers/ModuleMaster64?label=Follow&style=social)](https://github.com/ModuleMaster64)
+[![Follow @TheM1ddleM1n](https://img.shields.io/github/followers/ModuleMaster64?label=Follow&style=social)](https://github.com/TheM1ddleM1n)
 
 <details>
 <summary>🧨 Launch Diagnostic Mode</summary>
@@ -120,8 +120,8 @@ Well done! you may now join the README Illuminati.
 
 </details>
 
-<!-- ## 🐍 ModuleMaster64's Contribution Snakey -->
+<!-- ## 🐍 TheM1ddleM1n's Contribution Snakey -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ModuleMaster64/ModuleMaster64/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1noutput/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
