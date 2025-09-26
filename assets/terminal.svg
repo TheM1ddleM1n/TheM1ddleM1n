@@ -76,7 +76,7 @@
   <text x="30" y="150" class="line">> Memory: 4 GB</text>
   <text x="30" y="170" class="line">> Display: 1 screen detected</text>
   <text x="30" y="190" class="line">> Languages: Python / HTML / CSS / JavaScript</text>
-  <text x="30" y="210" class="line">> Theme: Dracula</text>
+  <text x="30" y="210" class="line">> Theme: Terminal</text>
   <text x="30" y="230" class="line">> Verifying system integrity...</text>
   <text x="30" y="250" class="line">> All systems nominal ✅</text>
   <text x="30" y="270" class="line">> Launching user interface...</text>
