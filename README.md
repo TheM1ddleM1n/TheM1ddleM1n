@@ -48,7 +48,7 @@ I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!**
 
 Here's a snapshot of my current setup:
 
-![My_Specification](./assets/terminal.svg)
+![My_Specification](./assets/terminal2.svg)
 
 
 
