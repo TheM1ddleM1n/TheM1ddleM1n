@@ -80,7 +80,7 @@
   <text x="30" y="230" class="line">> Verifying system integrity...</text>
   <text x="30" y="250" class="line">> All systems nominal ✅</text>
   <text x="30" y="270" class="line">> Launching user interface...</text>
-  <text x="30" y="290" class="line">> Welcome, ModuleMaster64</text>
+  <text x="30" y="290" class="line">> Welcome, TheM1ddleM1n</text>
 
   <!-- Loading bar -->
   <text x="30" y="315" font-family="monospace" font-size="14" fill="#00FF00">> Loading: [</text>
@@ -95,5 +95,5 @@
 
   <!-- Boot failure Easter egg -->
   <text x="30" y="365" class="fail">!! SYSTEM FAILURE: Kernel panic at 0x0000F3</text>
-  <text x="30" y="385" class="fail">!! Rebooting...</text>
+  <text x="30" y="385" class="fail">!! Shutting down and rebooting...</text>
 </svg>
