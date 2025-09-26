@@ -18,7 +18,7 @@ jobs:
       - name: Generate Snake Animation (Dark Theme)
         uses: Platane/snk@v3
         with:
-          github_user_name: ModuleMaster64
+          github_user_name: TheM1ddleM1n
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
