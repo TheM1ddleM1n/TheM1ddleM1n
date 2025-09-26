@@ -58,7 +58,7 @@ Feel free to reach out if you're interested in collaborating on a repo or just w
 
 - [Codeberg – ee6-lang](https://codeberg.org/ee6-lang) - Only maintaining 1 repo: Miniblox V4
 - [Github - TheM1ddleM1n](https://github.com/TheM1ddleM1n)
-- [Atabook](https://modulemaster64.atabook.org/)
+- [Atabook](https://them1ddlem1n.atabook.org/)
 
 ---
 
