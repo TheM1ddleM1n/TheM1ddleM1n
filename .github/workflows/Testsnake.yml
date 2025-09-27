@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+    - cron: "*/55 * * * *"  # Runs every 55 minutes!
   workflow_dispatch:
 
 jobs:
