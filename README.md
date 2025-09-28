@@ -68,8 +68,8 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 
 ![giphy](https://github.com/user-attachments/assets/2e6b2051-0452-46cb-847c-9dd38a437f65)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ModuleMaster64)
-[![Follow @TheM1ddleM1n](https://img.shields.io/github/followers/ModuleMaster64?label=Follow&style=social)](https://github.com/TheM1ddleM1n)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheM1ddleM1n)
+[![Follow @TheM1ddleM1n](https://img.shields.io/github/followers/TheM1ddleM1n?label=Follow&style=social)](https://github.com/TheM1ddleM1n)
 
 <details>
 <summary>🧨 Launch Diagnostic Mode</summary>
