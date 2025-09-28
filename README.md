@@ -10,8 +10,7 @@
 View and fill my Atabook plz I will always respond to your kind/thoughtful messages!                       
 https://them1ddlem1n.atabook.org/                                                                        
 -------------------------------------------------------------------------------------------------------------
-I'm a passionate coder who enjoys building cool stuff with **HTML/CSS**, **JavaScript**, and **Python**.  
-I'm also a **co-dev for Impact/Vape/Miniblox v4 for Miniblox!**
+I'm a passionate coder who enjoys building cool stuff with **HTML/CSS**, **JavaScript**, and **Python**.
 
 **The coding README Quotes of the day** 🖥️
 
@@ -54,9 +53,8 @@ Here's a snapshot of my current setup:
 
 ## 📫 You can contact me via these platforms!
 
-Feel free to reach out if you're interested in collaborating on a repo or just want to chat about other things
+Feel free to reach out if you're interested in collaborating or just want to chat about other things
 
-- [Codeberg – ee6-lang](https://codeberg.org/ee6-lang) - Only maintaining 1 repo: Miniblox V4
 - [Github - TheM1ddleM1n](https://github.com/TheM1ddleM1n)
 - [Atabook](https://them1ddlem1n.atabook.org/)
 
@@ -64,7 +62,7 @@ Feel free to reach out if you're interested in collaborating on a repo or just w
 
 ## 🧪 Current Projects!
 
-- Impact/Vape for Miniblox (Co-Dev) - https://codeberg.org/RealPacket/VapeForMiniblox or https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2 (choice is yours)
+- Impact/Vape for Miniblox - https://codeberg.org/RealPacket/VapeForMiniblox or https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2 (choice is yours ofc)
 
 - PythonProgramsV3 - https://github.com/TheM1ddleM1n/PythonProgramsV3
 
@@ -78,9 +76,9 @@ Feel free to reach out if you're interested in collaborating on a repo or just w
 <details>
 <summary>🧨 Launch Diagnostic Mode</summary>
 
-$ initializing miniblox-ops --mode debug...
+$ initializing python-ops --mode debug...
 ✓ Boot sequence triggered  
-✓ ModuleMaster64 identity verified  
+✓ TheM1ddleM1n identity verified!
 ✓ Guardian of the Galaxy: Active  
 ✓ Snack protocols: 🍫 detected 3s  
 —
@@ -88,7 +86,7 @@ $ initializing miniblox-ops --mode debug...
 Running diagnostic...
 
 [WARN] Recursive recursion detected  
-[INFO] Miniblox script velocity: 10000 rpm a sec
+[INFO] scripts velocity: 10000 rpm a sec
 [ERROR] Meme threshold exceeded. System giggling uncontrollably.  
 [SYS] Unused codebase fragments found in dimension 4D.
 
