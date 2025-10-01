@@ -2,7 +2,7 @@
 
 ### A warm welcome to my GitHub readme! 👋 Hope your day or night is going well!
 
-![My_Specification](./header.png)
+![Hi!](./header.png)
 
 ## I always work nonstop no matter the circumstances!
 
