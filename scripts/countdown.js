@@ -5,4 +5,4 @@ let interval = setInterval(() => {
     clearInterval(interval);
     console.log("\nTime's up!");
   }
-}, 2000);
+}, 1000);
