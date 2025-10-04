@@ -75,6 +75,10 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 `Thanks for making my day :D`
 [![Follow @TheM1ddleM1n](https://img.shields.io/github/followers/TheM1ddleM1n?label=Follow&style=social)](https://github.com/TheM1ddleM1n)
 
+
+[![Play_My_New_Game!-GitHub Battleships](https://img.shields.io/badge/Play-GitHub%20Battleships-blue?style=for-the-badge)](https://github.com/TheM1ddleM1n/github-battleships)
+
+
 <details>
 <summary>🧨 Launch Diagnostic Mode</summary>
 
