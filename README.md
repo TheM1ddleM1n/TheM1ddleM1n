@@ -2,7 +2,7 @@
 
 ### A warm welcome to my GitHub readme! 👋 Hope your day or night is going well!
 
-![Hi!](./header.png)
+![Hello!](./header.png)
 Note: `Thanks khalby786!`
 
 ## I always work nonstop no matter the circumstances!
@@ -17,7 +17,7 @@ I'm a passionate coder who enjoys building cool stuff with **HTML/CSS**, **JavaS
 
 **The coding README Quotes of the day** 🖥️
 
-[![Readme_C0ding Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme_Coding Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 
@@ -63,7 +63,7 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 
 ---
 
-## 🧪 Current Projects!
+## 🧪 My Current Projects that I am cooking on!
 
 - Impact/Vape for Miniblox - https://codeberg.org/RealPacket/VapeForMiniblox or https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2 (choice is yours ofc)
 
