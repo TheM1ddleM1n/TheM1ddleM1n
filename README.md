@@ -29,6 +29,8 @@ I'm a passionate coder who enjoys building cool stuff with **HTML/CSS**, **JavaS
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=TheM1ddleM1n&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
+![trophies](https://github-profile-trophy.vercel.app/?username=TheM1ddleM1n&theme=gruvbox "These are all of my trophies!")
+
 ![Powered by Honor](https://img.shields.io/badge/Powered%20by-Honor!-blue?style=for-the-badge&logo=javascript&logoColor=white)
 ![Collab King ProgMEM-CC](https://img.shields.io/badge/Collab%20King-ProgMEM--CC-red?style=for-the-badge&logo=javascript)
 ![Friendship Guardian Badge](https://img.shields.io/badge/Friendship-Guardian-ff69b4?style=for-the-badge)
