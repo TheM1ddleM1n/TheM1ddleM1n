@@ -127,6 +127,13 @@ Well done! you may now join the README Illuminati.
 ## 👥 Latest Followers
 
 <!-- FOLLOWERS_START -->
+| Avatar | Username | Profile |
+|--------|----------|---------|
+| ![avatar](https://avatars.githubusercontent.com/u/262625?v=4&s=40) | bws9000 | [Link](https://github.com/bws9000) |
+| ![avatar](https://avatars.githubusercontent.com/u/277861?v=4&s=40) | levonk | [Link](https://github.com/levonk) |
+| ![avatar](https://avatars.githubusercontent.com/u/417514?v=4&s=40) | Boyquotes | [Link](https://github.com/Boyquotes) |
+| ![avatar](https://avatars.githubusercontent.com/u/883279?v=4&s=40) | chatman-media | [Link](https://github.com/chatman-media) |
+| ![avatar](https://avatars.githubusercontent.com/u/1431864?v=4&s=40) | Zizwar | [Link](https://github.com/Zizwar) |
 <!-- FOLLOWERS_END -->
 
 
