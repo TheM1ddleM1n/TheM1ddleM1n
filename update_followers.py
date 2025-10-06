@@ -36,7 +36,7 @@ def find_new_followers(current, previous):
 def generate_table(followers):
     table = "| Avatar | Username | Profile |\n|--------|----------|---------|\n"
     for f in followers:
-        avatar_md = f"![avatar]({f['avatar_url']}?s=40)"
+        avatar_md = f"<img src='{f['avatar_url']}' width='24' height='24' />"
         table += f"| {avatar_md} | {f['login']} | [Link]({f['html_url']}) |\n"
     return table.strip()
 
