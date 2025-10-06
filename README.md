@@ -129,11 +129,11 @@ Well done! you may now join the README Illuminati.
 <!-- FOLLOWERS_START -->
 | Avatar | Username | Profile |
 |--------|----------|---------|
-| ![avatar](https://avatars.githubusercontent.com/u/262625?v=4&s=40) | bws9000 | [Link](https://github.com/bws9000) |
-| ![avatar](https://avatars.githubusercontent.com/u/277861?v=4&s=40) | levonk | [Link](https://github.com/levonk) |
-| ![avatar](https://avatars.githubusercontent.com/u/417514?v=4&s=40) | Boyquotes | [Link](https://github.com/Boyquotes) |
-| ![avatar](https://avatars.githubusercontent.com/u/883279?v=4&s=40) | chatman-media | [Link](https://github.com/chatman-media) |
-| ![avatar](https://avatars.githubusercontent.com/u/1431864?v=4&s=40) | Zizwar | [Link](https://github.com/Zizwar) |
+| ![avatar](https://avatars.githubusercontent.com/u/18186995?u=79d755064b05ad8764ed56b1034854139075e89f&v=4&s=40) | IDouble | [Link](https://github.com/IDouble) |
+| ![avatar](https://avatars.githubusercontent.com/u/210544824?v=4&s=40) | ispyboy | [Link](https://github.com/ispyboy) |
+| ![avatar](https://avatars.githubusercontent.com/u/214260680?v=4&s=40) | BlatantBloxdPlayer4 | [Link](https://github.com/BlatantBloxdPlayer4) |
+| ![avatar](https://avatars.githubusercontent.com/u/182857081?v=4&s=40) | ProgMEM-CC | [Link](https://github.com/ProgMEM-CC) |
+| ![avatar](https://avatars.githubusercontent.com/u/175685880?u=bd3fe7dc54b18d1e06d4b074bfd31e85f864a971&v=4&s=40) | dtkiller-jp | [Link](https://github.com/dtkiller-jp) |
 <!-- FOLLOWERS_END -->
 
 
