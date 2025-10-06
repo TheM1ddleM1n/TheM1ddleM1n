@@ -7,28 +7,51 @@ logging.basicConfig(level=logging.INFO)
 
 # Constants
 USERNAME = "TheM1ddleM1n"
-TOKEN = os.getenv("GH_FOLLOW_TOKEN")  # Updated token name
-API_URL = f"https://api.github.com/users/{USERNAME}/followers"
+TOKEN = os.getenv("GH_FOLLOW_TOKEN")
+API_URL = "https://api.github.com/graphql"
 README_PATH = "README.md"
 START_TAG = "<!-- FOLLOWERS_START -->"
 END_TAG = "<!-- FOLLOWERS_END -->"
 
-def fetch_followers(limit=5):
-    headers = {"Authorization": f"token {TOKEN}"}
-    response = requests.get(API_URL, headers=headers)
+def fetch_recent_followers(limit=5):
+    """Fetch the most recent followers using GitHub GraphQL API."""
+    query = f"""
+    {{
+      user(login: "{USERNAME}") {{
+        followers(last: {limit}) {{
+          nodes {{
+            login
+            avatarUrl
+            url
+          }}
+        }}
+      }}
+    }}
+    """
+    headers = {
+        "Authorization": f"Bearer {TOKEN}",
+        "Content-Type": "application/json"
+    }
+    response = requests.post(API_URL, json={"query": query}, headers=headers)
     if response.status_code != 200:
-        logging.error(f"GitHub API error: {response.status_code}")
+        logging.error(f"GraphQL API error: {response.status_code}")
         return []
-    return response.json()[:limit]
+    try:
+        return response.json()["data"]["user"]["followers"]["nodes"]
+    except Exception as e:
+        logging.error(f"Error parsing response: {e}")
+        return []
 
 def generate_table(followers):
+    """Generate markdown table with avatars, usernames, and profile links."""
     table = "| Avatar | Username | Profile |\n|--------|----------|---------|\n"
     for f in followers:
-        avatar_md = f"![avatar]({f['avatar_url']}&s=40)"
-        table += f"| {avatar_md} | {f['login']} | [Link]({f['html_url']}) |\n"
+        avatar_md = f"![avatar]({f['avatarUrl']}&s=40)"
+        table += f"| {avatar_md} | {f['login']} | [Link]({f['url']}) |\n"
     return table.strip()
 
 def update_readme(table):
+    """Replace the follower section in README with the new table."""
     try:
         with open(README_PATH, "r", encoding="utf-8") as f:
             content = f.read()
@@ -59,7 +82,7 @@ def main():
         logging.error("GH_FOLLOW_TOKEN environment variable not set.")
         return
 
-    followers = fetch_followers()
+    followers = fetch_recent_followers()
     if not followers:
         logging.warning("No followers fetched.")
         return
