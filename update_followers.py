@@ -1,94 +1,82 @@
 import requests
 import os
+import json
 import logging
 
-# Setup logging
+# Setup
 logging.basicConfig(level=logging.INFO)
-
-# Constants
 USERNAME = "TheM1ddleM1n"
 TOKEN = os.getenv("GH_FOLLOW_TOKEN")
-API_URL = "https://api.github.com/graphql"
+API_URL = f"https://api.github.com/users/{USERNAME}/followers?per_page=100"
 README_PATH = "README.md"
+DATA_PATH = "followers.json"
 START_TAG = "<!-- FOLLOWERS_START -->"
 END_TAG = "<!-- FOLLOWERS_END -->"
 
-def fetch_recent_followers(limit=5):
-    """Fetch the most recent followers using GitHub GraphQL API."""
-    query = f"""
-    {{
-      user(login: "{USERNAME}") {{
-        followers(last: {limit}) {{
-          nodes {{
-            login
-            avatarUrl
-            url
-          }}
-        }}
-      }}
-    }}
-    """
-    headers = {
-        "Authorization": f"Bearer {TOKEN}",
-        "Content-Type": "application/json"
-    }
-    response = requests.post(API_URL, json={"query": query}, headers=headers)
-    if response.status_code != 200:
-        logging.error(f"GraphQL API error: {response.status_code}")
+def fetch_followers():
+    headers = {"Authorization": f"token {TOKEN}"}
+    response = requests.get(API_URL, headers=headers)
+    response.raise_for_status()
+    return response.json()
+
+def load_previous_followers():
+    if not os.path.exists(DATA_PATH):
         return []
-    try:
-        return response.json()["data"]["user"]["followers"]["nodes"]
-    except Exception as e:
-        logging.error(f"Error parsing response: {e}")
-        return []
+    with open(DATA_PATH, "r") as f:
+        return json.load(f)
+
+def save_followers(followers):
+    with open(DATA_PATH, "w") as f:
+        json.dump([f["login"] for f in followers], f)
+
+def find_new_followers(current, previous):
+    current_usernames = [f["login"] for f in current]
+    return [f for f in current if f["login"] not in previous][:5]
 
 def generate_table(followers):
-    """Generate markdown table with avatars, usernames, and profile links."""
     table = "| Avatar | Username | Profile |\n|--------|----------|---------|\n"
     for f in followers:
-        avatar_md = f"![avatar]({f['avatarUrl']}&s=40)"
-        table += f"| {avatar_md} | {f['login']} | [Link]({f['url']}) |\n"
+        avatar_md = f"![avatar]({f['avatar_url']}?s=40)"
+        table += f"| {avatar_md} | {f['login']} | [Link]({f['html_url']}) |\n"
     return table.strip()
 
 def update_readme(table):
-    """Replace the follower section in README with the new table."""
-    try:
-        with open(README_PATH, "r", encoding="utf-8") as f:
-            content = f.read()
+    with open(README_PATH, "r", encoding="utf-8") as f:
+        content = f.read()
 
-        start = content.find(START_TAG)
-        end = content.find(END_TAG)
+    start = content.find(START_TAG)
+    end = content.find(END_TAG)
 
-        if start == -1 or end == -1:
-            logging.warning("Placeholder tags not found in README.")
-            return
+    if start == -1 or end == -1:
+        logging.warning("Placeholder tags not found.")
+        return
 
-        new_content = (
-            content[:start + len(START_TAG)] + "\n" +
-            table + "\n" +
-            content[end:]
-        )
+    new_content = (
+        content[:start + len(START_TAG)] + "\n" +
+        table + "\n" +
+        content[end:]
+    )
 
-        with open(README_PATH, "w", encoding="utf-8") as f:
-            f.write(new_content)
-
-        logging.info("README updated successfully.")
-
-    except Exception as e:
-        logging.error(f"Error updating README: {e}")
+    with open(README_PATH, "w", encoding="utf-8") as f:
+        f.write(new_content)
 
 def main():
     if not TOKEN:
-        logging.error("GH_FOLLOW_TOKEN environment variable not set.")
+        logging.error("GH_FOLLOW_TOKEN not set.")
         return
 
-    followers = fetch_recent_followers()
-    if not followers:
-        logging.warning("No followers fetched.")
-        return
+    current_followers = fetch_followers()
+    previous_usernames = load_previous_followers()
+    new_followers = find_new_followers(current_followers, previous_usernames)
 
-    table = generate_table(followers)
-    update_readme(table)
+    if new_followers:
+        table = generate_table(new_followers)
+        update_readme(table)
+        logging.info("README updated with new followers.")
+    else:
+        logging.info("No new followers found.")
+
+    save_followers(current_followers)
 
 if __name__ == "__main__":
     main()
