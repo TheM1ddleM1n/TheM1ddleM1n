@@ -2,7 +2,7 @@ name: Mark All Notifications as Read (stops ghost messages showing a blue notifi
 
 on:
   schedule:
-    - cron: '*/45 * * * *'  # Runs every 45 minutes!
+    - cron: '0 */4 * * *'  # Runs every 4 hours
   workflow_dispatch:
 
 jobs:
