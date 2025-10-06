@@ -3,7 +3,7 @@
 ### A warm welcome to my GitHub readme! 👋 Hope your day or night is going well!
 
 ![Hello!](./header.png)
-Note: `Thanks khalby786!`
+`Thanks khalby786!`
 
 ## I always work nonstop no matter the circumstances!
 
