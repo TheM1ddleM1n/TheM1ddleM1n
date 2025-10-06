@@ -22,16 +22,16 @@ def fetch_followers():
 def load_previous_followers():
     if not os.path.exists(DATA_PATH):
         return []
-    with open(DATA_PATH, "r") as f:
+    with open(DATA_PATH, "r", encoding="utf-8") as f:
         return json.load(f)
 
 def save_followers(followers):
-    with open(DATA_PATH, "w") as f:
-        json.dump([f["login"] for f in followers], f)
+    with open(DATA_PATH, "w", encoding="utf-8") as f:
+        json.dump(followers, f, indent=2)
 
 def find_new_followers(current, previous):
-    current_usernames = [f["login"] for f in current]
-    return [f for f in current if f["login"] not in previous][:5]
+    previous_usernames = [f["login"] for f in previous]
+    return [f for f in current if f["login"] not in previous_usernames][:5]
 
 def generate_table(followers):
     table = "| Avatar | Username | Profile |\n|--------|----------|---------|\n"
@@ -66,8 +66,8 @@ def main():
         return
 
     current_followers = fetch_followers()
-    previous_usernames = load_previous_followers()
-    new_followers = find_new_followers(current_followers, previous_usernames)
+    previous_followers = load_previous_followers()
+    new_followers = find_new_followers(current_followers, previous_followers)
 
     if new_followers:
         table = generate_table(new_followers)
