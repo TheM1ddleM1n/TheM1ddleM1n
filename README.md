@@ -124,6 +124,12 @@ Well done! you may now join the README Illuminati.
 
 </details>
 
+## 👥 Latest Followers
+
+<!-- FOLLOWERS_START -->
+<!-- FOLLOWERS_END -->
+
+
 <!-- ## 🐍 TheM1ddleM1n's Contribution Snakey -->
 
 <p align="center">
