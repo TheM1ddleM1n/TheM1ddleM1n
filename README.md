@@ -124,18 +124,6 @@ Well done! you may now join the README Illuminati.
 
 </details>
 
-## 👥 Latest Followers
-
-<!-- FOLLOWERS_START -->
-| Avatar | Username | Profile |
-|--------|----------|---------|
-| <img src='https://avatars.githubusercontent.com/u/262625?v=4' width='24' height='24' /> | bws9000 | [Link](https://github.com/bws9000) |
-| <img src='https://avatars.githubusercontent.com/u/277861?v=4' width='24' height='24' /> | levonk | [Link](https://github.com/levonk) |
-| <img src='https://avatars.githubusercontent.com/u/417514?v=4' width='24' height='24' /> | Boyquotes | [Link](https://github.com/Boyquotes) |
-| <img src='https://avatars.githubusercontent.com/u/883279?v=4' width='24' height='24' /> | chatman-media | [Link](https://github.com/chatman-media) |
-| <img src='https://avatars.githubusercontent.com/u/1431864?v=4' width='24' height='24' /> | Zizwar | [Link](https://github.com/Zizwar) |
-<!-- FOLLOWERS_END -->
-
 
 <!-- ## 🐍 TheM1ddleM1n's Contribution Snakey -->
 
