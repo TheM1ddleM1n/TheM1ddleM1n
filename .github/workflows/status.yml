@@ -1,0 +1,43 @@
+name: Update Status Based on Commits
+
+on:
+  push:
+  schedule:
+    - cron: '*/30 * * * *'  # every 30 minutes
+  workflow_dispatch:
+
+jobs:
+  update-status:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Get latest commit timestamp
+        run: |
+          latest_commit=$(git log -1 --format=%ct)
+          now=$(date +%s)
+          diff=$(( now - latest_commit ))
+
+          if [ "$diff" -lt 3600 ]; then
+            echo "🟢 Online" > status.txt
+            echo "TheM1ddleM1n is in full flow. Commits are flying, vibes are high." > message.txt
+          elif [ "$diff" -lt 259200 ]; then
+            echo "🧘‍♂️ Idle" > status.txt
+            echo "Brewing ideas in the background. TheM1ddleM1n is in low-power creative mode." > message.txt
+          else
+            echo "⚪ Offline" > status.txt
+            echo "Recharging in the shadows. TheM1ddleM1n will return with fire." > message.txt
+          fi
+
+      - name: Update README
+        run: |
+          status=$(cat status.txt)
+          message=$(cat message.txt)
+          sed -i '/<!--STATUS-->.*<!--END_STATUS-->/c\### Status: <!--STATUS-->'"$status"'<!--END_STATUS-->' README.md
+          sed -i '/<!--STATUS_MESSAGE-->.*<!--END_STATUS_MESSAGE-->/c\<!--STATUS_MESSAGE-->'"$message"'<!--END_STATUS_MESSAGE-->' README.md
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Auto-update status to $status"
