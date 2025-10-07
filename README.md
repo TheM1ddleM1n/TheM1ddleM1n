@@ -5,8 +5,8 @@
 ![Hello!](./header.png)
 `Thanks khalby786!`
 
-### Status: <!--STATUS-->🟢 Online<!--END_STATUS-->
-<!--STATUS_MESSAGE-->TheM1ddleM1n is in full flow. Commits are flying, vibes are high.<!--END_STATUS_MESSAGE-->
+### Status: <!--STATUS-->🧘‍♂️ Idle<!--END_STATUS-->
+<!--STATUS_MESSAGE-->Brewing ideas in the background. TheM1ddleM1n is in low-power creative mode.<!--END_STATUS_MESSAGE-->
 
 
 ## I always work nonstop no matter the circumstances!
