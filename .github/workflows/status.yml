@@ -1,4 +1,4 @@
-name: Update Status Based on Commits
+name: Status Messages
 
 on:
   push:
