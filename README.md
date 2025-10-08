@@ -41,7 +41,6 @@ I'm a passionate coder who enjoys building cool stuff with **HTML/CSS**, **JavaS
 ![trophies](https://github-profile-trophy.vercel.app/?username=TheM1ddleM1n&theme=gruvbox "These are all of my trophies for github!!")
 
 ![Powered by Honor](https://img.shields.io/badge/Powered%20by-Honor!-blue?style=for-the-badge&logo=javascript&logoColor=white)
-![Collab King!](https://img.shields.io/badge/Collab%20King!red?style=for-the-badge&logo=javascript)
 ![Friendship Guardian Badge](https://img.shields.io/badge/Friendship-Guardian-ff69b4?style=for-the-badge)
 
 ---
