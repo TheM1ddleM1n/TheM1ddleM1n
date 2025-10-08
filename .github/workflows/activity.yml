@@ -15,7 +15,7 @@ jobs:
           user: TheM1ddleM1n
           filename: metrics.plugin.activity.svg
           base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 7
-          plugin_activity_filter: all
+          plugin_recent_activity: yes
+          plugin_recent_activity_limit: 5
+          plugin_recent_activity_days: 7
+          plugin_recent_activity_show: commits, issues, pull_requests
