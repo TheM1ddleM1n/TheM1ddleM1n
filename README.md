@@ -32,8 +32,6 @@ I'm a passionate coder who enjoys building cool stuff with **HTML/CSS**, **JavaS
 
 ![User](https://gitmystat.vercel.app/user?username=TheM1ddleM1n)
 
-![Languages](https://gitmystat.vercel.app/top?theme=tokyo&username=TheM1ddleM1n&layout=bar)
-
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=TheM1ddleM1n&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=TheM1ddleM1n&theme=gruvbox "These are all of my trophies for github!!")
