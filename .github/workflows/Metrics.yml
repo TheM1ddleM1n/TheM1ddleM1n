@@ -20,3 +20,4 @@ jobs:
           plugin_recent_activity: yes
           plugin_recent_activity_limit: 5
           plugin_recent_activity_days: 7
+          plugin_recent_activity_show: commits, issues, pull_requests
