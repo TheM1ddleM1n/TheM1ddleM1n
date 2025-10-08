@@ -1,7 +1,7 @@
 name: Metrics Terminal
 
 on:
-  schedule: [{cron: "0 0 * * *"}]  # runs daily
+  schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
 
 jobs:
@@ -16,3 +16,7 @@ jobs:
           template: terminal
           filename: metrics.terminal.svg
           base: header, metadata
+          plugin_languages: yes
+          plugin_recent_activity: yes
+          plugin_recent_activity_limit: 5
+          plugin_recent_activity_days: 7
