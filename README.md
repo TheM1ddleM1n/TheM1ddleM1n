@@ -9,6 +9,9 @@
 <!--STATUS_MESSAGE-->TheM1ddleM1n is in full flow. Commits are flying, vibes are high.<!--END_STATUS_MESSAGE-->
 
 
+![Terminal Metrics](https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/main/metrics.terminal.svg)
+
+
 ## I always work nonstop no matter the circumstances!
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
