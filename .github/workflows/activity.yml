@@ -14,7 +14,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: TheM1ddleM1n
           filename: metrics.plugin.activity.svg
-          base: ""
+          template: classic
+          base: header, activity, metadata
           plugin_recent_activity: yes
           plugin_recent_activity_limit: 5
           plugin_recent_activity_days: 7
