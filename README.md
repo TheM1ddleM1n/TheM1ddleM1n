@@ -53,7 +53,7 @@ I'm a passionate coder who enjoys building cool stuff with **HTML/CSS**, **JavaS
 
 ---
 
-## 🖥️ System Specs (You will manually have to refresh if you want it feels like a GIF)
+## 🖥️ My System Specs heh! (You will manually have to refresh if you want it feels like a GIF)
 
 Here's a snapshot of my current setup:
 
@@ -61,7 +61,7 @@ Here's a snapshot of my current setup:
 
 
 
-## 📫 You can contact me via these platforms!
+## 📫 You can freely contact me via these platforms!
 
 Feel free to reach out if you're interested in collaborating or just want to chat about other things
 
