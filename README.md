@@ -20,7 +20,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 
 -------------------------------------------------------------------------------------------------------------
-View and fill my Atabook plz I will always respond to your kind/thoughtful messages!                       
+View and fill my Atabook plz I will always respond to your kind + thoughtful messages!                       
 https://them1ddlem1n.atabook.org/                                                                        
 -------------------------------------------------------------------------------------------------------------
 I'm a passionate coder who enjoys building cool stuff with **HTML/CSS**, **JavaScript**, and **Python**.
@@ -79,15 +79,16 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 ---
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheM1ddleM1n) 
-`Thanks for making my day :D`
+`Thank you for making my day! :D`
+
 [![Follow @TheM1ddleM1n](https://img.shields.io/github/followers/TheM1ddleM1n?label=Follow&style=social)](https://github.com/TheM1ddleM1n)
 
 
-[![Play_My_New_Game!-GitHub Battleships](https://img.shields.io/badge/Play-GitHub%20Battleships-blue?style=for-the-badge)](https://github.com/TheM1ddleM1n/github-battleships)
+[![Please_play_my_new_game!-_GitHub Battleships](https://img.shields.io/badge/Play-GitHub%20Battleships-blue?style=for-the-badge)](https://github.com/TheM1ddleM1n/github-battleships)
 
 
 <details>
-<summary>🧨 Launch Diagnostic Mode</summary>
+<summary>🧨 Launch My Diagnostic Mode</summary>
 
 $ initializing python-ops --mode debug...
 ✓ Boot sequence triggered  
