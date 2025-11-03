@@ -5,10 +5,6 @@
 ![Hello!](./header.png)
 `Thanks khalby786!`
 
-### Status: <!--STATUS-->🟢 Online<!--END_STATUS-->
-<!--STATUS_MESSAGE-->TheM1ddleM1n is in full flow. Commits are flying, vibes are high.<!--END_STATUS_MESSAGE-->
-
-
 ![Terminal Metrics](https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/main/metrics.terminal.svg)
 
 ![Recent Activity](https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/main/metrics.plugin.activity.svg)
