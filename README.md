@@ -215,7 +215,7 @@ Running diagnostics...
 
 <div align="center">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheM1ddleM1n)
+![Profile Views](https://komarev.com/ghpvc/?username=TheM1ddleM1n&color=6EB891&style=for-the-badge&label=PROFILE+VIEWS)
 
 [![Follow](https://img.shields.io/github/followers/TheM1ddleM1n?label=Follow&style=social)](https://github.com/TheM1ddleM1n)
 
