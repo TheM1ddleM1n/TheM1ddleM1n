@@ -89,25 +89,47 @@ I'm a developer who loves building cool stuff with **HTML/CSS**, **JavaScript**,
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%">
+
 <a href="https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProgMEM-CC&repo=miniblox.impact.client.updatedv2&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ProgMEM-CC&repo=miniblox.impact.client.updatedv2&theme=tokyonight&hide_border=true" />
 </a>
+
+</td>
+<td width="50%">
 
 <a href="https://github.com/TheM1ddleM1n/PythonProgramsV3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheM1ddleM1n&repo=PythonProgramsV3&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheM1ddleM1n&repo=PythonProgramsV3&theme=tokyonight&hide_border=true" />
 </a>
 
-<br><br>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 <a href="https://github.com/TheM1ddleM1n/github-battleships">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheM1ddleM1n&repo=github-battleships&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheM1ddleM1n&repo=github-battleships&theme=tokyonight&hide_border=true" />
 </a>
+
+</td>
+<td width="50%">
+
+**💡 More Projects Coming Soon!**
+
+Check out my other repos for more cool stuff!
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br>
 
-### Additional Resources
+### 📎 Additional Resources
 
 - **Impact/Vape Mirror:** [Codeberg Repository](https://codeberg.org/RealPacket/VapeForMiniblox)
 
