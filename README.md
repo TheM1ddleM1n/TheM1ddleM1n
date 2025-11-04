@@ -11,124 +11,145 @@
 
 </div>
 
+---
+
+## 👋 About Me
+
+I'm a developer who loves building cool stuff with **HTML/CSS**, **JavaScript**, and **Python**. I'm always working on exciting projects and continuously learning new technologies.
+
+**💬 Visit my [Atabook](https://them1ddlem1n.atabook.org/) - I always respond to kind and thoughtful messages!**
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
 ![Terminal Metrics](https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/main/metrics.terminal.svg)
 
 ![Recent Activity](https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/main/metrics.plugin.activity.svg)
 
-
-
-## I always work nonstop no matter the circumstances!
-
-![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
-
--------------------------------------------------------------------------------------------------------------
-View and fill my Atabook plz I will always respond to your kind + thoughtful messages!                       
-https://them1ddlem1n.atabook.org/                                                                        
--------------------------------------------------------------------------------------------------------------
-I'm a passionate coder who enjoys building cool stuff with **HTML/CSS**, **JavaScript**, and **Python**.
-
-**The coding README Quotes of the day** 🖥️
-
-[![Readme_Coding Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
----
-
-![Recent](https://gitmystat.vercel.app/recent?username=TheM1ddleM1n)
-
-![User](https://gitmystat.vercel.app/user?username=TheM1ddleM1n)
-
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=TheM1ddleM1n&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=TheM1ddleM1n&theme=gruvbox "These are all of my trophies for github!!")
+![Trophies](https://github-profile-trophy.vercel.app/?username=TheM1ddleM1n&theme=gruvbox&no-frame=true&row=1&column=6)
 
-![Powered by Honor](https://img.shields.io/badge/Powered%20by-Honor!-blue?style=for-the-badge&logo=javascript&logoColor=white)
-![Friendship Guardian Badge](https://img.shields.io/badge/Friendship-Guardian-ff69b4?style=for-the-badge)
-
----
-
-## 💻 Programming Languages That I Use!
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+</div>
 
 ---
 
-## 📫 You can freely contact me via these platforms!
+## 💻 Tech Stack
 
-Feel free to reach out if you're interested in collaborating or just want to chat about other things
+<div align="center">
 
-- [Github - TheM1ddleM1n](https://github.com/TheM1ddleM1n)
-- [Atabook](https://them1ddlem1n.atabook.org/)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="50" height="50" alt="Markdown"/>
 
----
-
-## 🧪 My Current Projects that I am cooking on!
-
-- Impact/Vape for Miniblox - https://codeberg.org/RealPacket/VapeForMiniblox or https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2 (choice is yours ofc)
-
-- PythonProgramsV3 - https://github.com/TheM1ddleM1n/PythonProgramsV3
+</div>
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheM1ddleM1n) 
-`Thank you for making my day! :D`
+## 🚀 Featured Projects
 
-[![Follow @TheM1ddleM1n](https://img.shields.io/github/followers/TheM1ddleM1n?label=Follow&style=social)](https://github.com/TheM1ddleM1n)
+### [Impact/Vape for Miniblox](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2)
+Game client modification with advanced features
+- **Tech:** JavaScript, Game Development
+- **Mirror:** [Codeberg Repository](https://codeberg.org/RealPacket/VapeForMiniblox)
 
+### [PythonProgramsV3](https://github.com/TheM1ddleM1n/PythonProgramsV3)
+Collection of Python programs and utilities
+- **Tech:** Python
+- **Focus:** Learning & experimentation
 
-[![Please_play_my_new_game!-_GitHub Battleships](https://img.shields.io/badge/Play-GitHub%20Battleships-blue?style=for-the-badge)](https://github.com/TheM1ddleM1n/github-battleships)
+### [GitHub Battleships](https://github.com/TheM1ddleM1n/github-battleships)
+Interactive game built for GitHub profiles
+- **Tech:** GitHub Actions, JavaScript
+- **Status:** Play now!
 
+---
+
+## 📫 Connect With Me
+
+Feel free to reach out if you're interested in collaborating or just want to chat!
+
+- **GitHub:** [@TheM1ddleM1n](https://github.com/TheM1ddleM1n)
+- **Atabook Guestbook:** [Sign here!](https://them1ddlem1n.atabook.org/)
+
+---
+
+## 🎯 Daily Coding Wisdom
+
+<div align="center">
+
+[![Coding Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
 
 <details>
-<summary>🧨 Launch My Diagnostic Mode</summary>
+<summary>🔍 Debug Mode</summary>
 
-$ initializing python-ops --mode debug...
+```bash
+$ python debug.py --user TheM1ddleM1n
+
 ✓ Boot sequence triggered  
-✓ TheM1ddleM1n identity verified!
-✓ Guardian of the Galaxy: Active  
-✓ Snack protocols: 🍫 detected 3s  
-—
+✓ Identity verified: TheM1ddleM1n
+✓ Coffee status: Optimal ☕
+✓ Code quality: Improving daily
+✓ Enthusiasm level: Maximum
 
-Running a diagnostic test...
+Running diagnostics...
 
 [WARN] Recursive recursion detected  
-[INFO] scripts velocity: 10000 rpm a sec
-[ERROR] Meme threshold exceeded. System giggling uncontrollably.  
-[SYS] Unused codebase fragments found in dimension 4D.
+[INFO] Script velocity: 10000 rpm/sec
+[ERROR] Meme threshold exceeded
+[SUCCESS] All systems operational
 
-Injecting humor here...  
-Overclocking README enthusiasm...  
-Deploying lots of surprises...
-
-  .--.      .--.      .--.      .--.    
- ( o_O)    ( -_-)    ( ʘ‿ʘ )   (='.'=)   
- /|  |      /|  |      /|  |     /|  |\   
-
->>> All systems nominal. Vibes?: immaculate! :copilot:
+>>> Vibes: Immaculate! 🚀
+```
 
 </details>
 
 <details>
-<summary>🧠 Unlock the Ultimate Commit Message</summary>
+<summary>🧩 Git Challenge</summary>
 
-Solve this riddle to receive access to `golden_branch_of_truth`:
+**Solve this riddle:**
 
-> I’m used in haste but break in shame,  
+> I'm used in haste but break in shame,  
 > A developer regrets me, yet I still remain.  
 > What am I?
 
-(Hint: It's the reason behind every frantic rollback)
+*Hint: The reason behind every frantic rollback*
 
-Answer: `git push --force` 😈  
-Well done! you may now join the README Illuminati.
+**Answer:** `git push --force` 😈  
+
+*Congratulations! Welcome to the README Illuminati.*
 
 </details>
 
+---
 
-<!-- ## 🐍 TheM1ddleM1n's Contribution Snakey -->
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheM1ddleM1n)
+
+[![Follow](https://img.shields.io/github/followers/TheM1ddleM1n?label=Follow&style=social)](https://github.com/TheM1ddleM1n)
+
+**Thanks for visiting! Have a great day! 😊**
+
+![Powered by Honor](https://img.shields.io/badge/Powered%20by-Honor-0066cc?style=flat-square&logo=javascript&logoColor=white)
+![Friendship Guardian](https://img.shields.io/badge/Friendship-Guardian-ff69b4?style=flat-square)
+
+</div>
