@@ -1,8 +1,8 @@
-name: Mark All Notifications as Read (stops ghost messages showing a blue notification!)
+name: Mark All Notifications as Read
 
 on:
   schedule:
-    - cron: '0 */10 * * *'  # Runs every 10 hours
+    - cron: '0 0 * * *'  # Runs once daily at midnight
   workflow_dispatch:
 
 jobs:
@@ -13,6 +13,27 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
         run: |
-          curl -X PUT -H "Authorization: token $GITHUB_TOKEN" \
+          RESPONSE=$(curl -s -w "\n%{http_code}" -X PUT \
+            -H "Authorization: token $GITHUB_TOKEN" \
+            -H "Accept: application/vnd.github.v3+json" \
             https://api.github.com/notifications \
-            -d '{"last_read_at":"'"$(date -u +"%Y-%m-%dT%H:%M:%SZ")"'"}'
+            -d '{"last_read_at":"'"$(date -u +"%Y-%m-%dT%H:%M:%SZ")"'"}')
+          
+          HTTP_CODE=$(echo "$RESPONSE" | tail -n1)
+          BODY=$(echo "$RESPONSE" | sed '$d')
+          
+          if [ "$HTTP_CODE" -eq 205 ] || [ "$HTTP_CODE" -eq 200 ]; then
+            echo "✓ Successfully marked all notifications as read"
+            echo "Timestamp: $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+          else
+            echo "✗ Failed to mark notifications as read"
+            echo "HTTP Status: $HTTP_CODE"
+            echo "Response: $BODY"
+            exit 1
+          fi
+
+      - name: Log execution
+        if: always()
+        run: |
+          echo "Workflow completed at $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+          echo "Job status: ${{ job.status }}"
