@@ -131,7 +131,7 @@ Check out my other repos for more cool stuff!
 
 ### 📎 Additional Resources
 
-- **Impact/Vape Mirror:** [Codeberg Repository](https://codeberg.org/RealPacket/VapeForMiniblox)
+- **Vape V4 Mirror:** [Codeberg Repository](https://codeberg.org/RealPacket/VapeForMiniblox)
 
 <br>
 
