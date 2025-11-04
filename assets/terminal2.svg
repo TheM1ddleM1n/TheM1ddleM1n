@@ -58,14 +58,25 @@
       0%, 100% { opacity: 1; }
       50% { opacity: 0; }
     }
+
+    /* Loop animation - restart after completion */
+    svg {
+      animation: restart 20s infinite;
+    }
+
+    @keyframes restart {
+      0%, 100% { opacity: 1; }
+      99% { opacity: 1; }
+      99.9% { opacity: 0; }
+    }
   </style>
 
   <!-- Background -->
   <rect x="0" y="0" width="500" height="420" rx="8" fill="#000000"/>
   <rect x="10" y="10" width="480" height="400" rx="6" fill="#0C0C0C" stroke="#00FF00" stroke-width="1"/>
 
-  <!-- Timestamp -->
-  <text x="30" y="30" font-family="monospace" font-size="14" fill="#00FF00">> Timestamp: 14 Sep 2025 15:00 BST</text>
+  <!-- Header -->
+  <text x="30" y="30" font-family="monospace" font-size="14" fill="#00FF00">> System Boot Sequence</text>
 
   <!-- Boot lines -->
   <text x="30" y="50" class="line">> Initializing system...</text>
@@ -96,4 +107,4 @@
   <!-- Boot failure Easter egg -->
   <text x="30" y="365" class="fail">!! SYSTEM FAILURE: Kernel panic at 0x0000F3</text>
   <text x="30" y="385" class="fail">!! Shutting down and rebooting...</text>
-</svg>
+</svg>  
