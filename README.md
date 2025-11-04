@@ -93,8 +93,8 @@ I'm a developer who loves building cool stuff with **HTML/CSS**, **JavaScript**,
 <tr>
 <td width="50%">
 
-<a href="https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ProgMEM-CC&repo=miniblox.impact.client.updatedv2&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/TheM1ddleM1n/TheM1ddleM1n">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheM1ddleM1n&repo=TheM1ddleM1n&theme=tokyonight&hide_border=true" />
 </a>
 
 </td>
@@ -110,16 +110,26 @@ I'm a developer who loves building cool stuff with **HTML/CSS**, **JavaScript**,
 <tr>
 <td width="50%">
 
-<a href="https://github.com/TheM1ddleM1n/github-battleships">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheM1ddleM1n&repo=github-battleships&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ProgMEM-CC&repo=miniblox.impact.client.updatedv2&theme=tokyonight&hide_border=true" />
 </a>
 
 </td>
 <td width="50%">
 
-**💡 More Projects Coming Soon!**
+<a href="https://github.com/TheM1ddleM1n/NovaCore-For-Miniblox">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheM1ddleM1n&repo=NovaCore-For-Miniblox&theme=tokyonight&hide_border=true" />
+</a>
 
-Check out my other repos for more cool stuff!
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<a href="https://github.com/TheM1ddleM1n/github-battleships">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheM1ddleM1n&repo=github-battleships&theme=tokyonight&hide_border=true" />
+</a>
 
 </td>
 </tr>
@@ -131,7 +141,7 @@ Check out my other repos for more cool stuff!
 
 ### 📎 Additional Resources
 
-- **Vape V4 Mirror:** [Codeberg Repository](https://codeberg.org/RealPacket/VapeForMiniblox)
+- **Impact/Vape Mirror:** [Codeberg Repository](https://codeberg.org/RealPacket/VapeForMiniblox)
 
 <br>
 
