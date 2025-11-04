@@ -2,13 +2,18 @@ name: GitHub Metrics
 
 on:
   schedule: 
-    - cron: "0 0 * * *"  # Daily at midnight
+    - cron: "0 0 */3 * *"  # Every 3 days instead of daily
   workflow_dispatch:
 
 jobs:
   generate-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
       - name: Generate Terminal Metrics
         uses: lowlighter/metrics@latest
         with:
@@ -35,3 +40,14 @@ jobs:
           plugin_recent_activity_limit: 5
           plugin_recent_activity_days: 7
           plugin_recent_activity_show: commits, issues, pull_requests
+
+      - name: Commit and Push Metrics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add metrics.*.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update metrics [skip ci]" && git push)
+        
+      - name: Log Status
+        if: always()
+        run: echo "Metrics generation completed at $(date)"
