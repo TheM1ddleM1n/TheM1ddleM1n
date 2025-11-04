@@ -87,29 +87,29 @@ I'm a developer who loves building cool stuff with **HTML/CSS**, **JavaScript**,
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
+<a href="https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProgMEM-CC&repo=miniblox.impact.client.updatedv2&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/TheM1ddleM1n/PythonProgramsV3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheM1ddleM1n&repo=PythonProgramsV3&theme=tokyonight&hide_border=true" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/TheM1ddleM1n/github-battleships">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheM1ddleM1n&repo=github-battleships&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
 <br>
 
-### [Impact/Vape for Miniblox](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2)
-Game client modification with advanced features
+### Additional Resources
 
-- **Tech:** JavaScript, Game Development
-- **Mirror:** [Codeberg Repository](https://codeberg.org/RealPacket/VapeForMiniblox)
-
-<br>
-
-### [PythonProgramsV3](https://github.com/TheM1ddleM1n/PythonProgramsV3)
-Collection of Python programs and utilities
-
-- **Tech:** Python
-- **Focus:** Learning & experimentation
-
-<br>
-
-### [GitHub Battleships](https://github.com/TheM1ddleM1n/github-battleships)
-Interactive game built for GitHub profiles
-
-- **Tech:** GitHub Actions, JavaScript
-- **Status:** Play now!
+- **Impact/Vape Mirror:** [Codeberg Repository](https://codeberg.org/RealPacket/VapeForMiniblox)
 
 <br>
 
