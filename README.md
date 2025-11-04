@@ -1,9 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1750&pause=1000&color=6EB891&background=FF141400&width=435&lines=Hey+there!+TheM1ddleM1n+here!;Welcome+to+my+github+readme!;I+love+coding;HTML%2C+Python+and+JS+wizard.;always+wishing+everyone+a+great+day+%3AD;Learn+Python+its+easy+to+understand!)](https://git.io/typing-svg)
+<div align="center">
 
-### A warm welcome to my GitHub readme! 👋 I hope your day + night is going well!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=6EB891&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+TheM1ddleM1n;Welcome+to+my+GitHub!;Building+cool+stuff+with+code+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-![Hello!](./header.png)
-`Thank you khalby786 for this!`
+![Header](./header.png)
+
+**`Passionate developer | HTML, Python & JavaScript enthusiast | Always learning`**
+
+[![Atabook](https://img.shields.io/badge/Atabook-Sign%20My%20Guestbook-ff69b4?style=for-the-badge)](https://them1ddlem1n.atabook.org/)
+[![GitHub Battleships](https://img.shields.io/badge/Play-GitHub%20Battleships-0066cc?style=for-the-badge)](https://github.com/TheM1ddleM1n/github-battleships)
+
+</div>
 
 ![Terminal Metrics](https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/main/metrics.terminal.svg)
 
