@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Once daily at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate Snake Animation (Dark Theme)
         uses: Platane/snk@v3
@@ -21,6 +21,7 @@ jobs:
           github_user_name: TheM1ddleM1n
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=github-light
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
@@ -29,3 +30,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Verify Deployment
+        run: echo "✓ Snake animation deployed to output branch"
