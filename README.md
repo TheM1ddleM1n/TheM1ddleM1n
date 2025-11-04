@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1750&pause=1000&color=6EB891&background=FF141400&width=435&lines=Hey+there!+TheM1ddleM1n+here!;Welcome+to+my+github+readme!;I+love+coding;HMTL%2C+Python+and+JS+wizard.;always+wishing+everyone+a+great+day+%3AD;Learn+Python+its+easy+to+understand!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1750&pause=1000&color=6EB891&background=FF141400&width=435&lines=Hey+there!+TheM1ddleM1n+here!;Welcome+to+my+github+readme!;I+love+coding;HTML%2C+Python+and+JS+wizard.;always+wishing+everyone+a+great+day+%3AD;Learn+Python+its+easy+to+understand!)](https://git.io/typing-svg)
 
 ### A warm welcome to my GitHub readme! 👋 I hope your day + night is going well!
 
