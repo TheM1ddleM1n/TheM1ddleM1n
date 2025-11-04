@@ -43,15 +43,35 @@ I'm a developer who loves building cool stuff with **HTML/CSS**, **JavaScript**,
 
 <br><br>
 
-![Recent Activity](https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/main/metrics.plugin.activity.svg)
-
-<br><br>
+<table>
+<tr>
+<td width="50%">
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=TheM1ddleM1n&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
-<br><br>
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheM1ddleM1n&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=TheM1ddleM1n&theme=gruvbox&no-frame=true&row=1&column=6)
+
+<br><br>
+
+<details>
+<summary>📈 Detailed Activity Metrics</summary>
+
+<br>
+
+![Recent Activity](https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/main/metrics.plugin.activity.svg)
+
+</details>
 
 </div>
 
