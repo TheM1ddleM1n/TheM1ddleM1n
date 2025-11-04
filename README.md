@@ -6,14 +6,25 @@
 
 **`Passionate developer | HTML, Python & JavaScript enthusiast | Always learning`**
 
-[![Atabook](https://img.shields.io/badge/Atabook-Sign%20My%20Guestbook-ff69b4?style=for-the-badge)](https://them1ddlem1n.atabook.org/)
-[![GitHub Battleships](https://img.shields.io/badge/Play-GitHub%20Battleships-0066cc?style=for-the-badge)](https://github.com/TheM1ddleM1n/github-battleships)
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+[![Atabook](https://img.shields.io/badge/Atabook-Sign%20My%20Guestbook-ff69b4?style=for-the-badge&logo=feedly&logoColor=white)](https://them1ddlem1n.atabook.org/)
+[![GitHub Battleships](https://img.shields.io/badge/Play-GitHub%20Battleships-0066cc?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheM1ddleM1n/github-battleships)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&fontSize=90" width="100%"/>
 
 ---
 
 ### 📑 Quick Navigation
 
 [About](#-about-me) • [Statistics](#-github-statistics) • [Tech Stack](#-tech-stack) • [Projects](#-featured-projects) • [Connect](#-connect-with-me) • [Snake](#-contribution-snake)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
@@ -277,11 +288,15 @@ Running diagnostics...
 
 <br>
 
-![Powered by Honor](https://img.shields.io/badge/Powered%20by-Honor-0066cc?style=flat-square&logo=javascript&logoColor=white)
-![Friendship Guardian](https://img.shields.io/badge/Friendship-Guardian-ff69b4?style=flat-square)
+<p>
+<img src="https://img.shields.io/badge/Powered%20by-Honor-0066cc?style=flat-square&logo=javascript&logoColor=white&labelColor=1a1a1a" alt="Powered by Honor"/>
+<img src="https://img.shields.io/badge/Friendship-Guardian-ff69b4?style=flat-square&logo=heart&logoColor=white&labelColor=1a1a1a" alt="Friendship Guardian"/>
+<img src="https://img.shields.io/badge/Status-Coding%20Daily-6EB891?style=flat-square&logo=code&logoColor=white&labelColor=1a1a1a" alt="Status"/>
+<img src="https://img.shields.io/badge/Pizza-Pizzaaaa-8B4513?style=flat-square&logo=code&logoColor=white&labelColor=1a1a1a" alt="Pizza"/>
+</p>
 
 <br>
 
-**[⬆ Back to Top](#-quick-navigation)**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=90" width="100%"/>
 
 </div>
