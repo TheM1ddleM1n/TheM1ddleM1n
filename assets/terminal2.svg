@@ -4,10 +4,29 @@
       font-family: monospace;
       font-size: 14px;
       fill: #00FF00;
+      opacity: 0;
+      animation: type 1s forwards;
     }
+    .line:nth-of-type(1) { animation-delay: 0s; }
+    .line:nth-of-type(2) { animation-delay: 1s; }
+    .line:nth-of-type(3) { animation-delay: 2s; }
+    .line:nth-of-type(4) { animation-delay: 3s; }
+    .line:nth-of-type(5) { animation-delay: 4s; }
+    .line:nth-of-type(6) { animation-delay: 5s; }
+    .line:nth-of-type(7) { animation-delay: 6s; }
+    .line:nth-of-type(8) { animation-delay: 7s; }
+    .line:nth-of-type(9) { animation-delay: 8s; }
+    .line:nth-of-type(10) { animation-delay: 9s; }
+    .line:nth-of-type(11) { animation-delay: 10s; }
+    .line:nth-of-type(12) { animation-delay: 11s; }
+    .line:nth-of-type(13) { animation-delay: 12s; }
 
     .cursor {
       animation: blink 1s steps(1) infinite;
+    }
+
+    @keyframes type {
+      to { opacity: 1; }
     }
 
     @keyframes blink {
@@ -17,12 +36,27 @@
 
     .bar {
       fill: #00FF00;
+      animation: fillBar 4s linear forwards;
+      animation-delay: 9s;
+    }
+
+    @keyframes fillBar {
+      from { width: 0; }
+      to { width: 300px; }
     }
 
     .fail {
       font-family: monospace;
       font-size: 14px;
       fill: #FF0000;
+      opacity: 0;
+      animation: failFlash 1s steps(1) infinite;
+      animation-delay: 14s;
+    }
+
+    @keyframes failFlash {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
     }
   </style>
 
@@ -30,95 +64,36 @@
   <rect x="0" y="0" width="500" height="420" rx="8" fill="#000000"/>
   <rect x="10" y="10" width="480" height="400" rx="6" fill="#0C0C0C" stroke="#00FF00" stroke-width="1"/>
 
-  <!-- Header -->
-  <text x="30" y="30" font-family="monospace" font-size="14" fill="#00FF00">> System Boot Sequence</text>
+  <!-- Timestamp -->
+  <text x="30" y="30" font-family="monospace" font-size="14" fill="#00FF00">> Timestamp: 14 Sep 2025 15:00 BST</text>
 
   <!-- Boot lines -->
-  <text x="30" y="50" class="line" style="opacity: 0">> Initializing system...</text>
-  <text x="30" y="70" class="line" style="opacity: 0">> Loading ChromeOS 132 / Linux (Crostini)</text>
-  <text x="30" y="90" class="line" style="opacity: 0">> Environment: Chrome Browser / Linux Terminal</text>
-  <text x="30" y="110" class="line" style="opacity: 0">> CPU: Celeron N3450 (4 cores, 2.20GHz max)</text>
-  <text x="30" y="130" class="line" style="opacity: 0">> GPU: Intel HD Graphics 500</text>
-  <text x="30" y="150" class="line" style="opacity: 0">> Memory: 4 GB</text>
-  <text x="30" y="170" class="line" style="opacity: 0">> Display: 1 screen detected</text>
-  <text x="30" y="190" class="line" style="opacity: 0">> Languages: Python / HTML / CSS / JavaScript</text>
-  <text x="30" y="210" class="line" style="opacity: 0">> Theme: Terminal</text>
-  <text x="30" y="230" class="line" style="opacity: 0">> Verifying system integrity...</text>
-  <text x="30" y="250" class="line" style="opacity: 0">> All systems nominal ✅</text>
-  <text x="30" y="270" class="line" style="opacity: 0">> Launching user interface...</text>
-  <text x="30" y="290" class="line" style="opacity: 0">> Welcome, TheM1ddleM1n</text>
+  <text x="30" y="50" class="line">> Initializing system...</text>
+  <text x="30" y="70" class="line">> Loading ChromeOS 132 / Linux (Crostini)</text>
+  <text x="30" y="90" class="line">> Environment: Chrome Browser / Linux Terminal</text>
+  <text x="30" y="110" class="line">> CPU: Celeron N3450 (4 cores, 2.20GHz max)</text>
+  <text x="30" y="130" class="line">> GPU: Intel HD Graphics 500</text>
+  <text x="30" y="150" class="line">> Memory: 4 GB</text>
+  <text x="30" y="170" class="line">> Display: 1 screen detected</text>
+  <text x="30" y="190" class="line">> Languages: Python / HTML / CSS / JavaScript</text>
+  <text x="30" y="210" class="line">> Theme: Dracula</text>
+  <text x="30" y="230" class="line">> Verifying system integrity...</text>
+  <text x="30" y="250" class="line">> All systems nominal ✅</text>
+  <text x="30" y="270" class="line">> Launching user interface...</text>
+  <text x="30" y="290" class="line">> Welcome, TheM1ddleM1n</text>
 
   <!-- Loading bar -->
   <text x="30" y="315" font-family="monospace" font-size="14" fill="#00FF00">> Loading: [</text>
   <rect x="130" y="305" height="14" width="300" fill="#003300" rx="2"/>
-  <rect x="130" y="305" height="14" width="0" class="bar" rx="2" id="loadbar"/>
+  <rect x="130" y="305" height="14" width="0" class="bar" rx="2"/>
   <text x="435" y="315" font-family="monospace" font-size="14" fill="#00FF00">]</text>
 
   <!-- Final line with blinking cursor -->
-  <text x="30" y="340" font-family="monospace" font-size="14" fill="#00FF00" style="opacity: 0" id="ready">
+  <text x="30" y="340" font-family="monospace" font-size="14" fill="#00FF00">
     > Ready for deployment.<tspan class="cursor">_</tspan>
   </text>
 
   <!-- Boot failure Easter egg -->
-  <text x="30" y="365" class="fail" style="opacity: 0" id="fail1">!! SYSTEM FAILURE: Kernel panic at 0x0000F3</text>
-  <text x="30" y="385" class="fail" style="opacity: 0" id="fail2">!! Shutting down and rebooting...</text>
-
-  <script type="text/javascript">
-    <![CDATA[
-    function bootSequence() {
-      const lines = document.querySelectorAll('.line');
-      const loadBar = document.getElementById('loadbar');
-      const ready = document.getElementById('ready');
-      const fail1 = document.getElementById('fail1');
-      const fail2 = document.getElementById('fail2');
-      
-      // Reset everything
-      lines.forEach(line => line.style.opacity = '0');
-      loadBar.setAttribute('width', '0');
-      ready.style.opacity = '0';
-      fail1.style.opacity = '0';
-      fail2.style.opacity = '0';
-      
-      // Animate lines
-      lines.forEach((line, index) => {
-        setTimeout(() => {
-          line.style.opacity = '1';
-          line.style.transition = 'opacity 0.3s';
-        }, index * 1000);
-      });
-      
-      // Animate loading bar
-      setTimeout(() => {
-        loadBar.style.transition = 'width 4s linear';
-        loadBar.setAttribute('width', '300');
-      }, 9000);
-      
-      // Show ready message
-      setTimeout(() => {
-        ready.style.opacity = '1';
-        ready.style.transition = 'opacity 0.3s';
-      }, 13000);
-      
-      // Flash failure messages
-      let flashCount = 0;
-      const failInterval = setInterval(() => {
-        fail1.style.opacity = fail1.style.opacity === '1' ? '0' : '1';
-        fail2.style.opacity = fail2.style.opacity === '1' ? '0' : '1';
-        flashCount++;
-        if (flashCount > 10) {
-          clearInterval(failInterval);
-          // Restart the sequence after a pause
-          setTimeout(bootSequence, 2000);
-        }
-      }, 500);
-      setTimeout(() => {
-        fail1.style.opacity = '1';
-        fail2.style.opacity = '1';
-      }, 14000);
-    }
-    
-    // Start the animation
-    bootSequence();
-    ]]>
-  </script>
+  <text x="30" y="365" class="fail">!! SYSTEM FAILURE: Kernel panic at 0x0000F3</text>
+  <text x="30" y="385" class="fail">!! Shutting down and rebooting...</text>
 </svg>
