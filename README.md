@@ -31,7 +31,10 @@ I'm a developer who loves building cool stuff with **HTML/CSS**, **JavaScript**,
 
 <div align="center">
 
-<!-- Compact combined stats card -->
+<!-- Option A: Use terminal metrics if you prefer the aesthetic -->
+<!-- ![Terminal Metrics](https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/main/metrics.terminal.svg) -->
+
+<!-- Option B: Use compact combined stats (faster loading) -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheM1ddleM1n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheM1ddleM1n&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
 
@@ -50,7 +53,12 @@ I'm a developer who loves building cool stuff with **HTML/CSS**, **JavaScript**,
 
 <br>
 
-<!-- Keep detailed metrics in collapsible section to reduce initial load -->
+<!-- Terminal view for detailed breakdown -->
+![Terminal Metrics](https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/main/metrics.terminal.svg)
+
+<br>
+
+<!-- Activity timeline -->
 ![Recent Activity](https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/main/metrics.plugin.activity.svg)
 
 </details>
