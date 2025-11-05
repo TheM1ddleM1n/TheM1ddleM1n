@@ -1,8 +1,8 @@
-name: GitHub Metrics
+name: GitHub Metrics (Optimized)
 
 on:
   schedule: 
-    - cron: "0 0 */3 * *"  # Every 3 days instead of daily
+    - cron: "0 0 */3 * *"  # Every 3 days
   workflow_dispatch:
 
 jobs:
@@ -14,21 +14,8 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate Terminal Metrics
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: TheM1ddleM1n
-          template: terminal
-          filename: metrics.terminal.svg
-          base: header, metadata
-          plugin_languages: yes
-          plugin_recent_activity: yes
-          plugin_recent_activity_limit: 5
-          plugin_recent_activity_days: 7
-          plugin_recent_activity_show: commits, issues, pull_requests
-
-      - name: Generate Activity Metrics
+      # Lightweight activity metrics only (no terminal view)
+      - name: Generate Compact Activity Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -36,12 +23,39 @@ jobs:
           filename: metrics.plugin.activity.svg
           template: classic
           base: header, activity, metadata
+          # Optimize settings for smaller file size
+          config_display: large
+          config_output: svg
+          config_padding: 5%
+          # Recent activity plugin with minimal data
           plugin_recent_activity: yes
           plugin_recent_activity_limit: 5
           plugin_recent_activity_days: 7
           plugin_recent_activity_show: commits, issues, pull_requests
+          plugin_recent_activity_filter: all
+          # Optimize animations
+          config_animations: yes
+          config_timezone: Europe/London
+
+      # Optional: Generate only when there's actual activity
+      - name: Check for Recent Activity
+        id: check_activity
+        continue-on-error: true
+        run: |
+          # Check if there have been commits in the last 3 days
+          RECENT_COMMITS=$(git log --since="3 days ago" --oneline | wc -l)
+          echo "recent_commits=$RECENT_COMMITS" >> $GITHUB_OUTPUT
+          
+          if [ $RECENT_COMMITS -eq 0 ]; then
+            echo "No recent activity, skipping full regeneration"
+            echo "skip=true" >> $GITHUB_OUTPUT
+          else
+            echo "Recent activity detected, proceeding with update"
+            echo "skip=false" >> $GITHUB_OUTPUT
+          fi
 
       - name: Commit and Push Metrics
+        if: steps.check_activity.outputs.skip != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -50,4 +64,14 @@ jobs:
         
       - name: Log Status
         if: always()
-        run: echo "Metrics generation completed at $(date)"
+        run: |
+          echo "Metrics generation completed at $(date)"
+          echo "Recent commits: ${{ steps.check_activity.outputs.recent_commits }}"
+          echo "Skipped: ${{ steps.check_activity.outputs.skip }}"
+
+      # Error notification (optional)
+      - name: Notify on Failure
+        if: failure()
+        run: |
+          echo "::warning::Metrics generation failed at $(date)"
+          echo "::warning::Check if METRICS_TOKEN has required permissions"
