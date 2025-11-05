@@ -31,32 +31,26 @@ I'm a developer who loves building cool stuff with **HTML/CSS**, **JavaScript**,
 
 <div align="center">
 
-![Terminal Metrics](https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/main/metrics.terminal.svg)
+<!-- Compact combined stats card -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheM1ddleM1n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheM1ddleM1n&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
 
-<br>
+<br><br>
 
-<table>
-<tr>
-<td width="50%">
-
+<!-- Streak stats -->
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=TheM1ddleM1n&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
-</td>
-<td width="50%">
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheM1ddleM1n&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</td>
-</tr>
-</table>
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=TheM1ddleM1n&theme=gruvbox&no-frame=true&row=1&column=6)
+<!-- Trophy display - only rank A and above -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=TheM1ddleM1n&theme=gruvbox&no-frame=true&row=1&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A)
 
 <details>
-<summary>📈 View Detailed Activity Metrics</summary>
+<summary>📈 View Detailed Metrics</summary>
 
 <br>
 
+<!-- Keep detailed metrics in collapsible section to reduce initial load -->
 ![Recent Activity](https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/main/metrics.plugin.activity.svg)
 
 </details>
