@@ -172,7 +172,7 @@ I'm a developer who loves building cool stuff with **HTML/CSS**, **JavaScript**,
 
 ### 📎 Additional Resources
 
-- **Impact/Vape Mirror:** [Codeberg Repository](https://codeberg.org/RealPacket/VapeForMiniblox)
+- **Vape V4 Mirror:** [Codeberg Repository](https://codeberg.org/RealPacket/VapeForMiniblox)
 
 <br>
 
