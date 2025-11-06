@@ -49,7 +49,7 @@ I'm a developer who loves building cool stuff with **HTML/CSS**, **JavaScript**,
 ![Trophies](https://github-profile-trophy.vercel.app/?username=TheM1ddleM1n&theme=gruvbox&no-frame=true&row=1&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A)
 
 <details>
-<summary>📈 View Detailed Metrics</summary>
+<summary>📈 View my Detailed Metrics</summary>
 
 <br>
 
@@ -221,7 +221,7 @@ Running diagnostics...
 
 <br>
 
-**Thanks for visiting! Have a great day! 😊**
+**Thanks for visiting my github readme! Have a wonderful day! 😊**
 
 <br>
 
