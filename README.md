@@ -4,7 +4,7 @@
 
 ![Header](./header.png)
 
-**`Passionate developer | HTML, Python & JavaScript enthusiast | Always learning`**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6EB891&center=true&vCenter=true&width=600&lines=Passionate+Developer+%F0%9F%92%BB;HTML%2C+Python+%26+JavaScript+Enthusiast;Always+Learning+New+Things+%F0%9F%9A%80;Building+Cool+Projects+%E2%9C%A8)](https://git.io/typing-svg)
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -64,6 +64,19 @@ I'm a developer who loves building cool stuff with **HTML/CSS**, **JavaScript**,
 </details>
 
 </div>
+
+## 📅 This Year's Contributions
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheM1ddleM1n&theme=tokyo-night&hide_border=true)
+
+</div>
+
+## ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## 💻 Tech Stack
 
@@ -160,10 +173,6 @@ Feel free to reach out if you're interested in collaborating or just want to cha
   <img src="https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-## 📅 This Year's Contributions
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheM1ddleM1n&theme=tokyo-night&hide_border=true)
-
 <br>
 
 <details>
@@ -219,6 +228,12 @@ Running diagnostics...
 
 <div align="center">
 
+### 😄 Random Dev Joke
+
+![Joke](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
+
+<br>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=TheM1ddleM1n&color=6EB891&style=flat-square&label=Profile+Views)
 
 [![Follow](https://img.shields.io/github/followers/TheM1ddleM1n?label=Follow&style=social)](https://github.com/TheM1ddleM1n)
@@ -235,5 +250,7 @@ Running diagnostics...
 <img src="https://img.shields.io/badge/Status-Coding%20Daily-6EB891?style=flat-square&labelColor=1a1a1a" alt="Status"/>
 <img src="https://img.shields.io/badge/Pizza-Pizzaaaa-8B4513?style=flat-square&labelColor=1a1a1a" alt="Pizza"/>
 </p>
+
+**Made with ❤️ and lots of ☕**
 
 </div>
