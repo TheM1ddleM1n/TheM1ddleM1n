@@ -89,7 +89,37 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add metrics.*.svg
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update metrics [compressed] [skip ci]" && git push)
+          
+          # Check if there are changes to commit
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          
+          # Commit changes
+          git commit -m "Update metrics [compressed] [skip ci]"
+          
+          # Pull and push with retry logic
+          MAX_RETRIES=3
+          RETRY_COUNT=0
+          
+          while [ $RETRY_COUNT -lt $MAX_RETRIES ]; do
+            # Pull with rebase to sync with remote
+            git pull --rebase origin main
+            
+            # Try to push
+            if git push; then
+              echo "✓ Successfully pushed metrics"
+              exit 0
+            else
+              RETRY_COUNT=$((RETRY_COUNT + 1))
+              echo "Push failed, retry $RETRY_COUNT of $MAX_RETRIES"
+              sleep 2
+            fi
+          done
+          
+          echo "Failed to push after $MAX_RETRIES attempts"
+          exit 1
         
       - name: Log Status
         if: always()
