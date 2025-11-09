@@ -88,6 +88,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Add our compressed metrics
           git add metrics.*.svg
           
           # Check if there are changes to commit
@@ -96,29 +98,29 @@ jobs:
             exit 0
           fi
           
-          # Commit changes
           git commit -m "Update metrics [compressed] [skip ci]"
           
-          # Pull and push with retry logic
-          MAX_RETRIES=3
+          # Push with automatic conflict resolution (always use our version)
+          MAX_RETRIES=5
           RETRY_COUNT=0
           
           while [ $RETRY_COUNT -lt $MAX_RETRIES ]; do
-            # Pull with rebase to sync with remote
-            git pull --rebase origin main
-            
-            # Try to push
-            if git push; then
+            if git push origin main; then
               echo "✓ Successfully pushed metrics"
               exit 0
             else
               RETRY_COUNT=$((RETRY_COUNT + 1))
-              echo "Push failed, retry $RETRY_COUNT of $MAX_RETRIES"
+              echo "⚠ Push failed, attempt $RETRY_COUNT of $MAX_RETRIES"
+              
+              # Fetch and merge, preferring our version on conflicts
+              git fetch origin main
+              git merge origin/main -X ours --no-edit
+              
               sleep 2
             fi
           done
           
-          echo "Failed to push after $MAX_RETRIES attempts"
+          echo "❌ Failed to push after $MAX_RETRIES attempts"
           exit 1
         
       - name: Log Status
