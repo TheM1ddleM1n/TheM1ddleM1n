@@ -1,4 +1,4 @@
-name: GitHub Metrics (Optimized)
+name: GitHub Metrics (Optimized & Compressed)
 
 on:
   schedule: 
@@ -24,7 +24,7 @@ jobs:
           restore-keys: |
             metrics-
 
-      # Lightweight activity metrics only (no terminal view)
+      # Ultra-compact activity metrics
       - name: Generate Compact Activity Metrics
         uses: lowlighter/metrics@latest
         with:
@@ -33,26 +33,68 @@ jobs:
           filename: metrics.plugin.activity.svg
           template: classic
           base: header, activity, metadata
-          # Optimize settings for smaller file size
-          config_display: large
-          config_output: svg
-          config_padding: 5%
-          # Recent activity plugin with minimal data
-          plugin_recent_activity: yes
-          plugin_recent_activity_limit: 5
-          plugin_recent_activity_days: 7
-          plugin_recent_activity_show: commits, issues, pull_requests
-          plugin_recent_activity_filter: all
-          # Optimize animations
-          config_animations: yes
+          
+          # Optimize for smallest size
+          config_display: regular
+          config_output: svg-compact
+          config_padding: 0%
+          config_animations: no  # Disable animations
           config_timezone: Europe/London
+          
+          # Minimal activity data
+          plugin_activity: yes
+          plugin_activity_limit: 3
+          plugin_activity_days: 5
+          plugin_activity_load: 100
+          plugin_activity_filter: owner
+          plugin_activity_visibility: public
+          
+          # Performance optimizations
+          use_prebuilt_image: yes
+          delay: 0
+
+      # Install SVG optimizer
+      - name: Setup SVG Optimizer
+        run: npm install -g svgo
+
+      # Compress SVG files
+      - name: Compress SVG Files
+        run: |
+          echo "Original size:"
+          ls -lh metrics.plugin.activity.svg
+          
+          # Aggressive SVG optimization
+          svgo metrics.plugin.activity.svg \
+            --multipass \
+            --precision=1 \
+            --disable=removeViewBox \
+            --enable=removeTitle \
+            --enable=removeDesc \
+            --enable=removeMetadata \
+            --enable=removeComments \
+            --enable=minifyStyles \
+            --enable=cleanupIds \
+            --enable=removeEmptyAttrs \
+            --enable=removeEmptyContainers
+          
+          echo "Compressed size:"
+          ls -lh metrics.plugin.activity.svg
+          
+          # Calculate reduction
+          ORIGINAL=$(git show HEAD:metrics.plugin.activity.svg 2>/dev/null | wc -c || echo "0")
+          NEW=$(wc -c < metrics.plugin.activity.svg)
+          
+          if [ "$ORIGINAL" -gt 0 ]; then
+            REDUCTION=$(( 100 - (NEW * 100 / ORIGINAL) ))
+            echo "Size reduction: ${REDUCTION}%"
+          fi
 
       - name: Commit and Push Metrics
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add metrics.*.svg
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update metrics [skip ci]" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update metrics [compressed] [skip ci]" && git push)
         
       - name: Log Status
         if: always()
@@ -60,7 +102,7 @@ jobs:
           echo "Metrics generation completed at $(date)"
           echo "Job status: ${{ job.status }}"
 
-      # Error notification (optional)
+      # Error notification
       - name: Notify on Failure
         if: failure()
         run: |
