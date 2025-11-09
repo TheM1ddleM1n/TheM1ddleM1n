@@ -63,19 +63,10 @@ jobs:
           echo "Original size:"
           ls -lh metrics.plugin.activity.svg
           
-          # Aggressive SVG optimization
+          # Simple but effective optimization
           svgo metrics.plugin.activity.svg \
             --multipass \
-            --precision=1 \
-            --disable=removeViewBox \
-            --enable=removeTitle \
-            --enable=removeDesc \
-            --enable=removeMetadata \
-            --enable=removeComments \
-            --enable=minifyStyles \
-            --enable=cleanupIds \
-            --enable=removeEmptyAttrs \
-            --enable=removeEmptyContainers
+            -p 1
           
           echo "Compressed size:"
           ls -lh metrics.plugin.activity.svg
@@ -86,7 +77,11 @@ jobs:
           
           if [ "$ORIGINAL" -gt 0 ]; then
             REDUCTION=$(( 100 - (NEW * 100 / ORIGINAL) ))
-            echo "Size reduction: ${REDUCTION}%"
+            echo "✓ Size reduction: ${REDUCTION}%"
+            echo "✓ Original: ${ORIGINAL} bytes"
+            echo "✓ Compressed: ${NEW} bytes"
+          else
+            echo "✓ First generation - no comparison available"
           fi
 
       - name: Commit and Push Metrics
