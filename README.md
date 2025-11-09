@@ -160,6 +160,10 @@ Feel free to reach out if you're interested in collaborating or just want to cha
   <img src="https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
+## 📅 This Year's Contributions
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheM1ddleM1n&theme=tokyo-night&hide_border=true)
+
 <br>
 
 <details>
