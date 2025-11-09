@@ -14,6 +14,16 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
+      # Cache metrics to reduce regeneration
+      - name: Cache Metrics
+        uses: actions/cache@v4
+        with:
+          path: |
+            metrics.*.svg
+          key: metrics-${{ github.run_id }}
+          restore-keys: |
+            metrics-
+
       # Lightweight activity metrics only (no terminal view)
       - name: Generate Compact Activity Metrics
         uses: lowlighter/metrics@latest
@@ -37,25 +47,7 @@ jobs:
           config_animations: yes
           config_timezone: Europe/London
 
-      # Optional: Generate only when there's actual activity
-      - name: Check for Recent Activity
-        id: check_activity
-        continue-on-error: true
-        run: |
-          # Check if there have been commits in the last 3 days
-          RECENT_COMMITS=$(git log --since="3 days ago" --oneline | wc -l)
-          echo "recent_commits=$RECENT_COMMITS" >> $GITHUB_OUTPUT
-          
-          if [ $RECENT_COMMITS -eq 0 ]; then
-            echo "No recent activity, skipping full regeneration"
-            echo "skip=true" >> $GITHUB_OUTPUT
-          else
-            echo "Recent activity detected, proceeding with update"
-            echo "skip=false" >> $GITHUB_OUTPUT
-          fi
-
       - name: Commit and Push Metrics
-        if: steps.check_activity.outputs.skip != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -66,8 +58,7 @@ jobs:
         if: always()
         run: |
           echo "Metrics generation completed at $(date)"
-          echo "Recent commits: ${{ steps.check_activity.outputs.recent_commits }}"
-          echo "Skipped: ${{ steps.check_activity.outputs.skip }}"
+          echo "Job status: ${{ job.status }}"
 
       # Error notification (optional)
       - name: Notify on Failure
