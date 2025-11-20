@@ -76,8 +76,8 @@ I'm a developer who loves building cool stuff with **HTML/CSS**, **JavaScript**,
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#77](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2/issues/77) in [ProgMEM-CC/miniblox.impact.client.updatedv2](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2)
-2.  Assigned issue [#77](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2/issues/77) in [ProgMEM-CC/miniblox.impact.client.updatedv2](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2)
+1. ❌ Closed PR [#6](undefined) in [1501henify/Learning-Python](https://github.com/1501henify/Learning-Python)
+2.  Labeled issue [#77](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2/issues/77) in [ProgMEM-CC/miniblox.impact.client.updatedv2](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2)
 3.  Assigned issue [#77](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2/issues/77) in [ProgMEM-CC/miniblox.impact.client.updatedv2](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2)
 <!--END_SECTION:activity-->
 
