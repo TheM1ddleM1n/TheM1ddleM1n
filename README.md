@@ -27,7 +27,7 @@ I'm a developer who loves building cool stuff with **HTML/CSS**, **JavaScript**,
 
 **💬 I love connecting with people! Visit my [Atabook guestbook](https://them1ddlem1n.atabook.org/) and leave a message - I always respond to kind and thoughtful messages!**
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats lol
 
 <div align="center">
 
