@@ -76,9 +76,9 @@ I'm a developer who loves building cool stuff with **HTML/CSS**, **JavaScript**,
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#78](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2/issues/78#issuecomment-3598313337) in [ProgMEM-CC/miniblox.impact.client.updatedv2](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2)
-2. 🗣 Commented on [#78](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2/issues/78#issuecomment-3592536242) in [ProgMEM-CC/miniblox.impact.client.updatedv2](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2)
-3. 🔒 Closed issue [#77](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2/issues/77) in [ProgMEM-CC/miniblox.impact.client.updatedv2](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2)
+1. ❌ Closed PR [#80](undefined) in [ProgMEM-CC/miniblox.impact.client.updatedv2](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2)
+2. 💪 Opened PR [#80](undefined) in [ProgMEM-CC/miniblox.impact.client.updatedv2](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2)
+3. 🗣 Commented on [#78](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2/issues/78#issuecomment-3598313337) in [ProgMEM-CC/miniblox.impact.client.updatedv2](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2)
 <!--END_SECTION:activity-->
 
 ## 💻 Tech Stack
