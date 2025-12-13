@@ -254,6 +254,6 @@ Running diagnostics...
 <img src="https://img.shields.io/badge/Pizza-Pizzaaaa-8B4513?style=flat-square&labelColor=1a1a1a" alt="Pizza"/>
 </p>
 
-**Made with ❤️ and lots of ☕**
+**Made with ❤️ and lots of 💧🧊**
 
 </div>
