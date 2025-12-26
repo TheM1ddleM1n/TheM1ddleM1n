@@ -4,7 +4,9 @@
 
 ![Header](./header.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6EB891&center=true&vCenter=true&width=600&lines=Passionate+Developer+%F0%9F%92%BB;HTML%2C+Python+%26+JavaScript+Enthusiast;Always+Learning+New+Things+%F0%9F%9A%80;Building+Cool+Projects+%E2%9C%A8)](https://git.io/typing-svg)
+### Full-Stack Developer | Open Source Enthusiast | Building Tomorrow's Web
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6EB891&center=true&vCenter=true&width=600&lines=Crafting+Web+Experiences+%F0%9F%92%BB;Python+%7C+JavaScript+%7C+HTML%2FCSS;Open+Source+Contributor+%F0%9F%8C%9F;Always+Shipping+New+Projects+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -17,59 +19,60 @@
 [![GitHub Battleships](https://img.shields.io/badge/🎮_Play-GitHub%20Battleships-0066cc?style=for-the-badge)](https://github.com/TheM1ddleM1n/github-battleships)
 
 ### 📑 Quick Navigation
-[About](#-about-me) • [Statistics](#-github-statistics) • [Tech Stack](#-tech-stack) • [Projects](#-featured-projects) • [Connect](#-connect-with-me)
+[About](#-about-me) • [Current Focus](#-current-focus) • [Statistics](#-github-statistics) • [Tech Stack](#-tech-stack--tools) • [Projects](#-featured-projects) • [Connect](#-lets-connect)
 
 </div>
 
 ## 👋 About Me
 
-I'm a developer who loves building cool stuff with **HTML/CSS**, **JavaScript**, and **Python**. I'm always working on exciting projects and continuously learning new technologies.
+Hey! I'm a developer passionate about creating intuitive web experiences and automation tools. I specialize in:
 
-**💬 I love connecting with people! Visit my [Atabook guestbook](https://them1ddlem1n.atabook.org/) and leave a message - I always respond to kind and thoughtful messages!**
+- 🎮 **Game Development Tools** - Building mods and clients for Miniblox
+- 🐍 **Python Automation** - Creating utilities that make life easier
+- 🌐 **Web Development** - Crafting responsive, modern interfaces
+- 🤝 **Open Source** - Contributing to and maintaining community projects
 
-## 📊 GitHub Stats lol
+Currently working on innovative Miniblox modifications and exploring new web technologies. Always excited to collaborate on interesting projects!
+
+**💬 Let's connect!** Visit my [Atabook guestbook](https://them1ddlem1n.atabook.org/) and leave a message - I read and respond to every thoughtful entry!
+
+## 🔨 Current Focus
+
+- 🎮 Developing next-generation Miniblox modifications
+- 📚 Learning advanced JavaScript frameworks
+- 🌟 Contributing to open-source automation tools
+- 🤝 Building community resources for developers
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<!-- Option A: Use terminal metrics if you prefer the aesthetic -->
-<!-- ![Terminal Metrics](https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/main/metrics.terminal.svg) -->
-
-<!-- Option B: Use compact combined stats (faster loading) -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheM1ddleM1n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheM1ddleM1n&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheM1ddleM1n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-streak-stats-eight.vercel.app?user=TheM1ddleM1n&theme=tokyonight&hide_border=true&border_radius=10&background=1a1b27" alt="Streak Stats"/>
 
 <br><br>
 
-<!-- Streak stats -->
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=TheM1ddleM1n&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+<!-- Top Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheM1ddleM1n&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=1a1b27" alt="Top Languages"/>
 
 <br><br>
 
-<!-- Trophy display - only rank A and above -->
-![Trophies](https://github-profile-trophy.vercel.app/?username=TheM1ddleM1n&theme=gruvbox&no-frame=true&row=1&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A)
+<!-- Activity Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheM1ddleM1n&theme=tokyo-night&hide_border=true&bg_color=1a1b27)
 
 <details>
-<summary>📈 View my Detailed Metrics</summary>
+<summary>🏆 View Achievements & Trophies</summary>
 
 <br>
 
-<!-- Terminal view for detailed breakdown -->
-![Terminal Metrics](https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/main/metrics.terminal.svg)
+![Trophies](https://github-profile-trophy.vercel.app/?username=TheM1ddleM1n&theme=gruvbox&no-frame=true&row=2&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A)
 
 <br>
 
-<!-- Activity timeline -->
+<!-- Detailed Metrics -->
 ![Recent Activity](https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/main/metrics.plugin.activity.svg)
 
 </details>
-
-</div>
-
-## 📅 This Year's Contributions
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheM1ddleM1n&theme=tokyo-night&hide_border=true)
 
 </div>
 
@@ -81,19 +84,25 @@ I'm a developer who loves building cool stuff with **HTML/CSS**, **JavaScript**,
 3.  Assigned issue [#87](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2/issues/87) in [ProgMEM-CC/miniblox.impact.client.updatedv2](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2)
 <!--END_SECTION:activity-->
 
-## 💻 Tech Stack
+## 💻 Tech Stack & Tools
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" title="HTML5"/> 
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" title="CSS3"/>
+### Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" title="Python"/> 
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" title="JavaScript"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" title="HTML5"/> 
 &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" title="CSS3"/>
+
+### Tools & Technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git" title="Git"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub" title="GitHub"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code" title="VS Code"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="60" height="60" alt="Markdown" title="Markdown"/>
 
@@ -103,30 +112,16 @@ I'm a developer who loves building cool stuff with **HTML/CSS**, **JavaScript**,
 
 <div align="center">
 
+### 🎮 Game Development
 <table>
-<tr>
-<td width="50%">
-
-<a href="https://github.com/TheM1ddleM1n/TheM1ddleM1n">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheM1ddleM1n&repo=TheM1ddleM1n&theme=tokyonight&hide_border=true" />
-</a>
-
-</td>
-<td width="50%">
-
-<a href="https://github.com/TheM1ddleM1n/PythonProgramsV3">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheM1ddleM1n&repo=PythonProgramsV3&theme=tokyonight&hide_border=true" />
-</a>
-
-</td>
-</tr>
-
 <tr>
 <td width="50%">
 
 <a href="https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2">
   <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ProgMEM-CC&repo=miniblox.impact.client.updatedv2&theme=tokyonight&hide_border=true" />
 </a>
+
+**Impact Client V2** - Advanced Miniblox mod with enhanced features
 
 </td>
 <td width="50%">
@@ -135,15 +130,46 @@ I'm a developer who loves building cool stuff with **HTML/CSS**, **JavaScript**,
   <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheM1ddleM1n&repo=NovaCore-For-Miniblox&theme=tokyonight&hide_border=true" />
 </a>
 
+**NovaCore** - Core framework for Miniblox modifications
+
 </td>
 </tr>
+</table>
 
+### 🐍 Python Projects & Interactive Tools
+<table>
+<tr>
+<td width="50%">
+
+<a href="https://github.com/TheM1ddleM1n/PythonProgramsV3">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheM1ddleM1n&repo=PythonProgramsV3&theme=tokyonight&hide_border=true" />
+</a>
+
+**Python Programs V3** - Collection of useful Python utilities
+
+</td>
+<td width="50%">
+
+<a href="https://github.com/TheM1ddleM1n/github-battleships">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheM1ddleM1n&repo=github-battleships&theme=tokyonight&hide_border=true" />
+</a>
+
+**GitHub Battleships** - Play battleships via GitHub issues!
+
+</td>
+</tr>
+</table>
+
+### 📖 Profile & Documentation
+<table>
 <tr>
 <td colspan="2" align="center">
 
-<a href="https://github.com/TheM1ddleM1n/github-battleships">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheM1ddleM1n&repo=github-battleships&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/TheM1ddleM1n/TheM1ddleM1n">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheM1ddleM1n&repo=TheM1ddleM1n&theme=tokyonight&hide_border=true" />
 </a>
+
+**Profile Repository** - You're looking at it! ✨
 
 </td>
 </tr>
@@ -151,16 +177,26 @@ I'm a developer who loves building cool stuff with **HTML/CSS**, **JavaScript**,
 
 ### 📎 Additional Resources
 
-**Vape V4 Mirror:** [Codeberg Repository](https://codeberg.org/RealPacket/VapeForMiniblox)
+- 🔗 [Vape V4 Mirror](https://codeberg.org/RealPacket/VapeForMiniblox) - Codeberg Repository
 
 </div>
 
-## 📫 Connect With Me
+## 🤝 Let's Connect!
 
-Feel free to reach out if you're interested in collaborating or just want to chat!
+<div align="center">
 
-- **GitHub:** [@TheM1ddleM1n](https://github.com/TheM1ddleM1n)
-- **Guestbook:** [Sign my Atabook!](https://them1ddlem1n.atabook.org/) ✨
+I'm always open to interesting conversations and collaboration opportunities!
+
+[![Guestbook](https://img.shields.io/badge/📖_Sign_My_Guestbook-Atabook-ff69b4?style=for-the-badge&logo=book&logoColor=white)](https://them1ddlem1n.atabook.org/)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-TheM1ddleM1n-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheM1ddleM1n)
+
+### 💡 Open to:
+✨ Collaboration on open-source projects  
+🎮 Game development and modding discussions  
+🐍 Python automation ideas  
+💬 General tech conversations
+
+</div>
 
 ## 🎯 Daily Coding Wisdom
 
@@ -243,7 +279,7 @@ Running diagnostics...
 
 <br>
 
-**Thanks for visiting my github readme! Have a wonderful day! 😊**
+**Thanks for visiting my GitHub profile! Have a wonderful day! 😊**
 
 <br>
 
