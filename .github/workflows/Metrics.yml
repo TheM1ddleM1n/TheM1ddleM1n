@@ -2,7 +2,7 @@ name: GitHub Metrics (Optimized & Compressed)
 
 on:
   schedule: 
-    - cron: "0 0 */3 * *"  # Every 3 days
+    - cron: "0 0 */7 * *"  # Every 7 days (reduced from 3 for fewer API calls)
   workflow_dispatch:
 
 jobs:
