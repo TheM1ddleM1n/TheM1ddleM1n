@@ -2,7 +2,7 @@ name: Update README with Recent Activity
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Every 6 hours
+    - cron: '0 */12 * * *'  # Every 12 hours (reduced from 6 for efficiency)
   workflow_dispatch:
 
 jobs:
@@ -20,7 +20,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: 'Update recent activity'
+          COMMIT_MSG: 'Update recent activity [skip ci]'
           MAX_LINES: 5
       
       - name: Log Status
@@ -28,3 +28,9 @@ jobs:
         run: |
           echo "Activity update completed at $(date)"
           echo "Job status: ${{ job.status }}"
+      
+      - name: Notify on Failure
+        if: failure()
+        run: |
+          echo "::warning::Activity update failed at $(date)"
+          echo "::warning::Please check workflow permissions"
