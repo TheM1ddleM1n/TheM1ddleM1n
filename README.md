@@ -79,9 +79,9 @@ Currently working on innovative Miniblox modifications and exploring new web tec
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#2](https://github.com/TheM1ddleM1n/PythonProgramsV3/pull/2) in [TheM1ddleM1n/PythonProgramsV3](https://github.com/TheM1ddleM1n/PythonProgramsV3)
-2. 🗣 Commented on [#94](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2/pull/94#issuecomment-3703669805) in [ProgMEM-CC/miniblox.impact.client.updatedv2](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2)
-3. 🗣 Commented on [#94](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2/pull/94#issuecomment-3703576969) in [ProgMEM-CC/miniblox.impact.client.updatedv2](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2)
+1. ℹ️ Assigned issue [#98](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2/issues/98) in [ProgMEM-CC/miniblox.impact.client.updatedv2](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2)
+2. ℹ️ Labeled issue [#98](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2/issues/98) in [ProgMEM-CC/miniblox.impact.client.updatedv2](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2)
+3. 🗣 Commented on [#98](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2/issues/98#issuecomment-3705179661) in [ProgMEM-CC/miniblox.impact.client.updatedv2](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2)
 <!--END_SECTION:activity-->
 
 ## 💻 Tech Stack & Tools
