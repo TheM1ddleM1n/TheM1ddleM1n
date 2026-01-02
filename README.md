@@ -25,8 +25,8 @@
 
 Hey! I'm a developer passionate about creating intuitive web experiences and automation tools. I specialize in:
 
-- 🎮 **Game Development Tools** - Building mods and clients for Miniblox
-- 🐍 **Python Automation** - Creating utilities that make life easier
+- 🎮 **Game Development Tools** - Building modified clients for Miniblox
+- 🐍 **Python Automation** - Creating utilities (scripts) that make life easier
 - 🌐 **Web Development** - Crafting responsive, modern interfaces
 - 🤝 **Open Source** - Contributing to and maintaining community projects
 
@@ -38,7 +38,7 @@ Currently working on innovative Miniblox modifications and exploring new web tec
 
 - 🎮 Developing next-generation Miniblox modifications
 - 📚 Learning advanced JavaScript frameworks
-- 🌟 Contributing to open-source automation tools
+- 🌟 Always contributing to open-source automation tools
 - 🤝 Building community resources for developers
 
 ## 📊 GitHub Statistics
@@ -171,7 +171,7 @@ Currently working on innovative Miniblox modifications and exploring new web tec
 
 ### 📎 Additional Resources
 
-- 🔗 [Vape V4 Mirror](https://codeberg.org/RealPacket/VapeForMiniblox) - Codeberg Repository
+- 🔗 [Vape V Mirror](https://codeberg.org/Miniblox/Vape) - Codeberg Repo
 
 </div>
 
