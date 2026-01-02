@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hey there! I'm TheM1ddleM1n 👋
-
-![Header](./header.png)
+# Hello there I'm TheM1ddleM1n! Hope you are having a good day! 👋
 
 ### Full-Stack Developer | Open Source Enthusiast | Building Tomorrow's Web
 
