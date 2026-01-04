@@ -77,9 +77,9 @@ Currently working on innovative Miniblox modifications and exploring new web tec
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2/pull/101#issuecomment-3707441907) in [ProgMEM-CC/miniblox.impact.client.updatedv2](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2)
-2. 🗣 Commented on [#101](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2/pull/101#issuecomment-3707408250) in [ProgMEM-CC/miniblox.impact.client.updatedv2](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2)
-3. ℹ️ Assigned PR [#101](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2/pull/101) in [ProgMEM-CC/miniblox.impact.client.updatedv2](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2)
+1. 🗣 Commented on [#1](https://github.com/TheM1ddleM1n/NovaCore-For-Miniblox/issues/1#issuecomment-3708015517) in [TheM1ddleM1n/NovaCore-For-Miniblox](https://github.com/TheM1ddleM1n/NovaCore-For-Miniblox)
+2. 🗣 Commented on [#1](https://github.com/TheM1ddleM1n/NovaCore-For-Miniblox/issues/1#issuecomment-3708015103) in [TheM1ddleM1n/NovaCore-For-Miniblox](https://github.com/TheM1ddleM1n/NovaCore-For-Miniblox)
+3. 🗣 Commented on [#1](https://github.com/TheM1ddleM1n/NovaCore-For-Miniblox/issues/1#issuecomment-3708014848) in [TheM1ddleM1n/NovaCore-For-Miniblox](https://github.com/TheM1ddleM1n/NovaCore-For-Miniblox)
 <!--END_SECTION:activity-->
 
 ## 💻 Tech Stack & Tools
