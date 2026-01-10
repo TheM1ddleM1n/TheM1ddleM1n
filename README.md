@@ -77,9 +77,9 @@ Currently working on innovative Miniblox modifications and exploring new web tec
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/TheM1ddleM1n/NovaCoreX/issues/3) in [TheM1ddleM1n/NovaCoreX](https://github.com/TheM1ddleM1n/NovaCoreX)
-2. 🗣 Commented on [#3](https://github.com/TheM1ddleM1n/NovaCoreX/issues/3#issuecomment-3720991323) in [TheM1ddleM1n/NovaCoreX](https://github.com/TheM1ddleM1n/NovaCoreX)
-3. ℹ️ Labeled issue [#3](https://github.com/TheM1ddleM1n/NovaCoreX/issues/3) in [TheM1ddleM1n/NovaCoreX](https://github.com/TheM1ddleM1n/NovaCoreX)
+1. 🔒 Closed issue [#109](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2/issues/109) in [ProgMEM-CC/miniblox.impact.client.updatedv2](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2)
+2. 🗣 Commented on [#112](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2/issues/112#issuecomment-3731098306) in [ProgMEM-CC/miniblox.impact.client.updatedv2](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2)
+3. 🗣 Commented on [#107](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2/issues/107#issuecomment-3731093557) in [ProgMEM-CC/miniblox.impact.client.updatedv2](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2)
 <!--END_SECTION:activity-->
 
 ## 💻 Tech Stack & Tools
