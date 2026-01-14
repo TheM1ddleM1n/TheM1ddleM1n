@@ -34,9 +34,8 @@ Currently exploring cutting-edge web technologies while pushing the boundaries o
 ## 🎯 What I'm Working On
 
 - 🎮 Next-generation Miniblox client modifications
-- 📚 Deepening expertise in modern JavaScript frameworks
-- 🌟 Contributing to open-source automation and developer tools
-- 💡 Building resources that help other developers succeed
+- 🌟 Contributing to open-source code
+- 💡 Building resources that help other devs succeed!
 
 ---
 
