@@ -71,7 +71,7 @@ Currently exploring cutting-edge web technologies while pushing the boundaries o
 I'm always open to interesting conversations and collaboration opportunities!
 
 - 📖 **[Sign My Guestbook](https://them1ddlem1n.atabook.org/)** - Leave a message and say hello!
-- 🐙 **[GitHub Profile](https://github.com/TheM1ddleM1n)** - Follow my work
+- 🐙 **[GitHub Repositories](https://github.com/TheM1ddleM1n?tab=repositories)** - Follow my work
 - 💬 **Open to:** Open-source collaboration • Game dev discussions • Python automation ideas • Tech conversations
 
 ---
