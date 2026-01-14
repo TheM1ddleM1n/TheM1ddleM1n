@@ -64,6 +64,10 @@ Currently exploring cutting-edge web technologies while pushing the boundaries o
 
 ## 📊 GitHub Activity
 
+### Contribution Graph
+
+![Pacman Contribution Graph](https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/output/github-contribution-grid-snake-dark.svg)
+
 Check out my recent contributions and activity on [GitHub](https://github.com/TheM1ddleM1n).
 
 **Latest Highlights:**
