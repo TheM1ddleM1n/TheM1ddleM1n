@@ -26,7 +26,7 @@
 Hey! I'm a developer passionate about creating intuitive web experiences and automation tools. I specialize in:
 
 - 🎮 **Game Development Tools** - Building modified clients for Miniblox
-- 🐍 **Python Automation** - Creating utilities (scripts) that make life easier
+- 🐍 **Python Automation** - Creating utilities and scripts that make life easier
 - 🌐 **Web Development** - Crafting responsive, modern interfaces
 - 🤝 **Open Source** - Contributing to and maintaining community projects
 
@@ -200,7 +200,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 </div>
 
-### Pacman!
+### 🎮 Pacman!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/output/pacman-contribution-graph-dark.svg">
