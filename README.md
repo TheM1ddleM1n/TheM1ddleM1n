@@ -45,27 +45,19 @@ Currently working on innovative Miniblox modifications and exploring new web tec
 
 <div align="center">
 
-<!-- GitHub Stats -->
-[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheM1ddleM1n&theme=tokyonight)](https://github.com/TheM1ddleM1n)
+<img height="180em" src="https://metrics.lecoq.io/TheM1ddleM1n?template=classic&config.timezone=America%2FNew_York&config.twemoji=true" alt="GitHub Metrics"/>
 
 <br><br>
 
-[![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheM1ddleM1n&theme=tokyonight)](https://github.com/TheM1ddleM1n)
-[![Repos Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheM1ddleM1n&theme=tokyonight)](https://github.com/TheM1ddleM1n)
+<!-- GitHub Stats Alternative -->
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TheM1ddleM1n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27)](https://github.com/TheM1ddleM1n)
 
-<details>
-<summary>🏆 View Achievements & Trophies</summary>
+<br><br>
 
-<br>
+<!-- Activity Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheM1ddleM1n&theme=tokyo-night&hide_border=true&bg_color=1a1b27&radius=16)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=TheM1ddleM1n&theme=gruvbox&no-frame=true&row=2&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A)
 
-<br>
-
-<!-- Detailed Metrics -->
-![Recent Activity](https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/main/metrics.plugin.activity.svg)
-
-</details>
 
 </div>
 
