@@ -45,17 +45,13 @@ Currently working on innovative Miniblox modifications and exploring new web tec
 
 <div align="center">
 
-<img height="180em" src="https://metrics.lecoq.io/TheM1ddleM1n?template=classic&config.timezone=America%2FNew_York&config.twemoji=true" alt="GitHub Metrics"/>
+<!-- GitHub Stats -->
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheM1ddleM1n&theme=tokyonight)](https://github.com/TheM1ddleM1n)
 
 <br><br>
 
-<!-- GitHub Stats Alternative -->
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TheM1ddleM1n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27)](https://github.com/TheM1ddleM1n)
-
-<br><br>
-
-<!-- Activity Graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheM1ddleM1n&theme=tokyo-night&hide_border=true&bg_color=1a1b27)
+[![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheM1ddleM1n&theme=tokyonight)](https://github.com/TheM1ddleM1n)
+[![Repos Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheM1ddleM1n&theme=tokyonight)](https://github.com/TheM1ddleM1n)
 
 <details>
 <summary>🏆 View Achievements & Trophies</summary>
