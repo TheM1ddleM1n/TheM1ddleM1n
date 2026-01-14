@@ -42,7 +42,7 @@ Currently exploring cutting-edge web technologies while pushing the boundaries o
 
 ## 🏆 Featured Projects
 
-### Game Development
+### Miniblox Game Development
 
 **[Impact Client V2](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2)** - Advanced Miniblox mod with enhanced features and improved performance
 
@@ -51,14 +51,6 @@ Currently exploring cutting-edge web technologies while pushing the boundaries o
 ### Tools & Utilities
 
 **[Python Programs V3](https://github.com/TheM1ddleM1n/PythonProgramsV3)** - Collection of practical Python utilities and scripts
-
-**[GitHub Battleships](https://github.com/TheM1ddleM1n/github-battleships)** - Interactive battleship game playable via GitHub issues
-
-**[Profile Repository](https://github.com/TheM1ddleM1n/TheM1ddleM1n)** - This README and profile documentation
-
-### Additional Resources
-
-- 🔗 **[Vape V Mirror](https://codeberg.org/Miniblox/Vape)** - Codeberg Repository
 
 ---
 
