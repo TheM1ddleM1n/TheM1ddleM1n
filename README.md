@@ -60,8 +60,6 @@ Currently exploring cutting-edge web technologies while pushing the boundaries o
 
 ![Pacman Contribution Graph](https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/output/pacman-contribution-graph.svg)
 
-Check out my recent contributions and activity on [GitHub](https://github.com/TheM1ddleM1n).
-
 **Latest Highlights:**
 - Contributing to miniblox.impact.client.updatedv2
 - Maintaining open-source projects
