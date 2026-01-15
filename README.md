@@ -33,7 +33,6 @@ Currently exploring cutting-edge web technologies while pushing the boundaries o
 
 ## 🎯 What I'm Working On
 
-- 🎮 Next-generation Miniblox client modifications
 - 🌟 Contributing to open-source code
 - 💡 Building resources that help other devs succeed!
 
@@ -58,7 +57,6 @@ Currently exploring cutting-edge web technologies while pushing the boundaries o
 ![Pacman Contribution Graph](https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/output/pacman-contribution-graph.svg)
 
 **Latest Highlights:**
-- Contributing to miniblox.impact.client.updatedv2
 - Maintaining open-source projects
 - Pushing code daily
 
