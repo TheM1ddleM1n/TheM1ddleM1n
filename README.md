@@ -43,8 +43,6 @@ Currently exploring cutting-edge web technologies while pushing the boundaries o
 
 ### Miniblox Game Development
 
-**[Impact Client V2](https://github.com/ProgMEM-CC/miniblox.impact.client.updatedv2)** - Advanced Miniblox mod with enhanced features and improved performance
-
 **[NovaCore](https://github.com/TheM1ddleM1n/NovaCore-For-Miniblox)** - Robust framework for building Miniblox modifications
 
 ### Tools & Utilities
