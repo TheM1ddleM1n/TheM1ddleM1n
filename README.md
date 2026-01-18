@@ -42,7 +42,7 @@ Currently exploring cutting-edge web technologies while pushing the boundaries o
 
 ### Miniblox Game Development
 
-**[NovaCore](https://github.com/TheM1ddleM1n/NovaCore-For-Miniblox)** - Robust framework for building Miniblox modifications
+**[WaddleClient](https://github.com/TheM1ddleM1n/WaddleClient)** - Robust framework for building Miniblox modifications
 
 ### Tools & Utilities
 
