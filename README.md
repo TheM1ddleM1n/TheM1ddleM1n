@@ -8,7 +8,7 @@ Full-Stack Developer | Open Source Enthusiast
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a developer focused on web development, game modding, and Python automation. I love building practical tools and contributing to open source projects.
 
@@ -16,7 +16,7 @@ I'm a developer focused on web development, game modding, and Python automation.
 
 ---
 
-## 🏆 Projects
+## Projects
 
 **[WaddleClient](https://github.com/TheM1ddleM1n/WaddleClient)** - Miniblox game modification framework
 
@@ -24,13 +24,13 @@ I'm a developer focused on web development, game modding, and Python automation.
 
 ---
 
-## 📊 Activity
+## Activity
 
 ![Pacman Contribution Graph](https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/output/pacman-contribution-graph.svg)
 
 ---
 
-## 🤝 Connect
+## Connect
 
 - 📖 **[Sign My Guestbook](https://them1ddlem1n.atabook.org/)** - Say hello!
 
