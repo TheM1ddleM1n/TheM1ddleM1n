@@ -2,38 +2,82 @@ name: Mark All Notifications as Read
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs once daily at midnight
+    - cron: '0 0 */4 * *'  # Runs every 4 days at midnight UTC
   workflow_dispatch:
 
 jobs:
   mark-read:
     runs-on: ubuntu-latest
+    
     steps:
       - name: Mark all notifications as read
+        id: mark_notifications
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
         run: |
+          echo "Starting notification marking process..."
+          
+          # Get current timestamp
+          TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+          
+          # Make API request with improved error handling
           RESPONSE=$(curl -s -w "\n%{http_code}" -X PUT \
             -H "Authorization: token $GITHUB_TOKEN" \
             -H "Accept: application/vnd.github.v3+json" \
             https://api.github.com/notifications \
-            -d '{"last_read_at":"'"$(date -u +"%Y-%m-%dT%H:%M:%SZ")"'"}')
+            -d '{"last_read_at":"'"$TIMESTAMP"'"}')
           
+          # Extract HTTP code and response body
           HTTP_CODE=$(echo "$RESPONSE" | tail -n1)
           BODY=$(echo "$RESPONSE" | sed '$d')
           
+          # Check for success (205 Reset Content or 200 OK)
           if [ "$HTTP_CODE" -eq 205 ] || [ "$HTTP_CODE" -eq 200 ]; then
             echo "✓ Successfully marked all notifications as read"
-            echo "Timestamp: $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+            echo "Timestamp: $TIMESTAMP"
+            echo "status=success" >> $GITHUB_OUTPUT
           else
             echo "✗ Failed to mark notifications as read"
             echo "HTTP Status: $HTTP_CODE"
             echo "Response: $BODY"
+            echo "status=failure" >> $GITHUB_OUTPUT
             exit 1
           fi
 
-      - name: Log execution
+      - name: Get notification count (optional)
+        if: success()
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
+        run: |
+          echo "Checking remaining notifications..."
+          COUNT=$(curl -s \
+            -H "Authorization: token $GITHUB_TOKEN" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/notifications | jq '. | length')
+          echo "Remaining unread notifications: $COUNT"
+
+      - name: Log execution summary
         if: always()
         run: |
-          echo "Workflow completed at $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+          echo "----------------------------------------"
+          echo "Workflow Execution Summary"
+          echo "----------------------------------------"
+          echo "Completed at: $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
           echo "Job status: ${{ job.status }}"
+          echo "Mark status: ${{ steps.mark_notifications.outputs.status }}"
+          echo "----------------------------------------"
+
+      - name: Create issue on failure
+        if: failure()
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          curl -X POST \
+            -H "Authorization: token $GITHUB_TOKEN" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/${{ github.repository }}/issues \
+            -d '{
+              "title": "❌ Mark Notifications Workflow Failed",
+              "body": "The automated notification marking workflow failed.\n\n**Run Details:**\n- Run ID: ${{ github.run_id }}\n- Timestamp: '"$(date -u +"%Y-%m-%dT%H:%M:%SZ")"'\n- Job Status: ${{ job.status }}\n\n[View Run](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }})",
+              "labels": ["automation", "workflow-failure"]
+            }'
