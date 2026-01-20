@@ -14,7 +14,6 @@
 
 I'm a passionate developer focused on creating meaningful web experiences and game modifications. My work spans across multiple domains:
 
-- **🎮 Game Development** - Crafting advanced Miniblox modifications and game tools
 - **🐍 Python Automation** - Building practical utilities and automation scripts  
 - **🌐 Web Development** - Creating responsive, modern web interfaces
 - **🤝 Open Source** - Contributing to and maintaining community-driven projects
@@ -28,13 +27,6 @@ Currently exploring cutting-edge web technologies while pushing the boundaries o
 **Languages:** Python • JavaScript • HTML5 • CSS3
 
 **Tools & Platforms:** Git • GitHub • Markdown • Web APIs
-
----
-
-## 🎯 What I'm Working On
-
-- 🌟 Contributing to open-source code
-- 💡 Building resources that help other devs succeed!
 
 ---
 
@@ -55,10 +47,6 @@ Currently exploring cutting-edge web technologies while pushing the boundaries o
 ### Contribution Graph
 
 ![Pacman Contribution Graph](https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/output/pacman-contribution-graph.svg)
-
-**Latest Highlights:**
-- Maintaining open-source projects
-- Pushing code daily
 
 ---
 
