@@ -2,9 +2,7 @@
 
 # 👋 TheM1ddleM1n
 
-### Full-Stack Developer | Open Source Enthusiast | Web & Game Dev
-
-**Building innovative solutions one commit at a time** ✨
+Full-Stack Developer | Open Source Enthusiast
 
 </div>
 
@@ -12,88 +10,30 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer focused on creating meaningful web experiences and game modifications. My work spans across multiple domains:
+I'm a developer focused on web development, game modding, and Python automation. I love building practical tools and contributing to open source projects.
 
-- **🐍 Python Automation** - Building practical utilities and automation scripts  
-- **🌐 Web Development** - Creating responsive, modern web interfaces
-- **🤝 Open Source** - Contributing to and maintaining community-driven projects
-
-Currently exploring cutting-edge web technologies while pushing the boundaries of what's possible with game modding. Always excited about collaboration and creative challenges!
+**Tech Stack:** Python • JavaScript • HTML5 • CSS3
 
 ---
 
-## 💻 Tech Stack
+## 🏆 Projects
 
-**Languages:** Python • JavaScript • HTML5 • CSS3
+**[WaddleClient](https://github.com/TheM1ddleM1n/WaddleClient)** - Miniblox game modification framework
 
-**Tools & Platforms:** Git • GitHub • Markdown • Web APIs
-
----
-
-## 🏆 Featured Projects
-
-### Miniblox Game Development
-
-**[WaddleClient](https://github.com/TheM1ddleM1n/WaddleClient)** - Robust framework for building Miniblox modifications
-
-### Tools & Utilities
-
-**[Python Programs V3](https://github.com/TheM1ddleM1n/PythonProgramsV3)** - Collection of practical Python utilities and scripts
+**[Python Programs V3](https://github.com/TheM1ddleM1n/PythonProgramsV3)** - Practical Python utilities
 
 ---
 
-## 📊 GitHub Activity
-
-### Contribution Graph
+## 📊 Activity
 
 ![Pacman Contribution Graph](https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/output/pacman-contribution-graph.svg)
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect
 
-I'm always open to interesting conversations and collaboration opportunities!
-
-- 📖 **[Sign My Guestbook](https://them1ddlem1n.atabook.org/)** - Leave a message and say hello!
-- 🐙 **[GitHub Repositories](https://github.com/TheM1ddleM1n?tab=repositories)** - Follow my work
-- 💬 **Open to:** Open-source collaboration • Game dev discussions • Python automation ideas • Tech conversations
-
----
-
-## 💡 Philosophy
-
-> Code is poetry. Build with purpose. Ship with pride.
-
-I believe in writing clean, maintainable code and contributing meaningfully to the developer community. Every project is an opportunity to learn, improve, and help others grow.
-
----
-
-## 🎮 Fun Stuff
-
-<div align="center">
-
-### 🧩 Git Challenge
-
-**Can you solve this riddle?**
-
-> I'm used in haste but break in shame,  
-> A developer regrets me, yet I still remain.  
-> What am I?
-
-<details>
-<summary>Hint: The reason behind frantic rollbacks</summary>
-
-**Answer:** `git push --force` 😈
-
-</details>
-
----
-
-### 😄 Dev Humor
-
-![Joke](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
-
-</div>
+- 📖 **[Sign My Guestbook](https://them1ddlem1n.atabook.org/)** - Say hello!
+- 💬 Open to collaboration and tech discussions
 
 ---
 
@@ -101,8 +41,6 @@ I believe in writing clean, maintainable code and contributing meaningfully to t
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TheM1ddleM1n&color=6EB891&style=flat-square&label=Profile%20Views)
 
-**Made with ❤️ by TheM1ddleM1n**
-
-Thanks for visiting! Feel free to explore my projects and reach out for collaboration.
+**Thanks for visiting!**
 
 </div>
