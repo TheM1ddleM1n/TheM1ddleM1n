@@ -33,7 +33,6 @@ I'm a developer focused on web development, game modding, and Python automation.
 ## 🤝 Connect
 
 - 📖 **[Sign My Guestbook](https://them1ddlem1n.atabook.org/)** - Say hello!
-- 💬 Open to collaboration and tech discussions
 
 ---
 
