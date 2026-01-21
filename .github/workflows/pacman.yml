@@ -22,7 +22,7 @@ jobs:
         run: echo "NODE_OPTIONS=--max-old-space-size=8192" >> $GITHUB_ENV
 
       - name: generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@v0.0.3
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
