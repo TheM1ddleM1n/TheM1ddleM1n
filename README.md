@@ -72,6 +72,4 @@ Practical Python utilities - Collection of helpful automation scripts and tools
 
 **Thanks for visiting!**
 
-![](https://hit.yhype.me/github/profile?user_id=TheM1ddleM1n)
-
 </div>
