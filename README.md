@@ -8,6 +8,8 @@ Full-Stack Developer | Open Source Enthusiast
 [![GitHub followers](https://img.shields.io/github/followers/TheM1ddleM1n?label=Followers&style=flat-square&color=6EB891)](https://github.com/TheM1ddleM1n?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/TheM1ddleM1n?label=Total%20Stars&style=flat-square&color=6EB891)](https://github.com/TheM1ddleM1n?tab=repositories)
 
+### ⭐ If you like my projects, consider giving them a star!
+
 </div>
 
 ---
@@ -19,6 +21,8 @@ Full-Stack Developer | Open Source Enthusiast
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheM1ddleM1n&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6EB891&icon_color=6EB891&text_color=C9D1D9)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheM1ddleM1n&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6EB891&text_color=C9D1D9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheM1ddleM1n&theme=radical&hide_border=true&background=0D1117&ring=6EB891&fire=6EB891&currStreakLabel=6EB891)
 
 </div>
 
@@ -42,9 +46,13 @@ I'm a developer focused on web development, game modding, and Python automation.
 
 </div>
 
-**[WaddleClient](https://github.com/TheM1ddleM1n/WaddleClient)** - Miniblox game modification framework
+### 🎮 [WaddleClient](https://github.com/TheM1ddleM1n/WaddleClient) ⭐
+Miniblox game modification framework - A powerful tool for game modding enthusiasts
 
-**[Python Programs V3](https://github.com/TheM1ddleM1n/PythonProgramsV3)** - Practical Python utilities
+### 🐍 [Python Programs V3](https://github.com/TheM1ddleM1n/PythonProgramsV3) ⭐
+Practical Python utilities - Collection of helpful automation scripts and tools
+
+> 💡 **Found these useful?** Give them a ⭐ to show your support!
 
 ---
 
@@ -63,5 +71,7 @@ I'm a developer focused on web development, game modding, and Python automation.
 <div align="center">
 
 **Thanks for visiting!**
+
+![](https://hit.yhype.me/github/profile?user_id=TheM1ddleM1n)
 
 </div>
