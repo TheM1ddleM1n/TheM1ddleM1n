@@ -22,8 +22,6 @@ Full-Stack Developer | Open Source Enthusiast
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheM1ddleM1n&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6EB891&text_color=C9D1D9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheM1ddleM1n&theme=radical&hide_border=true&background=0D1117&ring=6EB891&fire=6EB891&currStreakLabel=6EB891)
-
 </div>
 
 ---
