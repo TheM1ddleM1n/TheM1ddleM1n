@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 TheM1ddleM1n
+# Hi I am the TheM1ddleM1n!
 
 Full-Stack Developer | Open Source Enthusiast
 
@@ -9,18 +9,6 @@ Full-Stack Developer | Open Source Enthusiast
 [![GitHub Stars](https://img.shields.io/github/stars/TheM1ddleM1n?label=Total%20Stars&style=flat-square&color=6EB891)](https://github.com/TheM1ddleM1n?tab=repositories)
 
 ### ⭐ If you like my projects, consider giving them a star!
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheM1ddleM1n&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6EB891&icon_color=6EB891&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheM1ddleM1n&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6EB891&text_color=C9D1D9)
 
 </div>
 
