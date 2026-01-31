@@ -43,7 +43,7 @@ Whether you're looking for game modification tools, automation utilities, or web
 
 [![WaddleClient](https://github-readme-stats.vercel.app/api/pin/?username=TheM1ddleM1n&repo=WaddleClient&theme=radical&hide_border=true&bg_color=0D1117&title_color=6EB891&icon_color=6EB891&text_color=C9D1D9)](https://github.com/TheM1ddleM1n/WaddleClient)
 
-[![Python Programs V3](https://github-readme-stats.vercel.app/api/pin/?username=TheM1ddleM1n&repo=PythonProgramsV3&theme=radical&hide_border=true&bg_color=0D1117&title_color=6EB891&icon_color=6EB891&text_color=C9D1D9)](https://github.com/TheM1ddleM1n/PythonProgramsV3)
+[![PythonPrograms V3](https://github-readme-stats.vercel.app/api/pin/?username=TheM1ddleM1n&repo=PythonProgramsV3&theme=radical&hide_border=true&bg_color=0D1117&title_color=6EB891&icon_color=6EB891&text_color=C9D1D9)](https://github.com/TheM1ddleM1n/PythonProgramsV3)
 
 </div>
 
