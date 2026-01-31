@@ -60,6 +60,6 @@ Practical Python utilities - Collection of helpful automation scripts and tools
 
 ### Spotify
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hvjhia3pzh3dhdrl5szoxmdzdi&cover_image=true&theme=default&show_offline=true&background_color=ff0000&interchange=true&profanity=false&bar_color=00bfff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31hvjhia3pzh3dhdrl5szoxmdzdi&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hvjhia3pzh3dhdrl5szoxmdzdi&cover_image=true&theme=default&show_offline=true&background_color=ff0000&interchange=true&profanity=false&bar_color=00bfff&bar_color_cover=true&t=TIMESTAMP)](https://spotify-github-profile.kittinanx.com/api/view?uid=31hvjhia3pzh3dhdrl5szoxmdzdi&redirect=true)
 
 </div>
