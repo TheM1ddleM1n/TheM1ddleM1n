@@ -58,4 +58,8 @@ Practical Python utilities - Collection of helpful automation scripts and tools
 
 **Thanks for visiting!**
 
+### Spotify
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hvjhia3pzh3dhdrl5szoxmdzdi&cover_image=true&theme=default&show_offline=false&background_color=ff0000&interchange=true&profanity=false&bar_color=00bfff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 </div>
