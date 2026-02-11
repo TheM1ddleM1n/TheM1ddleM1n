@@ -2,7 +2,7 @@
 
 # Hi Im the TheM1ddleM1n! 👋
 
-**Full-Stack Developer | Game Modding Enthusiast | Python Automation Expert**
+**Full-Stack Developer | Javascript Game Modding Enthusiast | Python Scripter**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=TheM1ddleM1n&color=6EB891&style=flat-square&label=Profile%20Views)](https://github.com/TheM1ddleM1n)
 [![GitHub followers](https://img.shields.io/github/followers/TheM1ddleM1n?label=Followers&style=flat-square&color=6EB891)](https://github.com/TheM1ddleM1n?tab=followers)
@@ -16,7 +16,7 @@
 
 ## 💫 About Me
 
-I'm a developer passionate about building practical tools and creating engaging game modifications. My work spans full-stack web development, game modding frameworks, and Python automation scripts. I focus on writing clean, maintainable code and contributing to open source projects that solve real problems.
+I'm a developer passionate about building practical tools and creating engaging game modifications. My work spans full-stack web development, game modding frameworks, and Python scripts. I focus on writing clean, maintainable code and contributing to open source projects that solve real problems.
 
 Whether you're looking for game modification tools, automation utilities, or web development solutions, you'll find something useful here. I believe in sharing knowledge and collaborating with the community.
 
