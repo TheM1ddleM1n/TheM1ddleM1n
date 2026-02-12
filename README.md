@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi Im the TheM1ddleM1n! 👋
+# Hi Im TheM1ddleM1n! 👋
 
 **Full-Stack Developer | Javascript Game Modding Enthusiast | Python Scripter**
 
