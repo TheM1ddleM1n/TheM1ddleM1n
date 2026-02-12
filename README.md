@@ -14,7 +14,7 @@
 
 ---
 
-## 💫 About Me
+## 💫 What do I do?
 
 I'm a developer passionate about building practical tools and creating engaging game modifications. My work spans full-stack web development, game modding frameworks, and Python scripts. I focus on writing clean, maintainable code and contributing to open source projects that solve real problems.
 
@@ -64,11 +64,3 @@ A comprehensive collection of practical Python automation utilities and scripts 
 - 📖 **[Sign My Guestbook](https://them1ddlem1n.atabook.org/)** - Say hello and share your thoughts!
 - 💼 Open to collaboration on open source projects
 - 🎯 Interested in game modding or automation tools? Let's chat!
-
----
-
-<div align="center">
-
-**Thanks for visiting! Feel free to explore, fork, and contribute.** 🚀
-
-</div>
