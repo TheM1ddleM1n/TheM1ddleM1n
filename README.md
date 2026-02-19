@@ -14,7 +14,7 @@
 
 ---
 
-## 💫 What do I do?
+## 💫 What does TheM1ddleM1n do on Github?
 
 I'm a developer passionate about building practical tools and creating engaging game modifications. My work spans full-stack web development, game modding frameworks, and Python scripts. I focus on writing clean, maintainable code and contributing to open source projects that solve real problems.
 
