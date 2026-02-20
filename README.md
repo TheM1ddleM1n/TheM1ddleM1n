@@ -4,6 +4,8 @@
 
 **Full-Stack Developer | Javascript Game Modding Enthusiast | Python Scripter**
 
+**900 FOLLOWERS - Almost**
+
 [![Profile Views](https://komarev.com/ghpvc/?username=TheM1ddleM1n&color=6EB891&style=flat-square&label=Profile%20Views)](https://github.com/TheM1ddleM1n)
 [![GitHub followers](https://img.shields.io/github/followers/TheM1ddleM1n?label=Followers&style=flat-square&color=6EB891)](https://github.com/TheM1ddleM1n?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/TheM1ddleM1n?label=Total%20Stars&style=flat-square&color=6EB891)](https://github.com/TheM1ddleM1n?tab=repositories)
