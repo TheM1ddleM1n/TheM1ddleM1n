@@ -10,7 +10,7 @@
 
 ### ⭐ If you like my projects, consider giving them a star!
 
-**900 FOLLOWERS - Almost**
+**906 FOLLOWERS Thank you all so much!!**
 
 </div>
 
