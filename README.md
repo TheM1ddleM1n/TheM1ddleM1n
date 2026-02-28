@@ -39,7 +39,7 @@ Whether you're looking for game modification tools, automation utilities, or web
 
 ### Featured Projects
 
-### 🎮 [WaddleClient](https://github.com/TheM1ddleM1n/WaddleClient) ⭐
+### 🎮 [Waddle](https://github.com/TheM1ddleM1n/Waddle) ⭐
 A powerful game modification framework for Miniblox. This project demonstrates advanced game modding techniques and provides a foundation for creating custom game enhancements.
 
 **Tech:** JavaScript • Game Modding • Client Framework
