@@ -1,6 +1,6 @@
 <div align="center">
 
-# TheM1ddleM1n 👾
+# Hi TheM1ddleM1n here 👾
 
 **Full-Stack Dev · Game Modding · Python Automation**
 
