@@ -29,7 +29,7 @@ A growing toolkit of Python scripts for automating the boring stuff — file man
 ## Operating System I use
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=flat&logo=windows&logoColor=white)
 
-## 🛠️ Tools I Use
+## Tools I Use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -44,13 +44,13 @@ A growing toolkit of Python scripts for automating the boring stuff — file man
 
 ---
 
-## 🎯 Contribution Activity
+## Contribution Activity
 
 ![Pacman Graph](https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/output/pacman-contribution-graph.svg)
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 - 📖 [Sign my guestbook](https://them1ddlem1n.atabook.org/) — say hello!
 - 💬 Open to collabs on game mods, automation tools, or open source
