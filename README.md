@@ -51,7 +51,5 @@ A growing toolkit of Python scripts for automating the boring stuff — file man
 ---
 
 ## Let's Connect
-
-- 📖 [Sign my guestbook](https://them1ddlem1n.atabook.org/) — say hello!
 - 💬 Open to collabs on game mods, automation tools, or open source
 - ⭐ Star a repo if something helped you out
