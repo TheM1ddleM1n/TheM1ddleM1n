@@ -15,7 +15,7 @@ When I'm not modding Miniblox, I'm scripting something that probably shouldn't b
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 My Featured Projects
 
 ### 🎮 [Waddle](https://github.com/TheM1ddleM1n/Waddle)
 A client-side modification framework for **Miniblox** — built for players who want more control over their game experience. Waddle provides a clean foundation for building, loading, and managing custom game enhancements without the usual headaches.
