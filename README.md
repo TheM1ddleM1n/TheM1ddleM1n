@@ -20,6 +20,10 @@ I build tools that make code more fun and workflows less tedious. I'm scripting 
 A growing toolkit of Python scripts for automating the boring stuff — file management, CLI utilities, workflow helpers, and more. Built to be practical and easy to drop into your own projects.
 > `Python` · `Automation` · `CLI`
 
+### 🎮 [Waddle](https://github.com/TheM1ddleM1n/Waddle) DISCONTINUED
+A client-side modification framework for **Miniblox** — built for players who want more control over their game experience. Waddle provides a clean foundation for building, loading, and managing custom game enhancements without the usual headaches.
+> `JavaScript` · `Client Framework` · `Game Modding`
+
 ---
 ## Operating System I use
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=flat&logo=windows&logoColor=white)
