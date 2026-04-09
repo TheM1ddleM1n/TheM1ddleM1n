@@ -24,6 +24,33 @@ A growing toolkit of Python scripts for automating the boring stuff — file man
 A client-side modification framework for **Miniblox** — built for players who want more control over their game experience. Waddle provides a clean foundation for building, loading, and managing custom game enhancements without the usual headaches.
 > `JavaScript` · `Client Framework` · `Game Modding`
 
+## 🤝 People I Code With (Miniblox)
+
+<div align="center">
+
+<a href="https://github.com/joudaALT">
+  <img src="https://github.com/joudaALT.png" width="80px" /><br>
+  <sub><b>joudaALT</b></sub>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/mochiflower">
+  <img src="https://github.com/mochiflower.png" width="80px" /><br>
+  <sub><b>mochiflower</b></sub>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/ZeefilTheOfficial">
+  <img src="https://github.com/ZeefilTheOfficial.png" width="80px" /><br>
+  <sub><b>ZeefilTheOfficial</b></sub>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/mahnafdev">
+  <img src="https://github.com/mahnafdev.png" width="80px" /><br>
+  <sub><b>mahnafdev</b></sub>
+</a>
+
+</div>
+
+
 ---
 ## Operating System I use
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=flat&logo=windows&logoColor=white)
@@ -46,7 +73,6 @@ A client-side modification framework for **Miniblox** — built for players who 
 ![Pacman Graph](https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/output/pacman-contribution-graph.svg)
 
 ---
-
 ## Let's Connect
 - 💬 Open to collabs on automation tools or open source code
 - ⭐ Star a repo if something helped you out
