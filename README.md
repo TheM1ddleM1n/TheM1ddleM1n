@@ -23,33 +23,42 @@ A growing toolkit of Python scripts for automating the boring stuff — file man
 ### 🎮 [Waddle](https://github.com/TheM1ddleM1n/Waddle)
 A client-side modification framework for **Miniblox** — built for players who want more control over their game experience. Waddle provides a clean foundation for building, loading, and managing custom game enhancements without the usual headaches.
 > `JavaScript` · `Client Framework` · `Game Modding`
+---
 
-## 🤝 People I Code With (Miniblox)
+## 🤝 People I Code With
 
 <div align="center">
 
-<a href="https://github.com/joudaALT">
-  <img src="https://github.com/joudaALT.png" width="80px" /><br>
-  <sub><b>joudaALT</b></sub>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/mochiflower">
-  <img src="https://github.com/mochiflower.png" width="80px" /><br>
-  <sub><b>mochiflower</b></sub>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/ZeefilTheOfficial">
-  <img src="https://github.com/ZeefilTheOfficial.png" width="80px" /><br>
-  <sub><b>ZeefilTheOfficial</b></sub>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/mahnafdev">
-  <img src="https://github.com/mahnafdev.png" width="80px" /><br>
-  <sub><b>mahnafdev</b></sub>
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/joudaALT">
+        <img src="https://github.com/joudaALT.png" width="80px" style="border-radius:50%;" /><br>
+        <sub><b><u>joudaALT</u></b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mochiflower">
+        <img src="https://github.com/mochiflower.png" width="80px" style="border-radius:50%;" /><br>
+        <sub><b><u>mochiflower</u></b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ZeefilTheOfficial">
+        <img src="https://github.com/ZeefilTheOfficial.png" width="80px" style="border-radius:50%;" /><br>
+        <sub><b><u>ZeefilTheOfficial</u></b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mahnafdev">
+        <img src="https://github.com/mahnafdev.png" width="80px" style="border-radius:50%;" /><br>
+        <sub><b><u>mahnafdev</u></b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
-
 
 ---
 ## Operating System I use
