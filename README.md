@@ -25,7 +25,7 @@ A client-side modification framework for **Miniblox** — built for players who 
 > `JavaScript` · `Client Framework` · `Game Modding`
 ---
 
-## 🤝 People I Code With
+## 🤝 People I Code With 4 Miniblox
 
 <div align="center">
 
