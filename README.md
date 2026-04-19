@@ -2,7 +2,7 @@
 
 # Hi TheM1ddleM1n here! ✨
 
-**Full-Stack Dev · Python Automation Expert**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6EB891&center=true&vCenter=true&width=500&lines=Full-Stack+Dev+%F0%9F%92%BB;Python+Automation+Expert+%F0%9F%90%8D;Building+Waddle+%F0%9F%90%A7;Open+to+collabs+%E2%9C%A8)](https://git.io/typing-svg)
 
 I build tools that make code more fun and workflows less tedious. I'm scripting something that probably shouldn't be automated — but is.
 
