@@ -6,6 +6,8 @@
 
 I build tools that make code more fun and workflows less tedious. I'm scripting something that probably shouldn't be automated — but is.
 
+### 🎉 Almost at 1000 followers — thanks for the support!
+
 [![Profile Views](https://komarev.com/ghpvc/?username=TheM1ddleM1n&color=6EB891&style=flat-square&label=Views)](https://github.com/TheM1ddleM1n)
 [![Followers](https://img.shields.io/github/followers/TheM1ddleM1n?label=Followers&style=flat-square&color=6EB891)](https://github.com/TheM1ddleM1n?tab=followers)
 [![Stars](https://img.shields.io/github/stars/TheM1ddleM1n?label=Stars&style=flat-square&color=6EB891)](https://github.com/TheM1ddleM1n?tab=repositories)
