@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi TheM1ddleM1n here! ✨
+# Hi TheM1ddleM1n here!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6EB891&center=true&vCenter=true&width=500&lines=Full-Stack+Dev+%F0%9F%92%BB;Python+Automation+Expert+%F0%9F%90%8D;Building+Waddle+%F0%9F%90%A7;Open+to+collabs+%E2%9C%A8)](https://git.io/typing-svg)
 
@@ -16,18 +16,18 @@ I build tools that make code more fun and workflows less tedious. I'm scripting 
 
 ---
 
-## 🚀 My Featured Projects
+## My Featured Projects
 
-### 🐍 [Python Programs V3](https://github.com/TheM1ddleM1n/PythonProgramsV3)
+### [Python Programs V3](https://github.com/TheM1ddleM1n/PythonProgramsV3)
 A growing toolkit of Python scripts for automating the boring stuff — file management, CLI utilities, workflow helpers, and more. Built to be practical and easy to drop into your own projects.
 > `Python` · `Automation` · `CLI`
 
-### 🎮 [Waddle](https://github.com/TheM1ddleM1n/Waddle)
+### [Waddle](https://github.com/TheM1ddleM1n/Waddle)
 A client-side modification framework for **Miniblox** — built for players who want more control over their game experience. Waddle provides a clean foundation for building, loading, and managing custom game enhancements without the usual headaches.
 > `JavaScript` · `Client Framework` · `Game Modding`
 ---
 
-## 🤝 People I Code With 4 Miniblox
+## People I Code With 4 Miniblox
 
 <div align="center">
 
@@ -79,5 +79,5 @@ A client-side modification framework for **Miniblox** — built for players who 
 
 ---
 ## Let's Connect
-- 💬 Open to collabs on automation tools or open source code
-- ⭐ Star a repo if something helped you out
+- Open to collabs on automation tools or open source code
+- Star a repo if something helped you out
