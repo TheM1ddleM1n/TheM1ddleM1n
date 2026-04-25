@@ -51,12 +51,6 @@ A client-side modification framework for **Miniblox** — built for players who 
         <sub><b><u>ZeefilTheOfficial</u></b></sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/mahnafdev">
-        <img src="https://github.com/mahnafdev.png" width="80px" style="border-radius:50%;" /><br>
-        <sub><b><u>mahnafdev</u></b></sub>
-      </a>
-    </td>
   </tr>
 </table>
 
