@@ -51,6 +51,12 @@ A client-side modification framework for **Miniblox** — built for players who 
         <sub><b><u>ZeefilTheOfficial</u></b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/ahnafswe">
+        <img src="https://github.com/ahnafswe.png" width="80px" style="border-radius:50%;" /><br>
+        <sub><b><u>ahnafswe</u></b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -60,6 +66,7 @@ A client-side modification framework for **Miniblox** — built for players who 
 ## Operating System I use
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=flat&logo=windows&logoColor=white)
 
+https://github.com/ahnafswe
 ## Tools I Use
 
 ![Python 3.13](https://img.shields.io/badge/Python_3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
