@@ -66,7 +66,6 @@ A client-side modification framework for **Miniblox** — built for players who 
 ## Operating System I use
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=flat&logo=windows&logoColor=white)
 
-https://github.com/ahnafswe
 ## Tools I Use
 
 ![Python 3.13](https://img.shields.io/badge/Python_3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
