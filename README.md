@@ -8,6 +8,8 @@ I build tools that make code more fun and workflows less tedious. I'm scripting 
 
 ### 🎉 SO CLOSE TO 1000 followers — thank you so much everybody!
 
+im quitting github thanks everyone
+
 [![Profile Views](https://komarev.com/ghpvc/?username=TheM1ddleM1n&color=6EB891&style=flat-square&label=Views)](https://github.com/TheM1ddleM1n)
 [![Followers](https://img.shields.io/github/followers/TheM1ddleM1n?label=Followers&style=flat-square&color=6EB891)](https://github.com/TheM1ddleM1n?tab=followers)
 [![Stars](https://img.shields.io/github/stars/TheM1ddleM1n?label=Stars&style=flat-square&color=6EB891)](https://github.com/TheM1ddleM1n?tab=repositories)
