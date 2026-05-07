@@ -1,14 +1,12 @@
 <div align="center">
 
-# Hi TheM1ddleM1n here!
+# Hello everyone TheM1ddleM1n here!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6EB891&center=true&vCenter=true&width=500&lines=Full-Stack+Dev+%F0%9F%92%BB;Python+Automation+Expert+%F0%9F%90%8D;Building+Waddle+%F0%9F%90%A7;Open+to+collabs+%E2%9C%A8)](https://git.io/typing-svg)
 
 I build tools that make code more fun and workflows less tedious. I'm scripting something that probably shouldn't be automated — but is.
 
-### 🎉 SO CLOSE TO 1000 followers — thank you so much everybody!
-
-im quitting github thanks everyone
+### 🎉 SO CLOSE TO 1000 followers — thank you so much everybody! Sorry my account got deleted. 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=TheM1ddleM1n&color=6EB891&style=flat-square&label=Views)](https://github.com/TheM1ddleM1n)
 [![Followers](https://img.shields.io/github/followers/TheM1ddleM1n?label=Followers&style=flat-square&color=6EB891)](https://github.com/TheM1ddleM1n?tab=followers)
