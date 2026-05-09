@@ -6,7 +6,7 @@
 
 I build tools that make code more fun and workflows less tedious. I'm scripting something that probably shouldn't be automated — but is.
 
-### 🎉 SO CLOSE TO 1000 followers — thank you so much everybody! Sorry my account got deleted. 
+### 🎉 Lets get back to 1000 followers! Sorry my account got deleted. 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=TheM1ddleM1n&color=6EB891&style=flat-square&label=Views)](https://github.com/TheM1ddleM1n)
 [![Followers](https://img.shields.io/github/followers/TheM1ddleM1n?label=Followers&style=flat-square&color=6EB891)](https://github.com/TheM1ddleM1n?tab=followers)
