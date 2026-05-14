@@ -1,4 +1,4 @@
-name: Mark All Notifications as Read
+name: Mark All Notifications
 
 on:
   schedule:
@@ -44,7 +44,7 @@ jobs:
             exit 1
           fi
 
-      - name: Get notification count (optional)
+      - name: Get notification count
         if: success()
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
