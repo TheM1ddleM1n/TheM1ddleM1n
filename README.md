@@ -83,6 +83,29 @@ A growing collection of self-contained JavaScript programs — covering algorith
 
 ---
 
+## Python Version Lifecycle
+
+> **Recommended: Python 3.13** — stable, fully supported until Oct 2029, and widely compatible with modern libraries. 3.14 is available if you want the latest but may have rough edges in some packages.
+
+Each Python version gets ~2 years of full bug-fix releases, then ~3 years of security-only patches, for a total of 5 years of support. After that it's EOL — no more patches, ever.
+
+| Version | Released | EOL Date | Status |
+|---------|----------|----------|--------|
+| 3.9 | Oct 2020 | ~~Oct 31, 2025~~ | 🔴 EOL — stop using this |
+| 3.10 | Oct 2021 | Oct 31, 2026 | 🟠 Security-only — migrate soon |
+| 3.11 | Oct 2022 | Oct 31, 2027 | 🟡 Security-only |
+| 3.12 | Oct 2023 | Oct 31, 2028 | 🟢 Active support |
+| 3.13 | Oct 2024 | Oct 31, 2029 | ✅ **Recommended** |
+| 3.14 | Oct 2025 | Oct 31, 2030 | 🟢 Latest (but might not work on all computers) |
+
+If your project still targets 3.10, start planning a migration — it reaches end of life in just 5 months. Check your version with:
+
+```bash
+python --version
+```
+
+Full schedule: [devguide.python.org/versions](https://devguide.python.org/versions/) · [endoflife.date/python](https://endoflife.date/python)
+
 ## Contribution Activity
 
 ![Pacman Graph](https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/output/pacman-contribution-graph.svg)
