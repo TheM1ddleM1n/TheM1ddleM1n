@@ -18,7 +18,7 @@ I build tools that make code more fun and workflows less tedious. I'm scripting 
 
 ## My Featured Projects
 
-### [Python Programs V3](https://github.com/TheM1ddleM1n/PythonProgramsV3)
+### [PythonProgramsV3](https://github.com/TheM1ddleM1n/PythonProgramsV3)
 A growing toolkit of Python scripts for automating the boring stuff — file management, CLI utilities, workflow helpers, and more. Built to be practical and easy to drop into your own projects.
 > `Python` · `Automation` · `CLI`
 
@@ -26,10 +26,9 @@ A growing toolkit of Python scripts for automating the boring stuff — file man
 A client-side modification framework for **Miniblox** — built for players who want more control over their game experience. Waddle provides a clean foundation for building, loading, and managing custom game enhancements without the usual headaches.
 > `JavaScript` · `Client Framework` · `Game Modding`
 
-### [Javascript Programs](https://github.com/TheM1ddleM1n/JavascriptPrograms)
-A growing collection of self-contained JavaScript programs — covering algorithms, data structures, utility helpers, DOM projects, and mini games. No dependencies, just plain JavaScript.
+### [JavascriptPrograms](https://github.com/TheM1ddleM1n/JavascriptPrograms)
+A growing collection of self-contained JavaScript programs — covering algorithms, data structures, utility helpers, DOM projects, minigames and more! No dependencies, just plain JavaScript.
 > `JavaScript` · `Algorithms` · `DOM` · `Mini Games`
----
 ---
 
 ## People I Code With 4 Miniblox
