@@ -109,5 +109,3 @@ Full schedule: [devguide.python.org/versions](https://devguide.python.org/versio
 ## Contribution Activity
 
 ![Pacman Graph](https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/output/pacman-contribution-graph.svg)
-
----
