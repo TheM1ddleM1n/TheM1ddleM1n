@@ -95,7 +95,7 @@ Each Python version gets ~2 years of full bug-fix releases, then ~3 years of sec
 | 3.10 | Oct 2021 | Oct 31, 2026 | 🟠 Security-only — migrate soon |
 | 3.11 | Oct 2022 | Oct 31, 2027 | 🟡 Security-only |
 | 3.12 | Oct 2023 | Oct 31, 2028 | 🟢 Active support |
-| 3.13 | Oct 2024 | Oct 31, 2029 | ✅ **Recommended** |
+| 3.13 | Oct 2024 | Oct 31, 2029 | ✅ **This is recommended** |
 | 3.14 | Oct 2025 | Oct 31, 2030 | 🟢 Latest |
 
 If your project still targets 3.10, start planning a migration — it reaches end of life in just 5 months. Check your version with:
