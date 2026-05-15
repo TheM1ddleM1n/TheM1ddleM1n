@@ -86,6 +86,37 @@ A growing collection of self-contained JavaScript programs — covering algorith
 ## Python Version Lifecycle
 
 <!-- PYTHON_VERSIONS_START -->
+> **Recommended: Python 3.13** — stable, fully supported, and widely compatible with modern libraries. **3.14** is available if you want the latest but may have rough edges in some packages. And it might not work on all computers
+
+Each Python version gets ~2 years of full bug-fix releases, then ~3 years of security-only patches, for a total of 5 years of support. After that it's EOL — no more patches, ever.
+
+| Version | Released | EOL Date | Status |
+|---------|----------|----------|--------|
+| 2.6 | 2008-10-01 | ~~2013-10-29~~ | 🔴 EOL — stop using this |
+| 2.7 | 2010-07-03 | ~~2020-01-01~~ | 🔴 EOL — stop using this |
+| 3.0 | 2008-12-03 | ~~2009-06-27~~ | 🔴 EOL — stop using this |
+| 3.1 | 2009-06-27 | ~~2012-04-09~~ | 🔴 EOL — stop using this |
+| 3.2 | 2011-02-20 | ~~2016-02-20~~ | 🔴 EOL — stop using this |
+| 3.3 | 2012-09-29 | ~~2017-09-29~~ | 🔴 EOL — stop using this |
+| 3.4 | 2014-03-16 | ~~2019-03-18~~ | 🔴 EOL — stop using this |
+| 3.5 | 2015-09-13 | ~~2020-09-30~~ | 🔴 EOL — stop using this |
+| 3.6 | 2016-12-23 | ~~2021-12-23~~ | 🔴 EOL — stop using this |
+| 3.7 | 2018-06-27 | ~~2023-06-27~~ | 🔴 EOL — stop using this |
+| 3.8 | 2019-10-14 | ~~2024-10-07~~ | 🔴 EOL — stop using this |
+| 3.9 | 2020-10-05 | ~~2025-10-31~~ | 🔴 EOL — stop using this |
+| 3.10 | 2021-10-04 | 2026-10-31 | 🟠 Security-only — migrate soon |
+| 3.11 | 2022-10-24 | 2027-10-31 | 🟡 Security-only |
+| 3.12 | 2023-10-02 | 2028-10-31 | 🟡 Security-only |
+| 3.13 | 2024-10-07 | 2029-10-31 | ✅ **This is recommended** |
+| 3.14 | 2025-10-07 | 2030-10-31 | 🟢 Latest |
+
+If your project still targets 3.10, start planning a migration — it reaches end of life in just 6 months. Check your version with:
+
+```bash
+python --version
+```
+
+Full schedule: [devguide.python.org/versions](https://devguide.python.org/versions/) · [endoflife.date/python](https://endoflife.date/python)
 <!-- PYTHON_VERSIONS_END -->
 
 ## Contribution Activity
