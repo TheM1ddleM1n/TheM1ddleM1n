@@ -12,92 +12,82 @@ def fetch_versions():
     with urllib.request.urlopen(API_URL) as response:
         return json.loads(response.read().decode())
 
-def classify(entry):
-    today = date.today()
+def sort_key(entry):
+    try:
+        return tuple(int(x) for x in entry["cycle"].split("."))
+    except Exception:
+        return (0,)
+
+def parse_eol(entry):
     eol = entry.get("eol")
-    lts = entry.get("lts", False)
-
     if isinstance(eol, bool):
-        is_eol = eol
-    else:
-        is_eol = datetime.strptime(eol, "%Y-%m-%d").date() <= today
+        return None, eol
+    eol_date = datetime.strptime(eol, "%Y-%m-%d").date()
+    return eol_date, eol_date <= date.today()
 
+def parse_support_end(entry):
+    support = entry.get("support")
+    if not support or isinstance(support, bool):
+        return None
+    return datetime.strptime(support, "%Y-%m-%d").date()
+
+def eol_display(entry):
+    eol_date, is_eol = parse_eol(entry)
+    if eol_date is None:
+        return "~~EOL~~" if is_eol else "Unknown"
     if is_eol:
-        return "eol"
-    if lts:
-        return "lts"
-    return "active"
+        return f"~~{eol_date}~~"
+    return str(eol_date)
 
-def status_label(entry, cycle, is_recommended):
+def status_label(entry, is_recommended, is_latest):
     today = date.today()
-    eol = entry.get("eol")
-
-    if isinstance(eol, bool):
-        eol_date = None
-        is_eol = eol
-    else:
-        eol_date = datetime.strptime(eol, "%Y-%m-%d").date()
-        is_eol = eol_date <= today
+    eol_date, is_eol = parse_eol(entry)
 
     if is_eol:
         return "🔴 EOL — stop using this"
 
-    support_end = entry.get("support")
-    if support_end and not isinstance(support_end, bool):
-        support_date = datetime.strptime(support_end, "%Y-%m-%d").date()
-        security_only = support_date <= today
-    else:
-        security_only = False
-
     if is_recommended:
-        return "✅ **Recommended**"
+        return "✅ **This is recommended**"
+
+    if is_latest:
+        return "🟢 Latest"
+
+    support_end = parse_support_end(entry)
+    security_only = support_end is not None and support_end <= today
 
     if security_only:
-        days_left = (eol_date - today).days if eol_date else None
-        if days_left is not None and days_left < 180:
+        if eol_date is not None and (eol_date - today).days < 180:
             return "🟠 Security-only — migrate soon"
         return "🟡 Security-only"
 
     return "🟢 Active support"
 
-def eol_display(entry):
-    eol = entry.get("eol")
-    if isinstance(eol, bool):
-        return "Unknown" if not eol else "~~EOL~~"
-    today = date.today()
-    eol_date = datetime.strptime(eol, "%Y-%m-%d").date()
-    if eol_date <= today:
-        return f"~~{eol}~~"
-    return eol
-
 def build_table(versions):
     today = date.today()
-
-    active = []
-    for entry in versions:
-        eol = entry.get("eol")
-        if isinstance(eol, bool):
-            is_eol = eol
-        else:
-            is_eol = datetime.strptime(eol, "%Y-%m-%d").date() <= today
-        if not is_eol:
-            active.append(entry)
-
-    def sort_key(e):
-        try:
-            return tuple(int(x) for x in e["cycle"].split("."))
-        except Exception:
-            return (0,)
-
-    active_sorted = sorted(active, key=sort_key)
     all_sorted = sorted(versions, key=sort_key)
 
-    recommended_cycle = active_sorted[-2]["cycle"] if len(active_sorted) >= 2 else (active_sorted[-1]["cycle"] if active_sorted else None)
+    active = [e for e in all_sorted if not parse_eol(e)[1]]
+
+    recommended = active[-2] if len(active) >= 2 else (active[-1] if active else None)
+    latest = active[-1] if active else None
+
+    recommended_cycle = recommended["cycle"] if recommended else "?"
+    latest_cycle = latest["cycle"] if latest else "?"
+
+    eol_entries = [e for e in all_sorted if parse_eol(e)[1]]
+    upcoming_eol = next(
+        (e for e in all_sorted if not parse_eol(e)[1] and parse_support_end(e) and parse_support_end(e) <= today),
+        None
+    )
 
     lines = []
-    lines.append("> **Recommended: Python " + (recommended_cycle or "?") + "** — stable, fully supported, and widely compatible with modern libraries. The latest version is available if you want cutting-edge features but may have rough edges in some packages.")
+    lines.append(
+        f"> **Recommended: Python {recommended_cycle}** — stable, fully supported, and widely compatible with modern libraries. "
+        f"**{latest_cycle}** is available if you want the latest but may have rough edges in some packages. "
+        f"And it might not work on all computers"
+    )
     lines.append("")
-    lines.append("Each Python version gets ~2 years of full bug-fix releases, then ~3 years of security-only patches, totalling 5 years of support.")
+    lines.append("Each Python version gets ~2 years of full bug-fix releases, then ~3 years of security-only patches, for a total of 5 years of support. After that it's EOL — no more patches, ever.")
     lines.append("")
     lines.append("| Version | Released | EOL Date | Status |")
     lines.append("|---------|----------|----------|--------|")
@@ -105,12 +95,28 @@ def build_table(versions):
     for entry in all_sorted:
         cycle = entry.get("cycle", "?")
         released = entry.get("releaseDate", "?")
-        eol_str = eol_display(entry)
-        label = status_label(entry, cycle, cycle == recommended_cycle)
-        lines.append(f"| {cycle} | {released} | {eol_str} | {label} |")
+        is_recommended = cycle == recommended_cycle
+        is_latest = cycle == latest_cycle and cycle != recommended_cycle
+        label = status_label(entry, is_recommended, is_latest)
+        lines.append(f"| {cycle} | {released} | {eol_display(entry)} | {label} |")
 
     lines.append("")
-    lines.append("Check your version with:")
+
+    if upcoming_eol:
+        eol_date, _ = parse_eol(upcoming_eol)
+        days_left = (eol_date - today).days if eol_date else None
+        if days_left is not None:
+            months_left = round(days_left / 30)
+            lines.append(
+                f"If your project still targets {upcoming_eol['cycle']}, start planning a migration — "
+                f"it reaches end of life in just {months_left} month{'s' if months_left != 1 else ''}. "
+                f"Check your version with:"
+            )
+        else:
+            lines.append("Check your version with:")
+    else:
+        lines.append("Check your version with:")
+
     lines.append("")
     lines.append("```bash")
     lines.append("python --version")
