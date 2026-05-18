@@ -8,7 +8,7 @@ API_URL = "https://endoflife.date/api/python.json"
 README_PATH = "README.md"
 TABLE_START = "<!-- PYTHON_VERSIONS_START -->"
 TABLE_END = "<!-- PYTHON_VERSIONS_END -->"
-MIN_VERSION = (3, 8)
+MIN_VERSION = (3, 10)
 
 
 def version_sort_key(entry):
