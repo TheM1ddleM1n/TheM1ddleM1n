@@ -92,8 +92,6 @@ Each Python version gets ~2 years of full bug-fix releases, then ~3 years of sec
 
 | Version | Released | EOL Date | Months Until EOL | Status |
 |---------|----------|----------|------------------|--------|
-| 3.8 | 2019-10-14 | ~~2024-10-07~~ | — | 🔴 EOL — stop using this |
-| 3.9 | 2020-10-05 | ~~2025-10-31~~ | — | 🔴 EOL — stop using this |
 | 3.10 | 2021-10-04 | 2026-10-31 | 5mo | 🟠 Security-only — migrate soon |
 | 3.11 | 2022-10-24 | 2027-10-31 | 17mo | 🟠 Security-only — migrate soon |
 | 3.12 | 2023-10-02 | 2028-10-31 | 29mo | 🟠 Security-only — migrate soon |
