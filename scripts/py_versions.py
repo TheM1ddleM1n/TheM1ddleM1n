@@ -11,14 +11,7 @@ TABLE_END = "<!-- PYTHON_VERSIONS_END -->"
 MIN_VERSION = (3, 10)
 
 
-def version_sort_key(entry):
-    try:
-        return tuple(int(x) for x in entry["cycle"].split("."))
-    except Exception:
-        return (0,)
-
-
-def version_tuple(entry):
+def version_key(entry):
     try:
         return tuple(int(x) for x in entry["cycle"].split("."))
     except Exception:
@@ -51,7 +44,7 @@ def months_between(from_date, to_date):
     months = (to_date.year - from_date.year) * 12 + (to_date.month - from_date.month)
     if to_date.day < from_date.day:
         months -= 1
-    return months
+    return max(0, months)
 
 
 def eol_display(eol_date, is_eol):
@@ -71,36 +64,27 @@ def months_until_eol_display(eol_date, is_eol):
     return f"{months}mo"
 
 
-def status_label(is_eol, is_recommended, is_latest, support_end):
-    today = date.today()
+def status_label(is_eol, is_recommended, is_latest, support_end, today):
     if is_eol:
         return "🔴 EOL — stop using this"
     if is_recommended:
         return "✅ **This is recommended**"
     if is_latest:
         return "🟢 Latest"
-    security_only = support_end is not None and support_end <= today
-    if security_only:
+    if support_end is not None and support_end <= today:
         return "🟠 Security-only — migrate soon"
     return "🟡 Security-only"
 
 
-def format_row(entry, recommended_cycle, latest_cycle):
-    today = date.today()
+def format_row(entry, recommended_cycle, latest_cycle, today, parsed_dates):
+    eol_date, is_eol, support_end = parsed_dates
     cycle = entry.get("cycle", "?")
     released = entry.get("releaseDate", "?")
-    eol_date, is_eol, support_end = parse_entry_dates(entry)
 
     is_recommended = cycle == recommended_cycle
     is_latest = cycle == latest_cycle and cycle != recommended_cycle
 
-    security_only = (
-        not is_eol
-        and support_end is not None
-        and support_end <= today
-    )
-
-    label = status_label(is_eol, is_recommended, is_latest, support_end)
+    label = status_label(is_eol, is_recommended, is_latest, support_end, today)
     eol_col = eol_display(eol_date, is_eol)
     months_col = months_until_eol_display(eol_date, is_eol)
 
@@ -126,14 +110,15 @@ def build_table(versions):
     today = date.today()
 
     all_sorted = sorted(
-        (e for e in versions if version_tuple(e) >= MIN_VERSION),
-        key=version_sort_key
+        (e for e in versions if version_key(e) >= MIN_VERSION),
+        key=version_key
     )
 
     if not all_sorted:
         raise RuntimeError("No versions matched the minimum version filter")
 
-    active = [e for e in all_sorted if not parse_entry_dates(e)[1]]
+    parsed = {e["cycle"]: parse_entry_dates(e) for e in all_sorted}
+    active = [e for e in all_sorted if not parsed[e["cycle"]][1]]
 
     recommended = active[-2] if len(active) >= 2 else (active[-1] if active else None)
     latest = active[-1] if active else None
@@ -144,9 +129,9 @@ def build_table(versions):
     upcoming_eol = next(
         (
             e for e in all_sorted
-            if not parse_entry_dates(e)[1]
-            and parse_entry_dates(e)[0] is not None
-            and months_between(today, parse_entry_dates(e)[0]) <= 12
+            if not parsed[e["cycle"]][1]
+            and parsed[e["cycle"]][0] is not None
+            and months_between(today, parsed[e["cycle"]][0]) <= 12
         ),
         None
     )
@@ -160,12 +145,12 @@ def build_table(versions):
         "",
         "| Version | Released | EOL Date | Months Until EOL | Status |",
         "|---------|----------|----------|------------------|--------|",
-        *[format_row(e, recommended_cycle, latest_cycle) for e in all_sorted],
+        *[format_row(e, recommended_cycle, latest_cycle, today, parsed[e["cycle"]]) for e in all_sorted],
         "",
     ]
 
     if upcoming_eol:
-        eol_date, _, _ = parse_entry_dates(upcoming_eol)
+        eol_date, _, _ = parsed[upcoming_eol["cycle"]]
         months_left = months_between(today, eol_date)
         lines.append(
             f"If your project still targets {upcoming_eol['cycle']}, start planning a migration — "
