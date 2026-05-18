@@ -83,30 +83,6 @@ A growing collection of self-contained JavaScript programs — covering algorith
 
 ---
 
-## Python Version Lifecycle
-
-<!-- PYTHON_VERSIONS_START -->
-> **Recommended: Python 3.13** — stable, fully supported, and widely compatible with modern libraries. **3.14** is available if you want the latest but may have rough edges in some packages. And it might not work on all computers
-
-Each Python version gets ~2 years of full bug-fix releases, then ~3 years of security-only patches, for a total of 5 years of support. After that it's EOL — no more patches, ever.
-
-| Version | Released | EOL Date | Months Until EOL | Status |
-|---------|----------|----------|------------------|--------|
-| 3.10 | 2021-10-04 | 2026-10-31 | 5mo | 🟠 Security-only — migrate soon |
-| 3.11 | 2022-10-24 | 2027-10-31 | 17mo | 🟠 Security-only — migrate soon |
-| 3.12 | 2023-10-02 | 2028-10-31 | 29mo | 🟠 Security-only — migrate soon |
-| 3.13 | 2024-10-07 | 2029-10-31 | 41mo | ✅ **This is recommended** |
-| 3.14 | 2025-10-07 | 2030-10-31 | 53mo | 🟢 Latest |
-
-If your project still targets 3.10, start planning a migration — it reaches end of life in just 5 months. Check your version with:
-
-```bash
-python --version
-```
-
-Full schedule: [devguide.python.org/versions](https://devguide.python.org/versions/) · [endoflife.date/python](https://endoflife.date/python)
-<!-- PYTHON_VERSIONS_END -->
-
 ## Contribution Activity
 
 ![Pacman Graph](https://raw.githubusercontent.com/TheM1ddleM1n/TheM1ddleM1n/output/pacman-contribution-graph.svg)
