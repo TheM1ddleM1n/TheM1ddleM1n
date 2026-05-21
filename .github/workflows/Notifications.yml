@@ -1,4 +1,4 @@
-name: Mark All Notifications
+name: Mark Notifications
 
 on:
   schedule:
