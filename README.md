@@ -18,7 +18,7 @@ I build tools that make code more fun and workflows less tedious. I'm scripting 
 
 ## My Featured Projects
 
-### [PythonProgramsV3](https://github.com/TheM1ddleM1n/PythonProgramsV3)
+### [PythonPrograms](https://github.com/TheM1ddleM1n/PythonPrograms)
 A growing toolkit of Python scripts for automating the boring stuff — file management, CLI utilities, workflow helpers, and more. Built to be practical and easy to drop into your own projects.
 > `Python` · `Automation` · `CLI`
 
@@ -29,42 +29,6 @@ A client-side modification framework for **Miniblox** — built for players who 
 ### [JavascriptPrograms](https://github.com/TheM1ddleM1n/JavascriptPrograms)
 A growing collection of self-contained JavaScript programs — covering algorithms, data structures, utility helpers, DOM projects, minigames and more! No dependencies, just plain JavaScript.
 > `JavaScript` · `Algorithms` · `DOM` · `Mini Games`
----
-
-## People I Code With 4 Miniblox
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/joudaALT">
-        <img src="https://github.com/joudaALT.png" width="80px" style="border-radius:50%;" /><br>
-        <sub><b><u>joudaALT</u></b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/mochiflower">
-        <img src="https://github.com/mochiflower.png" width="80px" style="border-radius:50%;" /><br>
-        <sub><b><u>mochiflower</u></b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ZeefilTheOfficial">
-        <img src="https://github.com/ZeefilTheOfficial.png" width="80px" style="border-radius:50%;" /><br>
-        <sub><b><u>ZeefilTheOfficial</u></b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ahnafswe">
-        <img src="https://github.com/ahnafswe.png" width="80px" style="border-radius:50%;" /><br>
-        <sub><b><u>ahnafswe</u></b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ---
 ## Operating System I use
