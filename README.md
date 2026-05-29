@@ -31,8 +31,11 @@ A growing collection of self-contained JavaScript programs — covering algorith
 > `JavaScript` · `Algorithms` · `DOM` · `Mini Games`
 
 ---
+
 ## Operating System I use
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=flat&logo=windows&logoColor=white)
+![CMD](https://img.shields.io/badge/CMD-4D4D4D?style=flat&logo=windowsterminal&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
 ## Tools I Use
 
@@ -44,8 +47,6 @@ A growing collection of self-contained JavaScript programs — covering algorith
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![CMD](https://img.shields.io/badge/CMD-4D4D4D?style=flat&logo=windowsterminal&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
 ---
 
