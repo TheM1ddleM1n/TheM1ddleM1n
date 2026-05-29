@@ -45,7 +45,7 @@ A growing collection of self-contained JavaScript programs — covering algorith
 
 ---
 
-## Operating System I use
+## OS I use
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=flat&logo=windows&logoColor=white)
 ![CMD](https://img.shields.io/badge/CMD-4D4D4D?style=flat&logo=windowsterminal&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
