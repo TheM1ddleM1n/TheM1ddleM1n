@@ -2,7 +2,7 @@ name: Mark Notifications
 
 on:
   schedule:
-    - cron: '0 0 */7 * *'  # Runs every 7 days at midnight UTC
+    - cron: '0 0 */14 * *'  # Runs every 14 days at midnight (Because this is not needed as much lol)
   workflow_dispatch:
 
 jobs:
@@ -27,7 +27,6 @@ jobs:
             https://api.github.com/notifications \
             -d '{"last_read_at":"'"$TIMESTAMP"'"}')
           
-          # Extract HTTP code and response body
           HTTP_CODE=$(echo "$RESPONSE" | tail -n1)
           BODY=$(echo "$RESPONSE" | sed '$d')
           
@@ -44,7 +43,7 @@ jobs:
             exit 1
           fi
 
-      - name: Get notification count
+      - name: Count Notifications
         if: success()
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
@@ -56,7 +55,7 @@ jobs:
             https://api.github.com/notifications | jq '. | length')
           echo "Remaining unread notifications: $COUNT"
 
-      - name: Log execution summary
+      - name: Summary
         if: always()
         run: |
           echo "----------------------------------------"
