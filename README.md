@@ -6,7 +6,9 @@
 
 I build tools that make code more fun and workflows less tedious. I'm scripting something that probably shouldn't be automated — but is.
 
-### 🎉 Lets get back to 1000 followers!
+### About Me
+
+I'm a self-taught developer with a passion for automation, game modding, and building things that solve real problems. I spend most of my time writing Python scripts and JavaScript utilities, and I'm always looking for new projects to sink my teeth into. Open to collaborations — feel free to reach out!
 
 [![Profile Views](https://komarev.com/ghpvc/?username=TheM1ddleM1n&color=6EB891&style=flat-square&label=Views)](https://github.com/TheM1ddleM1n)
 [![Followers](https://img.shields.io/github/followers/TheM1ddleM1n?label=Followers&style=flat-square&color=6EB891)](https://github.com/TheM1ddleM1n?tab=followers)
@@ -32,10 +34,24 @@ A growing collection of self-contained JavaScript programs — covering algorith
 
 ---
 
+## What I'm Building
+
+- Working on expanding **PythonPrograms** with new automation scripts
+- Experimenting with new features for **Waddle**
+- Always tinkering with something that probably shouldn't be automated — but will be
+
+### 🎉 Lets get back to 1000 followers!
+
+[![Followers](https://img.shields.io/github/followers/TheM1ddleM1n?label=Followers&style=flat-square&color=6EB891)](https://github.com/TheM1ddleM1n?tab=followers)
+
+---
+
 ## Operating System I use
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=flat&logo=windows&logoColor=white)
 ![CMD](https://img.shields.io/badge/CMD-4D4D4D?style=flat&logo=windowsterminal&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+
+---
 
 ## Tools I Use
 
@@ -47,6 +63,8 @@ A growing collection of self-contained JavaScript programs — covering algorith
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![CMD](https://img.shields.io/badge/CMD-4D4D4D?style=flat&logo=windowsterminal&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
 ---
 
