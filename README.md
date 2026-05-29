@@ -36,7 +36,6 @@ A growing collection of self-contained JavaScript programs — covering algorith
 ## What I'm Building
 
 - Working on expanding **PythonPrograms** with new automation scripts
-- Experimenting with new features for **Waddle**
 - Always tinkering with something that probably shouldn't be automated — but will be
 
 ### 🎉 Lets get back to 1000 followers!
