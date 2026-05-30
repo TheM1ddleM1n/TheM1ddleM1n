@@ -31,6 +31,18 @@ A client-side modification framework for **Miniblox** — built for players who 
 A growing collection of self-contained JavaScript programs — covering algorithms, data structures, utility helpers, DOM projects, minigames and more! No dependencies, just plain JavaScript.
 > `JavaScript` · `Algorithms` · `DOM` · `Mini Games`
 
+### [Win11Atlas](https://github.com/TheM1ddleM1n/Win11Atlas)
+A curated collection of tweaks, configurations, and optimizations for Windows 11 — built for users who want a cleaner, faster, and more controlled Windows experience.
+> `Windows 11` · `Tweaks` · `Optimization`
+
+---
+
+## Collaborations
+
+### [Racing Car Game](https://github.com/VIDAKHOSHPEY22/Racing-car-game)
+A browser-based racing game built in collaboration with [VIDAKHOSHPEY22](https://github.com/VIDAKHOSHPEY22). Jump in, hit the track, and see how fast you can go.
+> `JavaScript` · `Game` · `Collaboration`
+
 ---
 
 ## What I'm Building
