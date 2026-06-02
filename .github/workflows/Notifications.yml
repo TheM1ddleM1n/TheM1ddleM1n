@@ -2,35 +2,45 @@ name: Mark Notifications
 
 on:
   schedule:
-    - cron: '0 0 */14 * *'  # Runs every 14 days at midnight (Because this is not needed as much lol)
+    - cron: '0 0 */14 * *'
   workflow_dispatch:
 
 jobs:
   mark-read:
     runs-on: ubuntu-latest
-    
+
     steps:
+      - name: Check for unread notifications
+        id: check_notifications
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
+        run: |
+          COUNT=$(curl -s \
+            -H "Authorization: token $GITHUB_TOKEN" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/notifications | jq '. | length')
+          echo "Unread notifications: $COUNT"
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+
       - name: Mark all notifications as read
         id: mark_notifications
+        if: steps.check_notifications.outputs.count != '0'
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
         run: |
           echo "Starting notification marking process..."
-          
-          # Get current timestamp
+
           TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
-          
-          # Make API request with improved error handling
+
           RESPONSE=$(curl -s -w "\n%{http_code}" -X PUT \
             -H "Authorization: token $GITHUB_TOKEN" \
             -H "Accept: application/vnd.github.v3+json" \
             https://api.github.com/notifications \
             -d '{"last_read_at":"'"$TIMESTAMP"'"}')
-          
+
           HTTP_CODE=$(echo "$RESPONSE" | tail -n1)
           BODY=$(echo "$RESPONSE" | sed '$d')
-          
-          # Check for success (205 Reset Content or 200 OK)
+
           if [ "$HTTP_CODE" -eq 205 ] || [ "$HTTP_CODE" -eq 200 ]; then
             echo "✓ Successfully marked all notifications as read"
             echo "Timestamp: $TIMESTAMP"
@@ -43,18 +53,6 @@ jobs:
             exit 1
           fi
 
-      - name: Count Notifications
-        if: success()
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT }}
-        run: |
-          echo "Checking (if any) remaining notifications..."
-          COUNT=$(curl -s \
-            -H "Authorization: token $GITHUB_TOKEN" \
-            -H "Accept: application/vnd.github.v3+json" \
-            https://api.github.com/notifications | jq '. | length')
-          echo "Remaining unread notifications: $COUNT"
-
       - name: Summary
         if: always()
         run: |
@@ -63,5 +61,6 @@ jobs:
           echo "----------------------------------------"
           echo "Completed at: $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
           echo "Job status: ${{ job.status }}"
-          echo "Mark status: ${{ steps.mark_notifications.outputs.status }}"
+          echo "Unread count at start: ${{ steps.check_notifications.outputs.count }}"
+          echo "Mark status: ${{ steps.mark_notifications.outputs.status || 'skipped (no notifications)' }}"
           echo "----------------------------------------"
