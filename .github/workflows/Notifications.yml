@@ -13,7 +13,7 @@ jobs:
       - name: Check for unread notifications
         id: check_notifications
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT }}
+          GITHUB_TOKEN: ${{ secrets.NOTIFICATIONS }}
         run: |
           COUNT=$(curl -s \
             -H "Authorization: token $GITHUB_TOKEN" \
@@ -26,21 +26,17 @@ jobs:
         id: mark_notifications
         if: steps.check_notifications.outputs.count != '0'
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT }}
+          GITHUB_TOKEN: ${{ secrets.NOTIFICATIONS }}
         run: |
           echo "Starting notification marking process..."
-
           TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
-
           RESPONSE=$(curl -s -w "\n%{http_code}" -X PUT \
             -H "Authorization: token $GITHUB_TOKEN" \
             -H "Accept: application/vnd.github.v3+json" \
             https://api.github.com/notifications \
             -d '{"last_read_at":"'"$TIMESTAMP"'"}')
-
           HTTP_CODE=$(echo "$RESPONSE" | tail -n1)
           BODY=$(echo "$RESPONSE" | sed '$d')
-
           if [ "$HTTP_CODE" -eq 205 ] || [ "$HTTP_CODE" -eq 200 ]; then
             echo "✓ Successfully marked all notifications as read"
             echo "Timestamp: $TIMESTAMP"
