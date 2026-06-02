@@ -54,6 +54,8 @@ A browser-based racing game built in collaboration with [VIDAKHOSHPEY22](https:/
 
 [![Followers](https://img.shields.io/github/followers/TheM1ddleM1n?label=Followers&style=flat-square&color=6EB891)](https://github.com/TheM1ddleM1n?tab=followers)
 
+[![committers.top badge](https://user-badge.committers.top/uk/TheM1ddleM1n.svg)](https://user-badge.committers.top/uk/TheM1ddleM1n)
+
 ---
 
 ## OS I use
