@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hello everyone TheM1ddleM1n here!
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6EB891&center=true&vCenter=true&width=500&lines=Full-Stack+Dev+%F0%9F%92%BB;Python+Automation+Expert+%F0%9F%90%8D;Open+to+collabs+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6EB891&center=true&vCenter=true&width=500&lines=Hello+everyone%2C+TheM1ddleM1n+here!+%F0%9F%91%8B;Full-Stack+Dev+%F0%9F%92%BB;Python+Automation+Expert+%F0%9F%90%8D;Open+to+collabs+%E2%9C%A8)](https://git.io/typing-svg)
 
 I build tools that make code more fun and workflows less tedious. I'm scripting something that probably shouldn't be automated — but is.
 
