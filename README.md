@@ -8,7 +8,7 @@ I build tools that make code more fun and workflows less tedious! I'm scripting 
 
 ### About Me
 
-I'm a self-taught developer with a passion for automation, game modding, and building things that solve real problems. I spend most of my time writing Python scripts and JavaScript utilities, and I'm always looking for new projects to sink my teeth into. Open to collaborations — feel free to reach out!
+I'm a self-taught developer with a passion for automation, game modding, and building things that solve real problems. I spend most of my time writing Python scripts and JavaScript utilities, and I'm always looking for new projects to sink my teeth into.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=TheM1ddleM1n&color=6EB891&style=flat-square&label=Views)](https://github.com/TheM1ddleM1n)
 [![Stars](https://img.shields.io/github/stars/TheM1ddleM1n?label=Stars&style=flat-square&color=6EB891)](https://github.com/TheM1ddleM1n?tab=repositories)
