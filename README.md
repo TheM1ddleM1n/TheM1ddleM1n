@@ -39,7 +39,7 @@ A curated collection of tweaks, configurations, and optimizations for Windows 11
 
 ## Collaborations
 
-### [Racing Car Game](https://github.com/VIDAKHOSHPEY22/Racing-car-game)
+### [Atari Racer](https://github.com/VIDAKHOSHPEY22/Atari-Racer)
 A terminal-based racing game built in collaboration with [VIDAKHOSHPEY22](https://github.com/VIDAKHOSHPEY22). Jump in, hit the track, and see how fast you can go.
 > `JavaScript` · `Game` · `Collaboration`
 
