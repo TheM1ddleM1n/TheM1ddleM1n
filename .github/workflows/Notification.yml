@@ -1,8 +1,8 @@
-name: Mark Notifications
+name: Mark Notification
 
 on:
   schedule:
-    - cron: '0 0 */14 * *'
+    - cron: '0 0 */20 * *'
   workflow_dispatch:
 
 jobs:
@@ -28,7 +28,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.NOTIFICATIONS }}
         run: |
-          echo "Starting notification marking process..."
+          echo "Marking notifications..."
           TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
           RESPONSE=$(curl -s -w "\n%{http_code}" -X PUT \
             -H "Authorization: token $GITHUB_TOKEN" \
@@ -38,11 +38,11 @@ jobs:
           HTTP_CODE=$(echo "$RESPONSE" | tail -n1)
           BODY=$(echo "$RESPONSE" | sed '$d')
           if [ "$HTTP_CODE" -eq 205 ] || [ "$HTTP_CODE" -eq 200 ]; then
-            echo "✓ Successfully marked all notifications as read"
+            echo "✓ Successfully marked all notifications!"
             echo "Timestamp: $TIMESTAMP"
             echo "status=success" >> $GITHUB_OUTPUT
           else
-            echo "✗ Failed to mark notifications as read"
+            echo "✗ 404! Failed to mark notifications."
             echo "HTTP Status: $HTTP_CODE"
             echo "Response: $BODY"
             echo "status=failure" >> $GITHUB_OUTPUT
@@ -52,8 +52,6 @@ jobs:
       - name: Summary
         if: always()
         run: |
-          echo "----------------------------------------"
-          echo "Workflow Execution Summary"
           echo "----------------------------------------"
           echo "Completed at: $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
           echo "Job status: ${{ job.status }}"
