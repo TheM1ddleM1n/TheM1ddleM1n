@@ -24,8 +24,8 @@ A growing toolkit of Python scripts for automating the boring stuff — file man
 > `Python` · `Automation` · `CLI`
 
 ### [Waddle](https://github.com/TheM1ddleM1n/Waddle)
-A client-side modification framework for **Miniblox** — built for players who want more control over their game experience. Waddle provides a clean foundation for building, loading, and managing custom game enhancements without the usual headaches. Waddle is discontinued.
-> `JavaScript` · `Client Framework` · `Game Modding` · `discontinued`
+A client-side modification framework for **Miniblox** — built for players who want more control over their game experience. Waddle provides a clean foundation for building, loading, and managing custom game enhancements without the usual headaches. **Waddle is discontinued.**
+> `JavaScript` · `Client Framework` · `Game Modding` · `Discontinued Client`
 
 ### [JavascriptPrograms](https://github.com/TheM1ddleM1n/JavascriptPrograms)
 A growing collection of self-contained JavaScript programs — covering algorithms, data structures, utility helpers, DOM projects, minigames and more! No dependencies, just plain JavaScript.
@@ -41,7 +41,7 @@ A curated collection of tweaks, configurations, and optimizations for Windows 11
 
 ### [Atari Racer](https://github.com/VIDAKHOSHPEY22/Atari-Racer)
 A terminal-based racing game built in collaboration with [VIDAKHOSHPEY22](https://github.com/VIDAKHOSHPEY22). Jump in, hit the track, and see how fast you can go.
-> `JavaScript` · `Game` · `Collaboration`
+> `Python` · `Racing Game` · `Collaboration`
 
 ---
 
