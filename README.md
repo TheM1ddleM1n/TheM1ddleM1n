@@ -45,10 +45,6 @@ A terminal-based racing game built in collaboration with [VIDAKHOSHPEY22](https:
 
 ---
 
-## What I'm Building
-
-- Working on expanding **PythonPrograms** with new automation scripts
-
 ### Help me reach 1000 followers!
 
 [![Followers](https://img.shields.io/github/followers/TheM1ddleM1n?label=Followers&style=flat-square&color=6EB891)](https://github.com/TheM1ddleM1n?tab=followers)
