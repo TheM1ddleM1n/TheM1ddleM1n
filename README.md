@@ -39,13 +39,13 @@ A curated collection of tweaks, configurations, and optimizations for Windows 11
 A terminal-based racing game built in collaboration with [VIDAKHOSHPEY22](https://github.com/VIDAKHOSHPEY22). Jump in, hit the track, and see how fast you can go.
 > `Python` · `Racing Game` · `Collab`
 
-### [Unverified V2](https://github.com/wytlines100/UnverfiedV2)
-The greatest Miniblox Client of all time! 
+### [UnverifiedV2](https://github.com/wytlines100/UnverfiedV2)
+The greatest Miniblox Client of all time always getting improved to stand out from others!
 > `Javascript` · `Tampermonkey` · `Collab` · `Client Framework`
 
 ---
 
-### Help me reach 1000 followers!
+### Please help me reach 1000 followers!
 
 [![Followers](https://img.shields.io/github/followers/TheM1ddleM1n?label=Followers&style=flat-square&color=6EB891)](https://github.com/TheM1ddleM1n?tab=followers)
 
