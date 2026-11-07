@@ -1,7 +1,7 @@
-name: Pacman
+name: pacman
 
 on:
-  schedule: # executes at 00:00 every 2 days
+  schedule:
     - cron: "0 0 */2 * *"
 
   workflow_dispatch:
