@@ -24,7 +24,7 @@ jobs:
       - name: Setup Node.js with increased memory
         uses: actions/setup-node@v3
         with:
-          node-version: '20'
+          node-version: '24'
         env:
           NODE_OPTIONS: --max-old-space-size=8192
 
