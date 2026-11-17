@@ -63,6 +63,7 @@ The greatest Miniblox Client of all time always getting improved to stand out fr
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![CMD](https://img.shields.io/badge/CMD-4D4D4D?style=flat&logo=windowsterminal&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 
 ---
 
